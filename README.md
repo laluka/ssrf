@@ -1,4 +1,4 @@
-# SSRF - Simple Stream Resource Finder
+# Simple Stream Resource Finder
 
 A minimalist web application to search and browse through stream resources.
 

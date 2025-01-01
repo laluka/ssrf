@@ -6,10 +6,11 @@ import { Background } from './components/Background';
 import { LoadingState } from './components/LoadingState';
 import { ErrorState } from './components/ErrorState';
 import { StreamGuidelines } from './components/StreamGuidelines';
+import { Title } from './components/Title';
 import { searchStreams } from './utils/search';
 import { useStreamData } from './hooks/useStreamData';
 
-const ITEMS_PER_PAGE = 12; // Show 12 items per page (4 rows × 3 columns)
+const ITEMS_PER_PAGE = 12;
 
 function App() {
   const { streams, loading, error } = useStreamData();
@@ -38,10 +39,7 @@ function App() {
       
       <div className="max-w-[1400px] mx-auto relative">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold mb-2 text-transparent bg-clip-text 
-                         bg-gradient-to-r from-purple-400 via-twitch-purple to-blue-500">
-            SSRF - Simple Stream Resource Finder
-          </h1>
+          <Title />
           <p className="text-gray-400">
             Search through {filteredStreams.length} resources from past streams
           </p>

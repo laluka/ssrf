@@ -1,0 +1,55 @@
+.neonTitle {
+  font-size: 4rem;
+  font-weight: 800;
+  text-align: center;
+  color: transparent;
+  background: linear-gradient(to right, #4158D0, #C850C0, #FFCC70);
+  -webkit-background-clip: text;
+  background-clip: text;
+  filter: drop-shadow(0 0 0.1rem #4158D0);
+  position: relative;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+  padding: 0.5rem 0;
+}
+
+.neonTitle::before,
+.neonTitle::after {
+  content: "Simple Stream Resource Finder";
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  -webkit-background-clip: text;
+  background-clip: text;
+  opacity: 0.5;
+  animation: pulse 2s infinite;
+}
+
+.neonTitle::before {
+  filter: blur(12px);
+  z-index: -2;
+  animation-delay: -1s;
+}
+
+.neonTitle::after {
+  filter: blur(6px);
+  z-index: -1;
+  opacity: 0.3;
+}
+
+@keyframes pulse {
+  0%, 100% { 
+    opacity: 0.5;
+    transform: scale(1.005);
+  }
+  50% { 
+    opacity: 0.3;
+    transform: scale(0.995);
+  }
+}
+
+@media (max-width: 640px) {
+  .neonTitle {
+    font-size: 2.5rem;
+  }
+}
