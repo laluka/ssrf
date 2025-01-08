@@ -16,6 +16,7 @@ A minimalist web application to search and browse through stream resources.
 - Tailwind CSS
 - Lucide Icons
 - Papa Parse for CSV handling
+- GitHub Actions for CI/CD
 
 ## Development
 
@@ -28,6 +29,9 @@ npm run dev
 
 # Build for production
 npm run build
+
+# Audit & fix
+npm audit fix
 ```
 
 ## Data Source
