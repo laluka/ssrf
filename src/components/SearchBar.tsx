@@ -1,22 +1,23 @@
 import React from 'react';
 import { Search, BookOpen, MessageCircle, Share2 } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import { IconButton } from './common/IconButton';
 
 interface SearchBarProps {
   searchTerm: string;
   onSearch: (value: string) => void;
-  onGuidelinesClick: () => void;
 }
 
-export function SearchBar({ searchTerm, onSearch, onGuidelinesClick }: SearchBarProps) {
+export function SearchBar({ searchTerm, onSearch }: SearchBarProps) {
   return (
     <div className="w-full max-w-2xl mx-auto mb-8 flex flex-col md:flex-row gap-4">
       <div className="flex justify-center gap-4 md:w-auto">
-        <IconButton
-          icon={BookOpen}
-          onClick={onGuidelinesClick}
-          title="Guidelines"
-        />
+        <Link to="/guidelines">
+          <IconButton
+            icon={BookOpen}
+            title="Guidelines"
+          />
+        </Link>
         <IconButton
           icon={MessageCircle}
           href="https://discord.com/invite/tH8wEpNKWS"
