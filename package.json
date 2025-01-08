@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --outDir docs --minify",
+    "build": "vite build --outDir docs --minify && cp docs/index.html docs/404.html",
     "lint": "eslint .",
     "preview": "vite preview"
   },
