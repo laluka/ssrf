@@ -5,7 +5,7 @@ export const guidelines = {
     { text: 'Guest MUST have a good microphone and SHOULD have decent webcam' },
     { text: 'Avoid as much as possible blueetooth headset / buds, if required, charge them 100%' },
     { text: 'If interpherences are seen (happened) keep the phone away', emoji: '🥺' },
-    { text: 'A good-enough network & CPU https://www.speedtest.net/' },
+    { text: 'A good-enough network & CPU' },
     { text: 'A live end-to-end group test a few days before the D-day' },
     { text: 'Once everything\'s ok : Don\'t change a thing, no last minute patch / update / kernel-swap!' }
   ],
@@ -22,5 +22,10 @@ export const guidelines = {
     { text: 'If you vape, drink, cough, remember to self-mute', emoji: '💕' },
     { text: 'Vape & Alcohol are OK but be discreet (mug)', emoji: '😏' },
     { text: 'Showcase personal projects is OK, make it smooth ;)' }
+  ],
+  'Then What': [
+    { text: 'Join the OffenSkill Community Discord', link: 'https://discord.com/invite/tH8wEpNKWS', emoji: '🔗' },
+    { text: 'Pick a free slot & share it with me', link: 'https://docs.google.com/spreadsheets/d/1dyQ5EOV7kfr4n1afGq2H0K3hrEH4PVxw3EwHl1GMfyE/edit', emoji: '👉' },
+    { text: 'Have a marvelous day!', emoji: '🌈' }
   ]
 };
