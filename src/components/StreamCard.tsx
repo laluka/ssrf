@@ -1,5 +1,5 @@
-import React from 'react';
-import { Youtube } from 'lucide-react';
+import React, { useState } from 'react';
+import { Youtube, ChevronDown, ChevronUp } from 'lucide-react';
 import { useSearchParams } from 'react-router-dom';
 import { StreamData } from '../types';
 import { extractYoutubeId, getYoutubeThumbnail } from '../utils/youtube';
@@ -13,6 +13,7 @@ export function StreamCard({ stream }: StreamCardProps) {
   const [thumbnailUrl, setThumbnailUrl] = React.useState<string>('');
   const [isImageLoaded, setIsImageLoaded] = React.useState(false);
   const [searchParams] = useSearchParams();
+  const [showLinks, setShowLinks] = useState(false);
 
   React.useEffect(() => {
     getYoutubeThumbnail(videoId).then(setThumbnailUrl);
@@ -23,6 +24,8 @@ export function StreamCard({ stream }: StreamCardProps) {
   const filteredLinks = searchTerm
     ? stream.covered_links.filter((link) => link.toLowerCase().includes(searchTerm))
     : stream.covered_links;
+
+  const searchLen = searchTerm.length;
 
   return (
     <div
@@ -62,21 +65,40 @@ export function StreamCard({ stream }: StreamCardProps) {
           {stream.stream_name}
         </h3>
 
-        <div className="space-y-2">
-          {filteredLinks.map((link, index) => (
-            <div key={index} className="transition-all duration-100 hover:pl-2">
-              <a
-                href={link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm text-purple-300 hover:text-purple-200 block 
-                         whitespace-nowrap overflow-hidden text-ellipsis"
-              >
-                {link}
-              </a>
-            </div>
-          ))}
-        </div>
+        {searchLen === 0 && (
+          <button
+            onClick={() => setShowLinks(!showLinks)}
+            className="flex items-center gap-1 text-gray-500 hover:text-gray-700 text-sm mt-2 mx-auto"
+          >
+            {showLinks ? (
+              <>
+                Hide links <ChevronUp size={16} />
+              </>
+            ) : (
+              <>
+                Show links <ChevronDown size={16} />
+              </>
+            )}
+          </button>
+        )}
+
+        {(searchLen > 0 || showLinks) && (
+          <div className="space-y-2">
+            {filteredLinks.map((link, index) => (
+              <div key={index} className="transition-all duration-100 hover:pl-2">
+                <a
+                  href={link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-purple-300 hover:text-purple-200 block 
+                           whitespace-nowrap overflow-hidden text-ellipsis"
+                >
+                  {link}
+                </a>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );
