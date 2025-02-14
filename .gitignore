@@ -22,5 +22,3 @@ dist-ssr
 *.sln
 *.sw?
 docs
-metadatas
-all_videos.json

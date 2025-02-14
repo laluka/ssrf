@@ -1,0 +1,3479 @@
+[
+  {
+    "title": "EP 180 | Actus Tech & Cyber Ft. @_Worty @SpawnZii",
+    "links": [
+      "https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-fat-get",
+      "https://www.wordfence.com/blog/2022/02/reflected-xss-in-header-footer-code-manager/",
+      "https://github.com/odedshimon/BruteShark",
+      "https://issues.chromium.org/issues/370856871",
+      "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
+      "https://cheatsheet.hackmanit.de/template-injection-table/",
+      "https://book.hacktricks.wiki/en/images/image%20(9).png",
+      "https://srcincite.io/blog/2024/11/25/remote-code-execution-with-spring-properties.html",
+      "https://github.com/synacktiv/laravel-crypto-killer",
+      "https://www.assetnote.io/resources/research/how-an-obscure-php-footgun-led-to-rce-in-craft-cms",
+      "https://rust-for-linux.com/rust-kernel-policy",
+      "https://youtu.be/XDAfpzjBYJQ?si=Sg6NJEimbFmD1zoV#Jeff"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=EDNU0BdgYZg",
+    "upload_date": "20250212"
+  },
+  {
+    "title": "EP 179 | Techno Watch January Ft. @Drypaints @Maltemo @pentest_swissky",
+    "links": [
+      "https://eaton-works.com/2024/12/19/mcdelivery-india-hack/",
+      "https://blog.c0nrad.io/posts/be-kind-to-self/",
+      "https://github.com/koutto/pi-pwnbox-rogueap",
+      "https://securitylab.github.com/resources/github-actions-preventing-pwn-requests/",
+      "https://www.hackster.io/zst123/fcfz-fully-compatible-flipper-zero-e686ba",
+      "https://github.com/ading2210/doompdf",
+      "https://x.com/lauriewired/status/1879630019422757195",
+      "https://github.com/darrikonn/td-cli",
+      "https://github.com/newsoft/newsoft.github.io",
+      "https://github.com/advisories/GHSA-3gpq-5q6x-q7pf",
+      "https://bughunters.google.com/blog/6355265783201792/the-great-google-password-heist-15-years-of-hacking-passwords-to-test-our-security-and-build-team-culture",
+      "https://www.linkedin.com/pulse/proud-dads-tale-two-bug-hunting-daughters-responsible-dustin-kirkland-hxwec/",
+      "https://x.com/mxrchreborn/status/1883297208587653228",
+      "https://github.com/mxrch/GHunt",
+      "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "https://massgrave.dev/",
+      "https://ghostty.org/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=K9sb8I-Y1fA",
+    "upload_date": "20250205"
+  },
+  {
+    "title": "EP 178 | Techno Watch January Ft. @Drypaints @Maltemo @pentest_swissky",
+    "links": [
+      "https://dwm.suckless.org/",
+      "https://github.com/siduck/chadwm",
+      "https://github.com/vinceliuice/Orchis-theme",
+      "https://peertube.esnhack.fr/videos/browse?s=1",
+      "https://youtu.be/6SNy0u6pYOc?si=l8KFRSRtjECll2PA",
+      "https://youtu.be/11Yv2Ru7gF8?si=u1aHdlFDkpSjkwj4",
+      "https://youtu.be/4EmstuO0Em8?si=_jNntTjA8PtApHgj",
+      "https://youtu.be/Rw3wWiD5Fto?si=lHUiGr4mAGXBn7wB",
+      "https://www.youtube.com/@topklean",
+      "https://www.youtube.com/@corkami-albertini",
+      "https://www.ambionics.io/blog/lightyear-file-dump",
+      "https://github.com/ambionics/lightyear",
+      "https://cobalt.tools/",
+      "https://github.com/tom-james-watson/Emote",
+      "https://www.safebreach.com/blog/ldapnightmare-safebreach-labs-publishes-first-proof-of-concept-exploit-for-cve-2024-49113/",
+      "https://giraffesecurity.dev/posts/amazon-hat-trick/",
+      "https://sunders.uber.space/",
+      "http://openstreetmap.org/",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API",
+      "https://developer.mozilla.org/en-US/docs/Web/API/TrustedTypePolicyFactory/createPolicy",
+      "https://web.dev/articles/trusted-types",
+      "https://blog.confiant.com/the-curious-case-of-mutantbedrogs-trusted-types-csp-bypass-950b19a38b4f",
+      "https://xbow.com/blog/xbow-zoo-project-arb/",
+      "https://battleda.sh/blog/ea-account-takeover"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=CKqrVRTzT0U",
+    "upload_date": "20250204"
+  },
+  {
+    "title": "EP 177 | Techno Watch January Ft. @Drypaints @Maltemo @pentest_swissky",
+    "links": [
+      "https://x41.fr/",
+      "https://bolt.new/",
+      "https://lovable.dev/",
+      "https://ssrf.offenskill.com/",
+      "https://chat.deepseek.com/",
+      "https://github.com/deepseek-ai/DeepSeek-R1",
+      "https://bbycroft.net/llm",
+      "https://gamma.app/",
+      "https://gitingest.com/",
+      "https://notebooklm.google.com/",
+      "https://github.com/hacksider/Deep-Live-Cam",
+      "https://medium.com/@0xold/null-byte-on-steroids-23f8104a25ec",
+      "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/",
+      "https://evanhahn.com/lessons-learned-maintaining-a-sorta-popular-open-source-package/",
+      "https://github.com/seemoo-lab/openhaystack",
+      "https://cybenari.com/2024/08/whats-the-worst-place-to-leave-your-secrets/",
+      "https://0dayfans.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ysen7Z_EqZs",
+    "upload_date": "20250203"
+  },
+  {
+    "title": "D24 Feedback - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://x.com/tuxlu2",
+      "https://www.root-me.org/",
+      "https://pro.root-me.org/",
+      "https://www.youtube.com/watch?v=WxiEVJnXBEY"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=tM76oUq9Wio",
+    "upload_date": "20250201"
+  },
+  {
+    "title": "D23 Gift Control Interface - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://github.com/voydstack",
+      "https://github.com/unicorn-engine/unicorn"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=anQ9E22adnc",
+    "upload_date": "20250201"
+  },
+  {
+    "title": "D22 The date is near - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://linux.die.net/man/1/sshpass",
+      "https://fr.manpages.org/bash",
+      "https://gtfobins.github.io/gtfobins/man/",
+      "https://davetang.org/muse/2023/01/31/bash-script-that-accepts-short-long-and-positional-arguments/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=nR-D2dzW_wY",
+    "upload_date": "20250201"
+  },
+  {
+    "title": "D21 Kekalor - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://soliditylang.org/",
+      "https://github.com/pubkey/solidity-cli",
+      "https://remix.ethereum.org/",
+      "https://github.com/foundry-rs/foundry",
+      "https://medium.com/coinmonks/smart-contract-vulnerabilities-unveiled-fallback-function-security-issues-1b37eef507dd"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Q-bA1ePurKI",
+    "upload_date": "20250201"
+  },
+  {
+    "title": "D20 Santa's db - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.sagemath.org/",
+      "https://sagecell.sagemath.org/",
+      "https://doc.sagemath.org/html/en/reference/modules/sage/modules/free_quadratic_module_integer_symmetric.html",
+      "https://www.quora.com/How-can-a-man-become-a-god"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=3HaAkpnjgOI",
+    "upload_date": "20250201"
+  },
+  {
+    "title": "D19 Rebel Santa Alliance - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vzLMOUuFR4Y",
+    "upload_date": "20250201"
+  },
+  {
+    "title": "D18 Santa's sweet words - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://bishopfox.com/blog/ruby-vulnerabilities-exploits",
+      "https://curl.se/docs/manpage.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=M12j5SdXibM",
+    "upload_date": "20250130"
+  },
+  {
+    "title": "D17 Ghost in the shell - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html",
+      "https://github.com/RedTeamPentesting/postscript_blog_examples"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=90KIfBCZceg",
+    "upload_date": "20250130"
+  },
+  {
+    "title": "D16 Coil under the tree - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://nmap.org/ncat/",
+      "https://pypi.org/project/pyModbusTCP/",
+      "https://www.csimn.com/CSI_pages/Modbus101.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=K4ifDk0cbHs",
+    "upload_date": "20250130"
+  },
+  {
+    "title": "D15 New new .. always new - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.invicti.com/blog/web-security/crlf-http-header/",
+      "https://chat.openai.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=hWMf5e4bw9g",
+    "upload_date": "20250130"
+  },
+  {
+    "title": "D14 Almost a Gift - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.sagemath.org/",
+      "https://sagecell.sagemath.org/",
+      "https://doc.sagemath.org/html/en/reference/modules/sage/modules/free_quadratic_module_integer_symmetric.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MK_ZlfX3Uy0",
+    "upload_date": "20250130"
+  },
+  {
+    "title": "D13 The lost gift - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://mobisoftinfotech.com/tools/plot-multiple-points-on-map/",
+      "https://www.wireshark.org/",
+      "https://maps.google.com/maps"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=A_CRwBj8DWo",
+    "upload_date": "20250130"
+  },
+  {
+    "title": "D12 The Naughty Snowman - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://book.hacktricks.wiki/en/pentesting-web/ssti-server-side-template-injection/index.html?highlight=ssti%20python#jinja2-python",
+      "https://podalirius.net/fr/articles/python-vulnerabilities-code-execution-in-jinja-templates/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=evvvSO0fF7s",
+    "upload_date": "20250129"
+  },
+  {
+    "title": "D11 Padoru - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://ghidra-sre.org/",
+      "https://github.com/NationalSecurityAgency/ghidra",
+      "https://www.sagemath.org/",
+      "https://sagecell.sagemath.org/",
+      "https://www.blender.org/",
+      "https://github.com/KhronosGroup/SPIRV-Tools",
+      "https://www.khronos.org/spir/visualizer/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=KbkstpnSg3I",
+    "upload_date": "20250129"
+  },
+  {
+    "title": "D10 Route-Mi Shop - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://portswigger.net/web-security/race-conditions"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=JiSyJQfoZO0",
+    "upload_date": "20250129"
+  },
+  {
+    "title": "D09 The Christmas Thief - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.wireshark.org/",
+      "https://www.wireshark.org/docs/man-pages/tshark.html",
+      "https://github.com/mise-plugins/mise-dotnet",
+      "https://www.netresec.com/?page=NetworkMiner",
+      "https://github.com/kmahyyg/mremoteng-decrypt"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ry3pIrqqyaA",
+    "upload_date": "20250129"
+  },
+  {
+    "title": "D08 Custom HTTP Server - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.invicti.com/blog/web-security/crlf-http-header/",
+      "https://www.gremwell.com/firefox-xss-302",
+      "https://app.interactsh.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=thW8J-3veiQ",
+    "upload_date": "20250129"
+  },
+  {
+    "title": "D07 Go, Pwn, Gown - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://pkg.go.dev/cmd/cgo",
+      "https://ir0nstone.gitbook.io/notes/binexp/stack/ret2win",
+      "https://github.com/hugsy/gef",
+      "https://github.com/pwndbg/pwndbg"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=6pPfr-1imow",
+    "upload_date": "20250129"
+  },
+  {
+    "title": "D06 Unwrap The Gift - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.sagemath.org/",
+      "https://sagecell.sagemath.org/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=cn83x45pK9Y",
+    "upload_date": "20250127"
+  },
+  {
+    "title": "D05 The Friendly Snowman - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://7h30th3r0n3.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Y2h9AzGCCDY",
+    "upload_date": "20250127"
+  },
+  {
+    "title": "D04 Build And Drustroy - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://github.com/laluka/build-and-drustroy",
+      "https://doc.rust-lang.org/cargo/reference/build-scripts.html",
+      "https://doc.rust-lang.org/std/macro.include_str.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=zKNb320dFTs",
+    "upload_date": "20250127"
+  },
+  {
+    "title": "D03 Santa's Magic Sack - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.sagemath.org/",
+      "https://sagecell.sagemath.org/",
+      "https://developer.chrome.com/docs/devtools"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=fgs9MgOtxcU",
+    "upload_date": "20250127"
+  },
+  {
+    "title": "D02 Wrapped Packet - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.wireshark.org/",
+      "https://www.sagemath.org/",
+      "https://sagecell.sagemath.org/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=-rqJPD8WO24",
+    "upload_date": "20250127"
+  },
+  {
+    "title": "D01 Generous Santa - Root-Me Xmas CTF Ft. @ENOENT_",
+    "links": [
+      "https://x41.fr/",
+      "https://www.revshells.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=XaT6NnGCjYg",
+    "upload_date": "20250127"
+  },
+  {
+    "title": "Chill Day - Mobile Legends Bang Bang Ft. PYF",
+    "links": [
+      "https://play.google.com/store/apps/details?id=com.mobile.legends"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Z8uvbdps8FU",
+    "upload_date": "20241227"
+  },
+  {
+    "title": "EP 176 | Can Log4J be exploited via Jolokia ? Ft. @KeepCalmAndKharaOne",
+    "links": [
+      "https://github.com/laluka/jolokia-exploitation-toolkit/pull/6#log4j"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=id7DVFdejI0",
+    "upload_date": "20241223"
+  },
+  {
+    "title": "EP 175 | AI Prompt & Shenanigans + GPT Tricks & Abuses Ft. @7h30th3r0n3",
+    "links": [
+      "https://gandalf.lakera.ai/",
+      "https://7h30th3r0n3.fr/how-prompt-placement-on-web-pages-can-tricks-large-language-models/",
+      "https://7h30th3r0n3.fr/understanding-prompt-injection-in-ai-conversations-and-gandalf-walkthrough/",
+      "https://7h30th3r0n3.fr/why-you-need-to-protect-your-customize-chatgpt4-and-be-warred-of-shared-customize-chatgpt4-links/",
+      "https://7h30th3r0n3.fr/gpts-are-you-my-psy-or-my-spy/",
+      "https://7h30th3r0n3.fr/in-depth-understanding-of-customized-gpts-protection-for-creator-and-end-user/",
+      "https://7h30th3r0n3.fr/exploring-the-multi-faceted-world-of-website-hidden-prompts-placing/",
+      "https://7h30th3r0n3.fr/trollm-a-fantasy-game-to-learn-llm-prompt-injection/",
+      "https://7h30th3r0n3.fr/gpts-are-you-a-llm-or-a-shell/",
+      "https://lmarena.ai/",
+      "https://github.com/7h30th3r0n3/Evil-M5Core2"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=2rTjIbLziFc",
+    "upload_date": "20241220"
+  },
+  {
+    "title": "EP 174 | Offensive OSINT Ft. @realDumbleDork",
+    "links": [
+      "https://censys.com/",
+      "https://www.shodan.io/",
+      "https://www.securiteinfo.com/attaques/hacking/google-dorks-et-google-hacking.shtml",
+      "https://osintfr.com/",
+      "https://www.intigriti.com/",
+      "https://favicon-hash.kmsec.uk/",
+      "https://github.com/topics/bing-dorks",
+      "https://chromewebstore.google.com/detail/dotgit/pampamgoihgcedonnphgehgondkhikel",
+      "https://urlscan.io/",
+      "https://publicwww.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MC-vrEeeVG0",
+    "upload_date": "20241219"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 8 Keep Hackers Cool - @tuxlu2",
+    "links": [
+      "https://github.com/LucasParsy/haccks"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=N1BLyn8EVmc",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 7 Hippie Osint Toolkit (HOT) - @hiippiiie",
+    "links": [
+      "https://github.com/hippiiee/Hippie-OSINT-Toolkit"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=pw1RW-Aiy1o",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 6 Connaitre sa sible pour la Détruire - @Blaklis_",
+    "links": [
+      "https://x.com/Blaklis_"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ECQkKugcZjo",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 5 Emulation & Fuzzing Black-Box avec Qiling - @voydstack",
+    "links": [
+      "https://github.com/qilingframework/qiling",
+      "https://github.com/voydstack"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0xplWmYaqtk",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 4 Exploiting Real-World Android Webview - @pwnwithlove",
+    "links": [
+      "https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/webview-attacks"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=85hHMoH4aUs",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 3 Overpass Turbi 101 - @volker_carstein",
+    "links": [
+      "https://github.com/volker-carstein",
+      "https://overpass-turbo.eu/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=9kuIV6QGBJQ",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 2 DepFuzzer - @_Worty",
+    "links": [
+      "https://github.com/synacktiv/DepFuzzer",
+      "https://www.synacktiv.com/publications/fuzzing-confused-dependencies-with-depfuzzer"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Y1QcKuniFZ4",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "Drink-Love-Share-V2 - 1 Scam-Me-Baby - @TheLaluka & @Nishacid",
+    "links": [
+      "https://nishacid.guru/",
+      "https://thinkloveshare.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uyQw7ba4hFE",
+    "upload_date": "20241218"
+  },
+  {
+    "title": "EP 173 | Le récap : Kamal, Dokploy, Dokku, Portainer Ft. @AethliosIK & @penthium2",
+    "links": [
+      "https://github.com/portainer/portainer",
+      "https://github.com/Dokploy/dokploy",
+      "https://github.com/basecamp/kamal",
+      "https://github.com/dokku/dokku",
+      "https://github.com/NixOS/nix",
+      "https://github.com/HeroCTF/deploy-dynamic"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=UeOSMpGlmg4",
+    "upload_date": "20241216"
+  },
+  {
+    "title": "EP 172 | Portainer, and UID remap! Ft. @penthium2 & @AethliosIK",
+    "links": [
+      "https://github.com/portainer/portainer",
+      "https://docs.portainer.io/",
+      "https://www.bzhack.bzh/",
+      "https://github.com/laluka/lalubuntu"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=67DIr_OmXVk",
+    "upload_date": "20241215"
+  },
+  {
+    "title": "EP 171 | Reset-tolkien Ft. @AethliosIK & @penthium2",
+    "links": [
+      "https://github.com/AethliosIK/reset-tolkien",
+      "https://github.com/kazkansouh/odd-hash",
+      "https://github.com/iangcarroll/cookiemonster"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=adf3ulc9xYQ",
+    "upload_date": "20241213"
+  },
+  {
+    "title": "EP 170 | Chill'n'PoC, NixOS First Steps!",
+    "links": [
+      "https://nixos.org/learn/",
+      "https://nixos.org/explore/",
+      "https://nixos.org/guides/how-nix-works/",
+      "https://nix.dev/tutorials/first-steps/ad-hoc-shell-environments",
+      "https://nixos.org/download/#nix-install-docker",
+      "https://nix.dev/manual/nix/2.24/command-ref/new-cli/nix3-flake.html",
+      "https://nixos.org/manual/nixpkgs/stable/#sec-pkgs-dockerTools",
+      "https://github.com/NixOS/nixos-wiki-infra/issues/161"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=s48-74KzqRA",
+    "upload_date": "20241212"
+  },
+  {
+    "title": "EP 169 | Chill'n'PoC, NixOS First Steps!",
+    "links": [
+      "https://nixos.org/learn/",
+      "https://nixos.org/explore/",
+      "https://nixos.org/guides/how-nix-works/",
+      "https://nix.dev/tutorials/first-steps/ad-hoc-shell-environments",
+      "https://nixos.org/download/#nix-install-docker",
+      "https://nix.dev/manual/nix/2.24/command-ref/new-cli/nix3-flake.html",
+      "https://nixos.org/manual/nixpkgs/stable/#sec-pkgs-dockerTools"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=SbQm_lVEISM",
+    "upload_date": "20241211"
+  },
+  {
+    "title": "EP 168 | Hardware & Firmware reverse 101 Ft. virtualabs /  @VirtuVOD",
+    "links": [
+      "https://gist.github.com/laluka/ab29cf87dcc895c8ab1d0ddfc93abfbe",
+      "https://github.com/leveldown-security/SVD-Loader-Ghidra",
+      "https://www.st.com/content/st_com/en/arm-32-bit-microcontrollers/arm-cortex-m3.html",
+      "https://developer.arm.com/documentation/dui0552/a/the-cortex-m3-processor/exception-model/vector-table",
+      "https://github.com/NationalSecurityAgency/ghidra/issues/83",
+      "https://www.qemu.org/docs/master/system/arm/stm32.html",
+      "https://github.com/WojciechMigda/how-to-qemu-arm-gdb-gtest",
+      "https://github.com/NationalSecurityAgency/ghidra"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Sk8-caBUEqQ",
+    "upload_date": "20241202"
+  },
+  {
+    "title": "EP 167 | Hardware & Firmware reverse 101 Ft. virtualabs /  @VirtuVOD",
+    "links": [
+      "https://gist.github.com/laluka/ab29cf87dcc895c8ab1d0ddfc93abfbe",
+      "https://github.com/leveldown-security/SVD-Loader-Ghidra",
+      "https://www.st.com/content/st_com/en/arm-32-bit-microcontrollers/arm-cortex-m3.html",
+      "https://developer.arm.com/documentation/dui0552/a/the-cortex-m3-processor/exception-model/vector-table",
+      "https://github.com/NationalSecurityAgency/ghidra/issues/83",
+      "https://www.qemu.org/docs/master/system/arm/stm32.html",
+      "https://github.com/WojciechMigda/how-to-qemu-arm-gdb-gtest",
+      "https://github.com/NationalSecurityAgency/ghidra"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=l93Rb6WSv7A",
+    "upload_date": "20241201"
+  },
+  {
+    "title": "EP 166 | Hardware & Firmware reverse 101 Ft. virtualabs / @VirtuVOD",
+    "links": [
+      "https://gist.github.com/laluka/ab29cf87dcc895c8ab1d0ddfc93abfbe",
+      "https://github.com/leveldown-security/SVD-Loader-Ghidra",
+      "https://www.st.com/content/st_com/en/arm-32-bit-microcontrollers/arm-cortex-m3.html",
+      "https://developer.arm.com/documentation/dui0552/a/the-cortex-m3-processor/exception-model/vector-table",
+      "https://github.com/NationalSecurityAgency/ghidra/issues/83",
+      "https://www.qemu.org/docs/master/system/arm/stm32.html",
+      "https://github.com/WojciechMigda/how-to-qemu-arm-gdb-gtest",
+      "https://github.com/NationalSecurityAgency/ghidra"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vAeuM-BTyUY",
+    "upload_date": "20241130"
+  },
+  {
+    "title": "EP 165 | DomPurify & Bootstrap n-days + Frontend tricks Ft. @Geluchat, @kevin_mizu",
+    "links": [
+      "https://domclob.xyz/",
+      "https://0xgodson.com/an-art-of-dom-clobbering",
+      "https://domclob.xyz/domc_markups/list",
+      "https://www.fastmail.com/blog/sanitising-html-the-dom-clobbering-issue/",
+      "https://github.com/yeswehack/Dom-Explorer/blob/main/app/utils/index.ts#L51",
+      "https://github.com/jquery/jquery/commit/90fed4b453a5becdb7f173d9e3c1492390a1441f",
+      "https://research.securitum.com/dompurify-bypass-using-mxss/",
+      "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes",
+      "https://github.com/shhnjk/cursed_types?tab=readme-ov-file",
+      "https://datatracker.ietf.org/doc/html/rfc3986",
+      "https://github.com/cure53/DOMPurify#hooks",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Document/domain",
+      "https://gist.github.com/Geluchat/3592fa53018d0f7dbf5f5970df163bc4#TrickDomainFrontGelu",
+      "https://github.com/LavaMoat/LavaDome",
+      "https://research.securitum.com/stealing-data-in-great-style-how-to-use-css-to-attack-web-application/",
+      "https://github.com/LavaMoat/LavaDome/issues/48",
+      "https://woff.bi.tk/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=aLNxg0wJfag",
+    "upload_date": "20241124"
+  },
+  {
+    "title": "EP 164 | DomPurify & Bootstrap n-days + Frontend tricks Ft. @Geluchat, @kevin_mizu",
+    "links": [
+      "https://domclob.xyz/",
+      "https://0xgodson.com/an-art-of-dom-clobbering",
+      "https://domclob.xyz/domc_markups/list",
+      "https://www.fastmail.com/blog/sanitising-html-the-dom-clobbering-issue/",
+      "https://github.com/yeswehack/Dom-Explorer/blob/main/app/utils/index.ts#L51",
+      "https://github.com/jquery/jquery/commit/90fed4b453a5becdb7f173d9e3c1492390a1441f",
+      "https://research.securitum.com/dompurify-bypass-using-mxss/",
+      "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes",
+      "https://github.com/shhnjk/cursed_types?tab=readme-ov-file",
+      "https://datatracker.ietf.org/doc/html/rfc3986",
+      "https://github.com/cure53/DOMPurify#hooks",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Document/domain",
+      "https://gist.github.com/Geluchat/3592fa53018d0f7dbf5f5970df163bc4#TrickDomainFrontGelu",
+      "https://github.com/LavaMoat/LavaDome",
+      "https://research.securitum.com/stealing-data-in-great-style-how-to-use-css-to-attack-web-application/",
+      "https://github.com/LavaMoat/LavaDome/issues/48",
+      "https://woff.bi.tk/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=KffIf5alxls",
+    "upload_date": "20241123"
+  },
+  {
+    "title": "EP 163 | DomPurify & Bootstrap n-days + Frontend tricks Ft. @Geluchat, @kevin_mizu",
+    "links": [
+      "https://grehack.fr/program/",
+      "https://www.youtube.com/live/UMcHWx4speo?si=IdfOpSz0l--cCCQC",
+      "https://domclob.xyz/",
+      "https://0xgodson.com/an-art-of-dom-clobbering",
+      "https://domclob.xyz/domc_markups/list",
+      "https://www.fastmail.com/blog/sanitising-html-the-dom-clobbering-issue/",
+      "https://github.com/yeswehack/Dom-Explorer/blob/main/app/utils/index.ts#L51",
+      "https://github.com/jquery/jquery/commit/90fed4b453a5becdb7f173d9e3c1492390a1441f",
+      "https://research.securitum.com/dompurify-bypass-using-mxss/",
+      "https://mizu.re/post/exploring-the-dompurify-library-bypasses-and-fixes",
+      "https://github.com/shhnjk/cursed_types?tab=readme-ov-file",
+      "https://datatracker.ietf.org/doc/html/rfc3986",
+      "https://github.com/cure53/DOMPurify#hooks",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Document/domain",
+      "https://gist.github.com/Geluchat/3592fa53018d0f7dbf5f5970df163bc4#TrickDomainFrontGelu",
+      "https://github.com/LavaMoat/LavaDome",
+      "https://research.securitum.com/stealing-data-in-great-style-how-to-use-css-to-attack-web-application/",
+      "https://github.com/LavaMoat/LavaDome/issues/48",
+      "https://woff.bi.tk/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=fnYSWDTB1do",
+    "upload_date": "20241122"
+  },
+  {
+    "title": "EP 162 | Dokploy PoC & Techno Watch Ft. @Drypaints & @Maltemo",
+    "links": [
+      "https://dokploy.com/",
+      "https://github.com/Dokploy/dokploy",
+      "https://docs.dokploy.com/docs/core",
+      "https://github.com/Dokploy/cli/blob/main/src/commands/authenticate.ts",
+      "https://x.com/nol_tech/status/1856043697609052574",
+      "https://x.com/nol_tech/status/1848070562813563020",
+      "https://x.com/jobertabma/status/1856144809758732601",
+      "https://gist.github.com/laluka/b6736bc02a3bbc85fc61d9457997eb5d",
+      "https://lolesxi-project.github.io/LOLESXi/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4FdF8Dcae58",
+    "upload_date": "20241120"
+  },
+  {
+    "title": "EP 161 | Dokploy PoC & Techno Watch Ft. @Drypaints & @Maltemo",
+    "links": [
+      "https://dokploy.com/",
+      "https://github.com/Dokploy/dokploy",
+      "https://docs.dokploy.com/docs/core",
+      "https://github.com/Dokploy/cli/blob/main/src/commands/authenticate.ts"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=kcRqUtUa7Q8",
+    "upload_date": "20241118"
+  },
+  {
+    "title": "EP 160 | GOAD && NXC: AD Setup & Pwning Ft. @rayanlecat, @M4yFly, @mpgn_x64",
+    "links": [
+      "https://github.com/Orange-Cyberdefense/GOAD",
+      "https://github.com/Pennyw0rth/NetExec",
+      "https://gitlab.com/badsectorlabs/ludus",
+      "https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup",
+      "https://x.com/PyroTek3/status/1836488694003568706",
+      "https://www.thehacker.recipes/ad/recon/",
+      "https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools",
+      "https://github.com/p0dalirius/Coercer",
+      "https://x.com/hacknspeak"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xV4608jabcQ",
+    "upload_date": "20241111"
+  },
+  {
+    "title": "EP 159 | GOAD && NXC: AD Setup & Pwning Ft. @rayanlecat, @M4yFly, @mpgn_x64",
+    "links": [
+      "https://github.com/Orange-Cyberdefense/GOAD",
+      "https://github.com/Pennyw0rth/NetExec",
+      "https://gitlab.com/badsectorlabs/ludus",
+      "https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup",
+      "https://x.com/PyroTek3/status/1836488694003568706",
+      "https://www.thehacker.recipes/ad/recon/",
+      "https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools",
+      "https://github.com/p0dalirius/Coercer",
+      "https://x.com/hacknspeak"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=skBgQiNrKmg",
+    "upload_date": "20241110"
+  },
+  {
+    "title": "EP 158 | GOAD && NXC: AD Setup & Pwning Ft. @rayanlecat, @M4yFly, @mpgn_x64",
+    "links": [
+      "https://github.com/Orange-Cyberdefense/GOAD",
+      "https://github.com/Pennyw0rth/NetExec",
+      "https://gitlab.com/badsectorlabs/ludus",
+      "https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup",
+      "https://x.com/PyroTek3/status/1836488694003568706",
+      "https://www.thehacker.recipes/ad/recon/",
+      "https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools",
+      "https://github.com/p0dalirius/Coercer",
+      "https://x.com/hacknspeak"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=CJVQo6F4X_M",
+    "upload_date": "20241108"
+  },
+  {
+    "title": "EP 157 | Techno Watch October Ft. @Drypaints",
+    "links": [
+      "https://github.com/doyensec/CSPTPlayground",
+      "https://github.com/Syslifters/sysreptor",
+      "https://psysh.org/",
+      "https://frankenphp.dev/docs/embed/",
+      "https://github.com/nodejs/node/issues/33425",
+      "https://github.com/EndeavourOS-Community-Editions/bspwm",
+      "https://www.alice-snow.ru/blog/ia-in-cyber-is-overhyped",
+      "https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it",
+      "https://mogwailabs.de/en/blog/2022/08/exploiting-laravel-based-applications-with-leaked-app_keys-and-queues/",
+      "https://www.yeswehack.com/learn-bug-bounty/white-box-debug-JavaScript-vulnerabilities",
+      "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52",
+      "https://blog.zwindler.fr/2024/10/26/hype-staff-engineers-mieux-recompenses-manager.md",
+      "https://ndevtk.github.io/writeups/2024/10/01/misc/",
+      "https://onetest.fr/posts/xss-waf-bypass-one-payload-for-all/",
+      "https://www.horizon3.ai/attack-research/palo-alto-expedition-from-n-day-to-full-compromise/",
+      "https://x.com/watchtowrcyber/status/1844306954245767623",
+      "https://threatprotect.qualys.com/2024/10/11/palo-alto-networks-expedition-multiple-vulnerabilities-cve-2024-9463-cve-2024-9464-cve-2024-9465-cve-2024-9466-cve-2024-9467/",
+      "https://x.com/dcuthbert/status/1844287701052481915",
+      "https://www.nolimitsecu.fr/interview-de-laluka/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=m5sAJX2JYC8",
+    "upload_date": "20241103"
+  },
+  {
+    "title": "EP 156 | Techno Watch October Ft. @Drypaints",
+    "links": [
+      "https://recon-royale.com/",
+      "https://bloquelapub.net/",
+      "https://memegrep.com/",
+      "https://www.qubes-os.org/news/2024/10/03/nitropad-v56-qubes-certified/",
+      "https://github.com/jstawinski/GitHub-Actions-Attack-Diagram",
+      "https://github.com/k1nd0ne/VolWeb",
+      "https://github.com/mandiant/capa",
+      "https://dayssincelastrustmcserver.com",
+      "https://www.greptile.com/blog/how-we-engineer",
+      "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52",
+      "https://github.com/bol-van/zapret",
+      "https://meduza.io/en/news/2023/05/24/russia-s-digital-authority-pushes-dpi-tools-and-ip-geolocation-to-surveil-internet-traffic",
+      "https://justdeleteme.xyz/fr"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=YIPiHGTbbjg",
+    "upload_date": "20241101"
+  },
+  {
+    "title": "EP 155 | Techno Watch October Ft. @Drypaints",
+    "links": [
+      "https://www.vim-hero.com/",
+      "https://linuxjourney.com/",
+      "https://distractionfreeapps.com/",
+      "https://www.youtube.com/watch?v=DVRg0daTads",
+      "https://www.youtube.com/watch?v=3wZkidoyFko",
+      "https://www.youtube.com/watch?v=avsNbEbzUAQ",
+      "https://x.com/vxunderground/status/1844158531210973555",
+      "https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message",
+      "https://x.com/zojo_officiel/status/1851334543627993283",
+      "https://www.spatial-sec.com/blog/post/22/index.html",
+      "https://github.com/glzr-io/glazewm",
+      "https://github.com/m1chaelwilliams/make-windows-pretty",
+      "https://beige.party/@possibledog/113367977656537478",
+      "https://chaos.projectdiscovery.io/",
+      "https://docs.codedefender.io/",
+      "https://doomerhunter.fr/",
+      "https://sec.stealthcopter.com/wpml-rce-via-twig-ssti/",
+      "https://www.datadoghq.com/state-of-cloud-security/",
+      "https://blog.antoinemayer.fr/2024/10/22/je-hack-un-cluster-kubernetes-partie-2/",
+      "https://cliffle.com/p/dangerust/",
+      "https://protectai.com/threat-research/vulnhuntr-first-0-day-vulnerabilities",
+      "https://github.com/protectai/vulnhuntr"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=cOjqRq8cdJU",
+    "upload_date": "20241030"
+  },
+  {
+    "title": "EP 154 | Lalubuntu 24.04 Migration Work Ft. Atom_User_",
+    "links": [
+      "https://github.com/laluka/lalubuntu",
+      "https://github.com/laluka/lalubuntu/actions",
+      "https://regolith-desktop.com/docs/using-regolith/install/",
+      "https://www.vim-hero.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=hGfwlqEuOlU",
+    "upload_date": "20241028"
+  },
+  {
+    "title": "EP 153 | Lalubuntu 24.04 Migration Work Ft. Atom_User_",
+    "links": [
+      "https://github.com/laluka/lalubuntu",
+      "https://github.com/laluka/lalubuntu/actions",
+      "https://regolith-desktop.com/docs/using-regolith/install/",
+      "https://www.vim-hero.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=AQsgroLURWw",
+    "upload_date": "20241027"
+  },
+  {
+    "title": "EP 152 | Optimize your BSCP Ft. Atom_User_",
+    "links": [
+      "https://at0m.space/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/",
+      "https://distractionfreeapps.com/",
+      "https://play.google.com/store/apps/details?id=com.burockgames.timeclocker",
+      "https://forum.portswigger.net/thread/bscp-examity-proctoring-and-other-stuff-92e3c856",
+      "https://pentesterlab.com/blog/the-certification-trap"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=62M5hRS673Y",
+    "upload_date": "20241025"
+  },
+  {
+    "title": "EP 151 | Optimize your BSCP Ft. Atom_User_",
+    "links": [
+      "https://at0m.space/blogs/de-z%C3%A9ro-%C3%A0-la-bscp-mon-parcours-et-mes-astuces/",
+      "https://distractionfreeapps.com/",
+      "https://play.google.com/store/apps/details?id=com.burockgames.timeclocker",
+      "https://forum.portswigger.net/thread/bscp-examity-proctoring-and-other-stuff-92e3c856",
+      "https://pentesterlab.com/blog/the-certification-trap"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=eNYIq1Rc_08",
+    "upload_date": "20241025"
+  },
+  {
+    "title": "EP 150 | Web3 Hacking 101 Ft. @EthnicalInfo & @Geluchat",
+    "links": [
+      "https://www.saurik.com/optimism.html",
+      "https://eips.ethereum.org/",
+      "https://immunefi.com/leaderboard/",
+      "https://ctf.mevsec.com/",
+      "https://nodeguardians.io/",
+      "https://learnweb3.io/",
+      "https://blog.mevsec.com/",
+      "https://intrusive.io/",
+      "https://www.youtube.com/@EthnicalSec"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=M55jrv-OqDU",
+    "upload_date": "20241024"
+  },
+  {
+    "title": "EP 149 | Web3 Hacking 101 Ft. @EthnicalInfo & @Geluchat",
+    "links": [
+      "https://www.saurik.com/optimism.html",
+      "https://eips.ethereum.org/",
+      "https://immunefi.com/leaderboard/",
+      "https://ctf.mevsec.com/",
+      "https://nodeguardians.io/",
+      "https://learnweb3.io/",
+      "https://blog.mevsec.com/",
+      "https://intrusive.io/",
+      "https://www.youtube.com/@EthnicalSec"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MZ_xMSA0bMk",
+    "upload_date": "20241023"
+  },
+  {
+    "title": "EP 148 | Web3 Hacking 101 Ft. @EthnicalInfo & @Geluchat",
+    "links": [
+      "https://www.saurik.com/optimism.html",
+      "https://eips.ethereum.org/",
+      "https://immunefi.com/leaderboard/",
+      "https://ctf.mevsec.com/",
+      "https://nodeguardians.io/",
+      "https://learnweb3.io/",
+      "https://blog.mevsec.com/",
+      "https://intrusive.io/",
+      "https://www.youtube.com/@EthnicalSec"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=XsOazQQgmKU",
+    "upload_date": "20241021"
+  },
+  {
+    "title": "EP 147 | Web3 Hacking 101 Ft. @EthnicalInfo & @Geluchat",
+    "links": [
+      "https://www.saurik.com/optimism.html",
+      "https://eips.ethereum.org/",
+      "https://immunefi.com/leaderboard/",
+      "https://ctf.mevsec.com/",
+      "https://nodeguardians.io/",
+      "https://learnweb3.io/",
+      "https://blog.mevsec.com/",
+      "https://intrusive.io/",
+      "https://www.youtube.com/@EthnicalSec"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qipw3eorXeE",
+    "upload_date": "20241020"
+  },
+  {
+    "title": "EP 146 | Techno Watch & News Ft. @hugow_vincent & @Vozec1",
+    "links": [
+      "https://0reg.dev/blog/electron-math",
+      "https://mizu.re/post/intigriti-october-2023-xss-challenge",
+      "https://issues.chromium.org/issues/40066577",
+      "https://kibty.town/blog/arc/",
+      "https://blog.projectdiscovery.io/ruby-saml-gitlab-auth-bypass/",
+      "https://github.com/synacktiv/CVE-2024-45409"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Cw5V9gRDc8M",
+    "upload_date": "20241016"
+  },
+  {
+    "title": "EP 145 | WordPress Vs WpEngine Ft. @hugow_vincent & @Vozec1",
+    "links": [
+      "https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/",
+      "https://x.com/wpengine/status/1838350670564377051",
+      "https://wpenginestatus.com/incidents/640187",
+      "https://wordpress.org/news/2024/09/wp-engine/",
+      "https://wordpress.org/news/2024/09/wp-engine-banned/",
+      "https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle",
+      "https://techcrunch.com/2024/10/04/159-employees-are-leaving-automattic-as-ceos-fight-with-wp-engine-escalates/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wyGcTdrptuA",
+    "upload_date": "20241014"
+  },
+  {
+    "title": "EP 144 | Pwning Github-Actions Ft. @hugow_vincent & @Vozec1",
+    "links": [
+      "https://github.com/synacktiv/octoscan",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-introduction",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-untrusted-input",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-repo-jacking-and-environment-manipulation",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-self-hosted-runners",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-dependabot",
+      "https://www.synacktiv.com/advisories/sonarqube-github-integration-information-leakage",
+      "https://github.com/nektos/act",
+      "https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/comment-page-1/",
+      "https://x.com/adnanthekhan",
+      "https://github.com/adnaneKhan/gato-x",
+      "https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github",
+      "https://howtorotate.com/docs/introduction/getting-started/",
+      "https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=_Pu8e9Kv66s",
+    "upload_date": "20241013"
+  },
+  {
+    "title": "EP 143 | Pwning Github-Actions Ft. @hugow_vincent & @Vozec1",
+    "links": [
+      "https://github.com/synacktiv/octoscan",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-introduction",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-untrusted-input",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-repo-jacking-and-environment-manipulation",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-self-hosted-runners",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-dependabot",
+      "https://www.synacktiv.com/advisories/sonarqube-github-integration-information-leakage",
+      "https://github.com/nektos/act",
+      "https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/comment-page-1/",
+      "https://x.com/adnanthekhan",
+      "https://github.com/adnaneKhan/gato-x"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vXdJc22vss8",
+    "upload_date": "20241012"
+  },
+  {
+    "title": "EP 142 | Pwning Github-Actions Ft. @hugow_vincent & @Vozec1",
+    "links": [
+      "https://github.com/synacktiv/octoscan",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-introduction",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-untrusted-input",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-repo-jacking-and-environment-manipulation",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-self-hosted-runners",
+      "https://www.synacktiv.com/publications/github-actions-exploitation-dependabot",
+      "https://www.synacktiv.com/advisories/sonarqube-github-integration-information-leakage",
+      "https://github.com/nektos/act",
+      "https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/comment-page-1/",
+      "https://x.com/adnanthekhan",
+      "https://github.com/adnaneKhan/gato-x"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=fS7fNh4HMxI",
+    "upload_date": "20241011"
+  },
+  {
+    "title": "EP 141 | Techno Watch September Ft. @drypaints & @Maltemo",
+    "links": [
+      "https://v0.dev/chat",
+      "https://dustri.org/b/reflections-on-randstruct-in-grapheneos.html",
+      "https://www.synacktiv.com/publications/diving-into-adb-protocol-internals-12",
+      "https://blog.quarkslab.com/exploiting-chamilo-during-a-red-team-engagement.html",
+      "https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=um4rxkPile4",
+    "upload_date": "20241003"
+  },
+  {
+    "title": "EP 140 | Techno Watch September Ft. @drypaints & @Maltemo",
+    "links": [
+      "https://www.synacktiv.com/en/publications/entra-id-banned-password-lists-password-spraying-optimizations-and-defenses",
+      "https://securitylabs.datadoghq.com/articles/abusing-entra-id-administrative-units/",
+      "https://sonarsource.github.io/utf8-visualizer/",
+      "https://github.com/ReFirmLabs/binwalk/tree/binwalkv3",
+      "https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/",
+      "https://github.com/nickvourd/supernova",
+      "https://app.runwayml.com/",
+      "https://openai.com/index/introducing-openai-o1-preview/",
+      "https://www.breakmastercylinder.com/",
+      "https://www.yeswehack.com/community/open-source-sovereign-tech-fund",
+      "https://www.yeswehack.com/learn-bug-bounty/penetration-testing-debugging-python-vulnerabilities",
+      "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+      "https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet",
+      "https://web.archive.org/web/20240922104511/https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at",
+      "https://www.undeadly.org/cgi?action=article;sid=20240924105732",
+      "https://www.oliverhill.xyz/detection",
+      "https://keleshev.com/compiling-to-assembly-from-scratch/",
+      "https://www.macrumors.com/2024/09/18/iphone-16-restored-wirelessly-another-iphone/",
+      "https://github.com/PeepDB-dev/peepdb"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=jUVYc41WjCQ",
+    "upload_date": "20241002"
+  },
+  {
+    "title": "EP 139 | Techno Watch September Ft. @drypaints & @Maltemo",
+    "links": [
+      "https://www.synacktiv.com/en/publications/entra-id-banned-password-lists-password-spraying-optimizations-and-defenses",
+      "https://securitylabs.datadoghq.com/articles/abusing-entra-id-administrative-units/",
+      "https://sonarsource.github.io/utf8-visualizer/",
+      "https://github.com/ReFirmLabs/binwalk/tree/binwalkv3",
+      "https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/",
+      "https://github.com/nickvourd/supernova",
+      "https://app.runwayml.com/",
+      "https://openai.com/index/introducing-openai-o1-preview/",
+      "https://www.breakmastercylinder.com/",
+      "https://www.yeswehack.com/community/open-source-sovereign-tech-fund",
+      "https://www.yeswehack.com/learn-bug-bounty/penetration-testing-debugging-python-vulnerabilities",
+      "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+      "https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Jz6K-S__esM",
+    "upload_date": "20241001"
+  },
+  {
+    "title": "EP 138 | Techno Watch September Ft. @drypaints & @Maltemo",
+    "links": [
+      "https://x.com/HeroCTF/status/1835717144320868842",
+      "https://hacking-france.fr/",
+      "https://x.com/evilsocket/status/1838169889330135132",
+      "https://x.com/aruhamm/status/1834284068227481682",
+      "https://github.com/orhun/binsider",
+      "https://github.com/xbow-engineering/validation-benchmarks",
+      "https://github.com/HariSekhon/DevOps-Bash-tools",
+      "https://github.com/nickvourd/supernova",
+      "https://github.com/ynwarcs/CVE-2024-38063",
+      "https://chomp.ie/",
+      "https://sensepost.com/blog/2024/from-a-glpi-patch-bypass-to-rce/",
+      "https://pentesterlab.com/blog/php-security-is-improving"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vP9mgK6iTVg",
+    "upload_date": "20240930"
+  },
+  {
+    "title": "EP 137 | Hack'n'Spice Ft. @BitK_",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=uOqnUM5RWFA",
+    "upload_date": "20240922"
+  },
+  {
+    "title": "EP 136 | Hack'n'Spice Ft. @BitK_",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=O9-jB4K--LM",
+    "upload_date": "20240921"
+  },
+  {
+    "title": "EP 135 | Techno Watch August Ft. @drypaints",
+    "links": [
+      "https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Mikhail%20Shcherbakov%20-%20Exploiting%20the%20Unexploitable%20Insights%20from%20the%20Kibana%20Bug%20Bounty.pdf",
+      "https://phrack.org/issues/71/8.html",
+      "https://github.com/martinvonz/jj",
+      "https://github.com/happycakefriends/certainly",
+      "https://www.linkedin.com/posts/lukasstefanko_defcon23-ugcPost-7231957379729297408-ndGo/",
+      "https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Ken%20Gannon%20Ilyes%20Beghdadi%20-%20Xiaomi%20The%20Money%20Our%20Toronto%20Pwn2Own%20Exploit%20and%20Behind%20The%20Scenes%20Story.pdf",
+      "https://asiatimes.com/2024/08/japan-on-edge-of-euv-lithography-chip-making-revolution/",
+      "https://www.yeswehack.com/fr/learn-bug-bounty/server-side-template-injection-exploitation",
+      "https://sploitify.haxx.it/",
+      "https://pylingual.io/",
+      "https://blog.orange.tw/2024/08/confusion-attacks-en.html",
+      "https://github.com/harisec/orange-confusion-attacks"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qVRpOxF_8HA",
+    "upload_date": "20240910"
+  },
+  {
+    "title": "EP 134 | Techno Watch August Ft. @drypaints",
+    "links": [
+      "https://github.com/rastapasta/mapscii",
+      "https://github.com/mathialo/bython",
+      "https://ersei.net/en/blog/fuse-root",
+      "https://github.com/ZitaoTech/Hackberry-Pi_Zero",
+      "https://blancas.io/blog/ai-web-scraper/",
+      "https://morizbuesing.com/blog/greppability-code-metric/",
+      "https://modzero.com/en/blog/beyond_the_at_symbol/",
+      "https://blog.doyensec.com/2024/07/02/cspt2csrf.html",
+      "https://flatt.tech/research/posts/beyond-the-limit-expanding-single-packet-race-condition-with-first-sequence-sync/",
+      "https://github.com/Ry0taK/first-sequence-sync/tree/main/rc-pin-bypass",
+      "https://github.com/x-cmd/x-cmd"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=iY8B3XnaCTQ",
+    "upload_date": "20240909"
+  },
+  {
+    "title": "EP 133 | Techno Watch August Ft. @drypaints",
+    "links": [
+      "https://httpie.io/blog/stardust",
+      "https://github.com/sensepost/objection",
+      "https://github.com/httptoolkit/frida-interception-and-unpinning",
+      "https://gitee.com/Q16G/laravel_bug/blob/master/laravelBug.md",
+      "https://github.com/n132/Libc-GOT-Hijacking",
+      "https://github.com/n132/Libc-GOT-Hijacking/blob/main/Post/one_punch.py",
+      "https://medium.com/@dub-flow/the-easiest-way-to-find-cves-at-the-moment-github-dorks-29d18b0c6900",
+      "https://github.com/Gankra/cargo-mommy",
+      "https://github.com/danielmiessler/SecLists/commit/83b6785ddf40b33fa6048b8be1235a44874f935f",
+      "https://github.com/0xanuj/blinks",
+      "https://github.com/angr/angrop",
+      "https://owasp.org/www-project-code-review-guide/",
+      "https://owasp.org/www-project-code-review-guide/assets/OWASP_Code_Review_Guide_v2.pdf",
+      "https://github.com/htrgouvea/nipe",
+      "https://github.com/Lotuhu/Page-UAF",
+      "https://yougina.eu/items/picking-a-target-for-bug-bounty-hunting-a-guide-for-steady-progress/19",
+      "https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser",
+      "https://adepts.of0x.cc/challenge01-php-uaf/",
+      "https://dustri.org/b/modern-anti-abuse-mechanisms-in-competitive-video-games-at-black-hat-2024.html",
+      "https://i.blackhat.com/BH-US-24/Presentations/US24-Voisin-Modern-Anti-Abuse-Mechanisms-in-Competitive-Video-Games-Thursday.pdf",
+      "https://blog.doyensec.com/2024/07/02/cspt2csrf.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=gU3PqvY6J4k",
+    "upload_date": "20240905"
+  },
+  {
+    "title": "EP 132 | Ca Fuzz Ou Bien?! P8/8, Fuzz Java with Jazzer, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://academy.fuzzinglabs.com",
+      "https://github.com/CodeIntelligenceTesting/jazzer"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=WSp_oeTK86Q",
+    "upload_date": "20240815"
+  },
+  {
+    "title": "EP 131 | Ca Fuzz Ou Bien ?! P7/8, Fuzz Ruby with Ruzzy, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://github.com/busyloop/lolcat",
+      "https://github.com/trailofbits/ruzzy#ruzzy",
+      "https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/",
+      "https://starlabs.sg/blog/2022/12-the-hole-new-world-how-a-small-leak-will-sink-a-great-browser-cve-2021-38003/",
+      "https://github.com/ohler55/ox/issues/351",
+      "https://academy.fuzzinglabs.com"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Lm5jBE1QN4U",
+    "upload_date": "20240814"
+  },
+  {
+    "title": "Life Update & OffenSkill Trainings! 💣",
+    "links": [
+      "https://offenskill.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=g5KP9CRE8-c",
+    "upload_date": "20240813"
+  },
+  {
+    "title": "EP 130 | Ca Fuzz Ou Bien ?! P6/8, Rust Cargo Fuzzing, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://rust-fuzz.github.io/book/introduction.html",
+      "https://github.com/rust-fuzz/cargo-fuzz",
+      "https://github.com/rust-fuzz/honggfuzz-rs",
+      "https://academy.fuzzinglabs.com"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=k-A5HNLmU9s",
+    "upload_date": "20240813"
+  },
+  {
+    "title": "EP 129 | Ca Fuzz Ou Bien ?! P5/8, GoFuzz on Golang, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://go.dev/doc/security/fuzz/",
+      "https://go.dev/doc/tutorial/fuzz",
+      "https://go.dev/doc/build-cover",
+      "https://github.com/google/gofuzz",
+      "https://academy.fuzzinglabs.com"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=XfV0eEcLgek",
+    "upload_date": "20240812"
+  },
+  {
+    "title": "EP 128 | Ca Fuzz Ou Bien ?! P4/8, GoFuzz on Golang, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://fuzzinglabs.github.io/",
+      "https://github.com/gamozolabs/basic_mutator",
+      "https://github.com/google/oss-fuzz-gen",
+      "https://github.com/googleprojectzero/domato",
+      "https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html",
+      "https://llvm.org/docs/LibFuzzer.html",
+      "https://github.com/llvm/llvm-project/blob/main/compiler-rt/lib/fuzzer/FuzzerDriver.cpp",
+      "https://github.com/AFLplusplus/LibAFL",
+      "https://github.com/dvyukov/go-fuzz",
+      "https://www.youtube.com/@fuzzinglabs"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=22eyLw8IQmY",
+    "upload_date": "20240810"
+  },
+  {
+    "title": "EP 127 | Ca Fuzz Ou Bien ?! P3/8, Fuzz Atheris Python, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://fuzzinglabs.github.io/",
+      "https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html",
+      "https://llvm.org/docs/LibFuzzer.html",
+      "https://github.com/AFLplusplus/LibAFL",
+      "https://github.com/google/atheris",
+      "https://www.youtube.com/@fuzzinglabs"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ZpjuFMoEM8k",
+    "upload_date": "20240809"
+  },
+  {
+    "title": "Challenge - Find my Spip 4.2.12 Unauth RCE! 💣",
+    "links": [
+      "https://x.com/TheLaluka/status/1821821709499961817",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7227588024287600641/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Cy9pi2BhHXM",
+    "upload_date": "20240809"
+  },
+  {
+    "title": "EP 126 | Ca Fuzz Ou Bien ?! P2/8, Fuzzing C and C++, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://fuzzinglabs.github.io/",
+      "https://github.com/gamozolabs/basic_mutator",
+      "https://github.com/google/oss-fuzz-gen",
+      "https://llvm.org/docs/LibFuzzer.html",
+      "https://github.com/llvm/llvm-project/blob/main/compiler-rt/lib/fuzzer/FuzzerDriver.cpp",
+      "https://github.com/AFLplusplus/LibAFL",
+      "https://www.youtube.com/@fuzzinglabs"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=QvUJvyZtgx8",
+    "upload_date": "20240808"
+  },
+  {
+    "title": "EP 125 | Ca Fuzz Ou Bien ?! P1/8, Intro To Fuzzing, Ft. @Pat_Ventuzelo & @Raefko de @FuzzingLabs",
+    "links": [
+      "https://fuzzinglabs.com/",
+      "https://github.com/orgs/FuzzingLabs",
+      "https://fuzzinglabs.github.io/",
+      "https://github.com/google/oss-fuzz-gen",
+      "https://llvm.org/docs/LibFuzzer.html",
+      "https://github.com/AFLplusplus/LibAFL",
+      "https://www.youtube.com/@fuzzinglabs"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0WkJJpC-QZg",
+    "upload_date": "20240807"
+  },
+  {
+    "title": "EP 124 | Techno Watch July, Ft @pentest_swissky & @drypaints",
+    "links": [
+      "https://raesene.github.io/blog/2024/07/10/Fun-With-GitRepo-Volumes/",
+      "https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515",
+      "https://github.com/assetnote/nowafpls",
+      "https://medium.com/@amitassaraf/2-6-exposing-malicious-extensions-shocking-statistics-from-the-vs-code-marketplace-cf88b7a7f38f",
+      "https://labs.withsecure.com/publications/abusing-the-access-to-mount-namespaces-through-procpidroot",
+      "https://devco.re/blog/2024/06/06/security-alert-cve-2024-4577-php-cgi-argument-injection-vulnerability-en/",
+      "https://labs.watchtowr.com/no-way-php-strikes-again-cve-2024-4577/",
+      "https://docs.hackerone.com/en/articles/8369826-detailed-platform-standards",
+      "https://x.com/moyix/status/1812913186057908674",
+      "https://www.youtube.com/watch?v=OdkFPL7d73E&list=PLdh-RwQzDsaNWBex2I09OFLCph7l_KnQE",
+      "https://trustedsec.com/blog/tips-and-tricks-on-creating-your-first-conference-talk",
+      "https://amalmurali.me/posts/pwning-tetris/",
+      "https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/",
+      "https://gist.github.com/kevin-mizu/9b24a66f9cb20df6bbc25cc68faf3d71",
+      "https://www.assetnote.io/resources/research/chaining-three-bugs-to-access-all-your-servicenow-data"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=TO4gK1Phjfk",
+    "upload_date": "20240801"
+  },
+  {
+    "title": "EP 123 | Techno Watch July, Ft @pentest_swissky & @drypaints",
+    "links": [
+      "https://posts.specterops.io/automating-sccm-with-ludus-a-configuration-manager-for-your-configuration-manager-c8f4d8e40473",
+      "https://codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html",
+      "https://www.youtube.com/watch?v=KhdzIPPW4W0",
+      "https://queue.acm.org/detail.cfm?id=3197520",
+      "https://assume-breach.medium.com/im-not-a-pentester-and-you-might-not-want-to-be-one-either-8b5701808dfc",
+      "https://github.com/streaak/keyhacks?tab=readme-ov-file",
+      "https://projects.jason-rush.com/tools/buffer-overflow-eip-offset-string-generator/",
+      "https://start.me/p/19Nqyl/cti-osint",
+      "https://defuse.ca/online-x86-assembler.htm",
+      "https://paulsec.github.io/posts/the-benefits-of-a-side-project",
+      "https://github.com/blacklanternsecurity/TREVORproxy",
+      "https://issues.chromium.org/issues/330575498",
+      "https://codeanlabs.com/blog/research/cve-2024-29510-ghostscript-format-string-exploitation/",
+      "https://codeanlabs.com/blog/research/cve-2024-29511-abusing-ghostscripts-ocr-device/",
+      "https://lumalabs.ai/dream-machine/",
+      "https://github.com/MathisHammel/CroixPharmacie",
+      "https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/",
+      "https://github.com/google/atheris",
+      "https://github.com/CodeIntelligenceTesting/jazzer"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=a5sAe_iP6R4",
+    "upload_date": "20240731"
+  },
+  {
+    "title": "EP 122 | Techno Watch July, Ft @pentest_swissky & @drypaints",
+    "links": [
+      "https://dustri.org/b/notes-on-regresshion-on-musl.html",
+      "https://dustri.org/b/solution-to-wmctf2020s-make-php-great-again-20-or-how-to-use-filters-with-require_once.html",
+      "https://openwall.com/lists/oss-security/2024/07/01/3",
+      "https://www.omgubuntu.co.uk/2024/06/the-worlds-first-risc-v-laptop-running-ubuntu",
+      "https://deepcomputing.io/product/dc-roma-risc-v-laptop-ii/",
+      "https://www.tomsguide.fr/nintendo-switch-les-14-plus-gros-emulateurs-sont-sur-la-sellette-cest-la-fin/",
+      "https://x.com/ahakcil/status/1811722963059982373?t=nvpQepaug8nXQmTbHxc1zQ",
+      "https://zythom.fr/2009/01/laffaire-zythom-introduction/",
+      "https://zythom.fr/2024/06/le-dernier-soutier/",
+      "https://bessey.dev/blog/2024/05/24/why-im-over-graphql/",
+      "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/",
+      "https://www.ambionics.io/blog/iconv-cve-2024-2961-p2",
+      "https://www.wiz.io/blog/probllama-ollama-vulnerability-cve-2024-37032",
+      "https://www.assetnote.io/resources/research/why-nested-deserialization-is-harmful-magento-xxe-cve-2024-34102",
+      "https://blog.huli.tw/2024/06/25/en/stop-using-polyfill-io/",
+      "https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet",
+      "https://www.rayanle.cat/lehack-2024-netexec-workshop-writeup/",
+      "https://cloud.google.com/blog/topics/threat-intelligence/scaling-up-malware-analysis-with-gemini?linkId=10415140&hl=en"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=-S49j5PrDlQ",
+    "upload_date": "20240729"
+  },
+  {
+    "title": "EP 121 | Jeu De Role Pentest WEB p2 Ft. @pentest_swissky, @penthium2, @Drypaints, @CyberFrozenk",
+    "links": [
+      "https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server",
+      "https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery",
+      "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/tomcat",
+      "https://github.com/laluka/bypass-url-parser",
+      "https://wiki.debian.org/DebianInstaller/Preseed",
+      "https://linux.die.net/man/5/shadow"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4xUXFHO4nrY",
+    "upload_date": "20240725"
+  },
+  {
+    "title": "EP 120 | Jeu De Role Pentest WEB p1 Ft. @pentest_swissky, @penthium2, @Drypaints, @CyberFrozenk",
+    "links": [
+      "https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server",
+      "https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery",
+      "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/tomcat",
+      "https://github.com/laluka/bypass-url-parser",
+      "https://wiki.debian.org/DebianInstaller/Preseed",
+      "https://linux.die.net/man/5/shadow"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qCl-gekUB4w",
+    "upload_date": "20240724"
+  },
+  {
+    "title": "EP 119 | Jeu De Role Pentest CLOUD p2 Ft. @pentest_swissky, @penthium2, @Drypaints, @CyberFrozenk",
+    "links": [
+      "https://podalirius.net/fr/articles/ssh-port-forwarding/",
+      "https://www.ssh.com/academy/ssh/tunneling-example",
+      "https://ostechnix.com/allow-deny-ssh-access-particular-user-group-linux/",
+      "https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf",
+      "https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html",
+      "https://docs.aws.amazon.com/fr_fr/cli/latest/userguide/getting-started-install.html",
+      "https://hackingthe.cloud/aws/exploitation/ec2-metadata-ssrf/",
+      "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html",
+      "https://repost.aws/knowledge-center/iam-assume-role-cli"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=gpIXQy9Szlo",
+    "upload_date": "20240718"
+  },
+  {
+    "title": "EP 118 | Jeu De Role Pentest CLOUD p1 Ft. @pentest_swissky, @penthium2, @Drypaints, @CyberFrozenk",
+    "links": [
+      "https://podalirius.net/fr/articles/ssh-port-forwarding/",
+      "https://www.ssh.com/academy/ssh/tunneling-example",
+      "https://ostechnix.com/allow-deny-ssh-access-particular-user-group-linux/",
+      "https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery/cloud-ssrf",
+      "https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html",
+      "https://docs.aws.amazon.com/fr_fr/cli/latest/userguide/getting-started-install.html",
+      "https://hackingthe.cloud/aws/exploitation/ec2-metadata-ssrf/",
+      "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html",
+      "https://repost.aws/knowledge-center/iam-assume-role-cli"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7qZPHt6rQWU",
+    "upload_date": "20240717"
+  },
+  {
+    "title": "My Sthack 2024 Challenges & WriteUps, Ft. g0h4n_0",
+    "links": [
+      "https://github.com/laluka/sthack-2024-challs",
+      "https://blog.randorisec.fr/writeups-ctf-sthack-2024/#do-your-updates-son",
+      "https://www.sthack.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=3pGK-7W3c_M",
+    "upload_date": "20240716"
+  },
+  {
+    "title": "EP 117 | FCSC 2024 - Retex & Unintendeds ! Ft. @BitK_ & @kevin_mizu",
+    "links": [
+      "https://mizu.re/post/twisty-python",
+      "https://hackropole.fr/fr/challenges/web/fcsc2024-web-twisty-python-1/",
+      "https://mizu.re/post/abusing-client-side-desync-on-werkzeug",
+      "https://hackropole.fr/fr/challenges/web/fcsc2024-web-noise/",
+      "https://hackropole.fr/fr/challenges/web/fcsc2024-web-noise-harder/",
+      "https://mizu.re/post/abusing-client-side-desync-on-werkzeug",
+      "https://tfns.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=LOoeT30rH-A",
+    "upload_date": "20240703"
+  },
+  {
+    "title": "EP 116 | FCSC 2024 - Retex & Unintendeds ! Ft. @BitK_ & @kevin_mizu",
+    "links": [
+      "https://hackropole.fr/fr/",
+      "https://hackropole.fr/fr/challenges/web/fcsc2024-web-noise/",
+      "https://hackropole.fr/fr/challenges/web/fcsc2024-web-noise-harder/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=L0yfPxnX5VY",
+    "upload_date": "20240702"
+  },
+  {
+    "title": "EP 115 | Reversing RUST Vs CPP Vs C, Ft. @N0Fix @mhoste1 @lxt33r",
+    "links": [
+      "https://hex-rays.com/ida-free/",
+      "https://binary.ninja/free/",
+      "https://hex-rays.com/ida-free/",
+      "https://github.com/rizinorg/cutter",
+      "https://github.com/N0fix/rustbininfo",
+      "https://doc.rust-lang.org/book/",
+      "https://doc.rust-lang.org/std/env/struct.Args.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=TloLJVS9dPQ",
+    "upload_date": "20240627"
+  },
+  {
+    "title": "EP 114 | Reversing RUST Vs CPP Vs C, Ft. @N0Fix @mhoste1 @lxt33r",
+    "links": [
+      "https://binary.ninja/free/",
+      "https://hex-rays.com/ida-free/",
+      "https://github.com/N0fix/rustbininfo",
+      "https://doc.rust-lang.org/book/",
+      "https://doc.rust-lang.org/std/env/struct.Args.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=DmdLgHvs5UI",
+    "upload_date": "20240626"
+  },
+  {
+    "title": "EP 113 | Reversing RUST Vs CPP Vs C, Ft. @N0Fix @mhoste1 @lxt33r",
+    "links": [
+      "https://binary.ninja/free/",
+      "https://hex-rays.com/ida-free/",
+      "https://github.com/rizinorg/cutter",
+      "https://github.com/N0fix/rustbininfo",
+      "https://doc.rust-lang.org/book/",
+      "https://doc.rust-lang.org/std/env/struct.Args.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=PXnqYvPbb3o",
+    "upload_date": "20240624"
+  },
+  {
+    "title": "EP 112 | La PodaLife - An Offensive Tooling Tour Ft. @podalirius_",
+    "links": [
+      "https://github.com/p0dalirius",
+      "https://podalirius.net/",
+      "https://youtube.com/c/Podalirius_",
+      "https://www.linkedin.com/in/remigascou",
+      "https://github.com/p0dalirius/Coercer",
+      "https://github.com/p0dalirius/sectools",
+      "https://github.com/p0dalirius/smbclient-ng",
+      "https://github.com/p0dalirius/pyLAPS",
+      "https://github.com/p0dalirius/ldap2json",
+      "https://github.com/p0dalirius/ldapconsole",
+      "https://github.com/p0dalirius/FindUncommonShares",
+      "https://github.com/p0dalirius/CoercedPotato",
+      "https://github.com/p0dalirius/ctfd-parser"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=heFz_tgKWm4",
+    "upload_date": "20240620"
+  },
+  {
+    "title": "EP 111 | La PodaLife - An Offensive Tooling Tour Ft. @podalirius_",
+    "links": [
+      "https://github.com/p0dalirius",
+      "https://podalirius.net/",
+      "https://youtube.com/c/Podalirius_",
+      "https://www.linkedin.com/in/remigascou",
+      "https://podalirius.net/en/articles/python-context-free-payloads-in-jinja-templates/",
+      "https://podalirius.net/en/articles/writing-an-exploit-for-adminer-4.6.2-arbitrary-file-read-vulnerability/",
+      "https://podalirius.net/en/articles/scraping-search-apis-depth-first-style/",
+      "https://podalirius.net/en/articles/python-context-free-payloads-in-mako-templates/",
+      "https://podalirius.net/en/articles/ibm-as-400-tcp-ip-configuration/",
+      "https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/",
+      "https://podalirius.net/en/articles/ttys-and-where-to-find-them/",
+      "https://podalirius.net/en/articles/exploiting-cve-2020-14144-gitea-authenticated-remote-code-execution/",
+      "https://podalirius.net/en/articles/reverse-shells-101/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=u5HLBkJQyTI",
+    "upload_date": "20240619"
+  },
+  {
+    "title": "EP 110 | La PodaLife - An Offensive Tooling Tour Ft. @podalirius_",
+    "links": [
+      "https://github.com/p0dalirius",
+      "https://podalirius.net/",
+      "https://youtube.com/c/Podalirius_",
+      "https://www.linkedin.com/in/remigascou",
+      "https://podalirius.net/en/articles/python-context-free-payloads-in-jinja-templates/",
+      "https://podalirius.net/en/articles/writing-an-exploit-for-adminer-4.6.2-arbitrary-file-read-vulnerability/",
+      "https://podalirius.net/en/articles/scraping-search-apis-depth-first-style/",
+      "https://podalirius.net/en/articles/python-context-free-payloads-in-mako-templates/",
+      "https://podalirius.net/en/articles/ibm-as-400-tcp-ip-configuration/",
+      "https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/",
+      "https://podalirius.net/en/articles/ttys-and-where-to-find-them/",
+      "https://podalirius.net/en/articles/exploiting-cve-2020-14144-gitea-authenticated-remote-code-execution/",
+      "https://podalirius.net/en/articles/reverse-shells-101/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=-7WM16i3FG0",
+    "upload_date": "20240617"
+  },
+  {
+    "title": "Teaser - Mouchard Réseau, 802.1X pwning @ LeHack Ft. Joytide",
+    "links": [
+      "https://x.com/j0y71d3/status/1797962770576806204",
+      "https://lehack.org/fr/tracks/",
+      "https://lehack.org/track/sending-network-boxes-to-the-edge-of-the-world-for-fun-but-mostly-profit/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=KP5TLySdZzw",
+    "upload_date": "20240616"
+  },
+  {
+    "title": "EP 109 | Techno Watch June, Ft @pentest_swissky & @drypaints",
+    "links": [
+      "https://github.com/danswer-ai/danswer",
+      "https://github.com/danswer-ai/danswer/security/advisories/GHSA-xr9w-3ggr-hr6j",
+      "https://fastui-demo.onrender.com/",
+      "https://github.com/pydantic/FastUI",
+      "https://github.com/Edr4/XSS-Bypass-Filters",
+      "https://github.com/Icare1337/LibreOffice_Tips_Bug_Bounty",
+      "https://github.com/boostsecurityio/poutine",
+      "https://github.com/boostsecurityio/poutine/blob/main/docs/content/en/rules/injection.md",
+      "https://github.com/ChrisBuilds/terminaltexteffects",
+      "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1",
+      "https://x.com/ptswarm/status/1796162911108255974",
+      "https://embracethered.com/blog/posts/2020/chrome-spy-remote-control/",
+      "https://jmswrnr.com/blog/hacking-a-smart-home-device",
+      "https://kibty.town/blog/chattr/",
+      "https://www.youtube.com/watch?v=Sm4G6cAHjWM&t=0s",
+      "https://mizu.re/post/pong",
+      "https://github.com/MythicAgents/sliver/blob/main/blog/blog.md",
+      "https://mayfly277.github.io/posts/SCCM-LAB-part0x0/",
+      "https://x.com/joshwhiton/status/1796222090216886682"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ayAqsuZ-PXw",
+    "upload_date": "20240613"
+  },
+  {
+    "title": "EP 108 | Techno Watch June, Ft @pentest_swissky & @drypaints",
+    "links": [
+      "https://pagedout.institute/download/PagedOut_004_beta1.pdf",
+      "https://x.com/pilvar222/status/1784618120902005070?mx=2",
+      "https://jdx.dev/posts/2024-04-13-shims-how-they-work-in-mise-en-place/",
+      "https://jdx.dev/posts/2024-04-13-shims-build-a-version-manager/",
+      "https://github.com/dlvhdr/gh-dash",
+      "https://www.synacktiv.com/publications/wordpress-for-security-audit",
+      "https://www.synacktiv.com/publications/frinet-reverse-engineering-made-easier",
+      "https://github.com/angr/angr",
+      "https://github.com/c0dejump/HExHTTP",
+      "https://www.aeth.cc/public/Article-Reset-Tolkien/secret-time-based-article-fr.html",
+      "https://red-team-sncf.github.io/how-to-create-your-own-mythic-agent-in-c.html",
+      "https://swarm.ptsecurity.com/source-code-disclosure-in-asp-net-apps/",
+      "https://www.synacktiv.com/publications/ounedpy-",
+      "https://decoder.cloud/2024/05/30/abusing-the-serelabelprivilege/",
+      "https://github.com/Pennyw0rth/NetExec/releases/tag/v1.2.0",
+      "https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/",
+      "https://www.troyhunt.com/telegram-combolists-and-361m-email-addresses/",
+      "https://www.acceis.fr/introduction-a-lebpf/",
+      "https://www.acceis.fr/creation-dun-programme-ebpf-par-la-pratique-dissimulation-dun-pid-partie-1/",
+      "https://github.com/bpftrace/bpftrace",
+      "https://github.com/peass-ng/PEASS-ng",
+      "https://platform.openai.com/usage",
+      "https://github.com/Frissi0n/GTFONow",
+      "https://posts.specterops.io/hands-in-the-cookie-jar-dumping-cookies-with-chromiums-remote-debugger-port-34c4f468844e?gi=2f705456f73c"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=sIvqMQnxnx8",
+    "upload_date": "20240612"
+  },
+  {
+    "title": "EP 107 | Techno Watch May, Ft @Maltemo",
+    "links": [
+      "https://www.php.net/archive/2024.php?norelease-but-watchout#2024-04-24-1",
+      "https://www.php.net/manual/en/language.operators.comparison.php",
+      "https://github.com/therealcoiffeur/SlowHorses",
+      "https://mastodon.social/@pid_eins/112353324518585654",
+      "https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/",
+      "https://www.sonarsource.com/blog/dangerous-import-sourceforge-patches-critical-code-vulnerability/",
+      "https://www.youtube.com/watch?v=g3yzTQnIgtE",
+      "https://x.com/joaxcar/status/1791013408218775810",
+      "https://x.com/kevin_mizu/status/1793665227202175483",
+      "https://linux.developpez.com/actu/357237/Systemd-v256-presente-run0-Une-alternative-plus-sure-a-sudo-une-nouvelle-approche-de-l-elevation-de-privileges-securisee-visant-a-eliminer-progressivement-les-binaires-SUID-traditionnels/",
+      "https://x.com/hackerfantastic/status/1785495587514638559",
+      "https://yeswehack.com/programs/systemd-bug-bounty-program",
+      "https://www.synacktiv.com/publications/inside-the-ios-bug-that-made-deleted-photos-reappear",
+      "https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/",
+      "https://x.com/buptsb/status/1790305894401753441",
+      "https://buptsb.github.io/blog/post/CVE-2024-4947-%20v8%20incorrect%20AccessInfo%20for%20module%20namespace%20object%20causes%20Maglev%20type%20confusion.html",
+      "https://gitlab.com/xanhacks/web-pentest-reports",
+      "https://www.gremwell.com/firefox-xss-302",
+      "https://krita.org/fr/download/",
+      "https://github.com/Acly/krita-ai-diffusion",
+      "https://github.com/Acly/krita-ai-tools",
+      "https://www.interstice.cloud/plugin"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=syqw0FU7vgE",
+    "upload_date": "20240606"
+  },
+  {
+    "title": "EP 106 | Techno Watch May, Ft @Maltemo",
+    "links": [
+      "https://ctf.exposed/",
+      "https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1",
+      "https://x.com/jeffbarr/status/1787844682216792163",
+      "https://docs.aws.amazon.com/AmazonS3/latest/userguide/ErrorCodeBilling.html",
+      "https://aituglo.com/author/aituglo/",
+      "https://x.com/aituglo/status/1788102841833295941",
+      "https://hackyx.io/",
+      "https://www.cfptime.org/home",
+      "https://github.com/baidu/openrasp",
+      "https://rasp.baidu.com/doc/install/manual/php.html",
+      "https://www.deep-kondah.com/smashing-runtime-application-self-protection-rasp/",
+      "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447/",
+      "https://www.kubernetes.dev/blog/2024/03/19/go-workspaces-in-kubernetes/",
+      "https://kubernetes.io/blog/2024/04/17/kubernetes-v1-30-release/",
+      "https://github.com/go-delve/delve",
+      "https://github.com/sxyazi/yazi",
+      "https://yazi-rs.github.io/features/",
+      "https://yazi-rs.github.io/blog/why-is-yazi-fast/",
+      "https://sonarsource.github.io/mxss-cheatsheet/",
+      "https://medium.com/@d0riane/how-to-lose-your-ctf-retex-et-write-up-partiel-de-lhexa-osint-ctf-v3-28edc72db9c2",
+      "https://medium.com/@d0riane/overpass-turbo-self-training-les-regex-cb278ad1e8cf"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=d1oojkp3D4M",
+    "upload_date": "20240605"
+  },
+  {
+    "title": "EP 105 | JDR AD-Pentest, Ft @pentest_swissky, @penthium2, @NoobosaurusR3x, @Drypaints",
+    "links": [
+      "https://github.com/Pennyw0rth/NetExec",
+      "https://github.com/fortra/impacket",
+      "https://github.com/CravateRouge/bloodyAD",
+      "https://www.openwall.com/john/",
+      "https://github.com/gentilkiwi/mimikatz"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Fzpv_WZzX1k",
+    "upload_date": "20240603"
+  },
+  {
+    "title": "EP 104 | JDR AD-Pentest, Ft @pentest_swissky, @penthium2, @NoobosaurusR3x, @Drypaints",
+    "links": [
+      "https://github.com/rapid7/metasploit-framework",
+      "https://linux.die.net/man/1/nc",
+      "https://swisskyrepo.github.io/InternalAllTheThings/",
+      "https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/kerberoast",
+      "https://hashcat.net/hashcat/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=alFKV3Fagfs",
+    "upload_date": "20240602"
+  },
+  {
+    "title": "EP 103 | JDR AD-Pentest, Ft @pentest_swissky, @penthium2, @NoobosaurusR3x, @Drypaints",
+    "links": [
+      "https://linux.die.net/man/1/curl",
+      "https://linux.die.net/man/1/dig",
+      "https://nmap.org/",
+      "https://github.com/p0dalirius/smbclient-ng",
+      "https://filezilla-project.org/",
+      "https://linux.die.net/man/1/ldapsearch"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=92MDiC78SFc",
+    "upload_date": "20240601"
+  },
+  {
+    "title": "Write-Up Tower-CTF WorldMap, Web, and Realist Feat @xanhacks",
+    "links": [
+      "https://www.tower-ctf.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wKWxISl-WAM",
+    "upload_date": "20240521"
+  },
+  {
+    "title": "EP 102 | Secator 101, from Beginner to Advanced, Ft Maltemo, Nabot & JahMyst",
+    "links": [
+      "https://github.com/freelabz/secator",
+      "https://docs.freelabz.com/",
+      "https://github.com/kitabisa/mubeng",
+      "https://twitter.com/freelabz",
+      "https://www.linkedin.com/company/freelabz/",
+      "https://www.youtube.com/@FreeLabz"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=IUV4ZQHBp90",
+    "upload_date": "20240517"
+  },
+  {
+    "title": "EP 101 | Secator 101, from Beginner to Advanced, Ft Maltemo, Nabot & JahMyst",
+    "links": [
+      "https://github.com/freelabz/secator",
+      "https://docs.freelabz.com/",
+      "https://github.com/kitabisa/mubeng",
+      "https://twitter.com/freelabz",
+      "https://www.linkedin.com/company/freelabz/",
+      "https://www.youtube.com/@FreeLabz"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=urC5eU4-nV8",
+    "upload_date": "20240516"
+  },
+  {
+    "title": "EP 100 | Secator 101, from Beginner to Advanced, Ft Maltemo, Nabot & JahMyst",
+    "links": [
+      "https://github.com/freelabz/secator",
+      "https://docs.freelabz.com/",
+      "https://github.com/kitabisa/mubeng",
+      "https://twitter.com/freelabz",
+      "https://www.linkedin.com/company/freelabz/",
+      "https://www.youtube.com/@FreeLabz"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=42L7t2zMq2g",
+    "upload_date": "20240515"
+  },
+  {
+    "title": "Teaser - Stranger Case le 4 Mai 2024",
+    "links": [
+      "https://strangercase.org/",
+      "https://discord.gg/DagCZYv62j",
+      "https://twitter.com/Stranger_Case",
+      "https://www.youtube.com/watch?v=hPeUr4iBDBU",
+      "https://www.youtube.com/watch?v=AvxA2dwLQec"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=096tROgFGuA",
+    "upload_date": "20240502"
+  },
+  {
+    "title": "Write-Up Flag4Jobs MlWeb Challenge Feat @TheHack42",
+    "links": [
+      "https://app.flag4jobs.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=2szuYX1dswo",
+    "upload_date": "20240429"
+  },
+  {
+    "title": "Commentary - Bro @fransosiche & HTB CozyHosting",
+    "links": [
+      "https://twitter.com/fransosiche",
+      "https://www.youtube.com/watch?v=pfaNzLAIEwM"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=HBM1csp33PI",
+    "upload_date": "20240422"
+  },
+  {
+    "title": "EP 099 | Techno Watch April p2, Feat @Drypaints & @Nagarian",
+    "links": [
+      "https://asciinema.org/",
+      "https://github.com/dynobo/normcap",
+      "https://gist.github.com/paj28/86c7b8f37371d89c9a36ed0280fcf450",
+      "https://hackerone.com/reports/2424815",
+      "https://linuxcommand.org/",
+      "https://explainshell.com/",
+      "https://lespireshat.medium.com/disparition-inqui%C3%A9tante-de-notre-drapeau-76ff95052375",
+      "https://code-white.com/blog/leaking-objrefs-to-exploit-http-dotnet-remoting/",
+      "https://github.com/notselwyn/cve-2024-1086",
+      "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/",
+      "https://pwning.tech/nftables/",
+      "https://www.synacktiv.com/advisories/misp-arbitrary-file-read",
+      "https://github.com/ynqa/jnv",
+      "https://gleam.run/news/gleam-version-1/",
+      "https://github.com/mrrootsec/AssetViz",
+      "https://github.com/laluka/lalubuntu/actions"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ntUV1t5Hgbc",
+    "upload_date": "20240415"
+  },
+  {
+    "title": "EP 098 | Techno Watch April p1, Feat @Drypaints & @Nagarian",
+    "links": [
+      "https://evaparish.com/blog/how-i-edit",
+      "https://www.openwall.com/lists/oss-security/2024/03/29/4",
+      "https://www.spiceworks.com/it-security/cyber-risk-management/news/xz-utils-backdoor-open-source-software-attack/",
+      "https://dustri.org/b/leaving-google.html",
+      "https://www.errno.fr/bruteforcing_CVE-2024-23897.html",
+      "https://blog.slonser.info/posts/ipv6-zones/",
+      "https://github.com/roboflow/supervision",
+      "https://github.com/johnoneil/subimage",
+      "https://github.com/opencv/opencv",
+      "https://github.com/hybridgroup/gocv",
+      "https://book.hacktricks.xyz/v/fr/linux-hardening/privilege-escalation/euid-ruid-suid",
+      "https://www.whitehouse.gov/ostp/news-updates/2024/04/02/white-house-office-of-science-and-technology-policy-releases-celestial-time-standardization-policy/",
+      "https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html",
+      "https://github.com/soIu/rpython"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4N3QEOnWqxU",
+    "upload_date": "20240414"
+  },
+  {
+    "title": "EP 097 | StHack Scoreboard Pentest Report, Feat @Drypaints & @Nagarian",
+    "links": [
+      "https://github.com/StHack/sthack-interface",
+      "https://github.com/StHack/sthack-interface-neo",
+      "https://github.com/StHack/sthack-interface",
+      "https://sthack.fr/",
+      "https://github.com/mongo-express/mongo-express",
+      "https://portswigger.net/burp/communitydownload",
+      "https://book.hacktricks.xyz/v/fr/pentesting-web/deserialization/nodejs-proto-prototype-pollution/client-side-prototype-pollution",
+      "http://0.0.0.0:8081",
+      "http://164.92.157.182:8081/db/admin/system.users/%22admin.sthack-admin%22?skip=0"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Z34a3QQDoa0",
+    "upload_date": "20240412"
+  },
+  {
+    "title": "Leaking Php 0day Exploits Live 🐟",
+    "links": [
+      "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=fr"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4U1u7gzVgSw",
+    "upload_date": "20240411"
+  },
+  {
+    "title": "EP 096 | Grroxy, Cook, and jdx/mise Feat @jdxcode & @glitchedgitz !",
+    "links": [
+      "https://mise.jdx.dev/",
+      "https://github.com/jdx/mise",
+      "https://github.com/marketplace/actions/mise-action",
+      "https://github.com/dagger/dagger"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=B617_3OGICY",
+    "upload_date": "20240407"
+  },
+  {
+    "title": "EP 095 | Grroxy, Cook, and jdx/mise Feat @jdxcode & @glitchedgitz !",
+    "links": [
+      "https://grroxy.com/",
+      "https://github.com/glitchedgitz/cook",
+      "https://github.com/ffuf/ffuf"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=zA1hjrLQiPw",
+    "upload_date": "20240407"
+  },
+  {
+    "title": "EP 094 | CloudFlare X TechnoWatch Feat Endo !",
+    "links": [
+      "https://github.com/laluka/stream-cf-zerotrust",
+      "https://www.cloudflare.com/",
+      "https://blog.cloudflare.com/eliminate-vpn-vulnerabilities-with-cloudflare-one",
+      "https://blog.cloudflare.com/introducing-cf-terraform",
+      "https://github.com/cloudflare/cf-terraforming",
+      "https://medium.com/@0xlildoudou/dcc2802800c4",
+      "https://talkback.sh/",
+      "https://www.elttam.com/blog/talkback-intro/#content",
+      "https://github.com/google/magika",
+      "https://github.com/alexschiller/file-format-commons",
+      "https://github.com/dockur/windows",
+      "https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ypO2iqb4c2Y",
+    "upload_date": "20240331"
+  },
+  {
+    "title": "EP 093 | CloudFlare ZeroTrust, Defense & Attack modes Feat Endo !",
+    "links": [
+      "https://github.com/laluka/stream-cf-zerotrust",
+      "https://www.cloudflare.com/",
+      "https://github.com/cdktf/cdktf-provider-cloudflare",
+      "https://www.hashicorp.com/blog/enable-self-service-aws-eks-deployments-with-cdk-for-terraform",
+      "https://kubernetes.io/fr/",
+      "https://github.com/derailed/k9s",
+      "https://github.com/postmanlabs/httpbin",
+      "https://github.com/n8n-io/n8n",
+      "https://ngrok.com/",
+      "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=_LA0kxcqDV0",
+    "upload_date": "20240331"
+  },
+  {
+    "title": "EP 092 | CloudFlare ZeroTrust, Defense & Attack modes Feat Endo !",
+    "links": [
+      "https://github.com/laluka/stream-cf-zerotrust",
+      "https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/",
+      "https://www.cloudflare.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=3OhEh5WJNYk",
+    "upload_date": "20240331"
+  },
+  {
+    "title": "EP 091 | Créer sa platforme de CTF ? Deep Dive Tower-CTF & Flag4Jobs Feat @TheHack42 & @xanhacks !",
+    "links": [
+      "https://www.tower-ctf.fr/app/",
+      "https://app.flag4jobs.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=GDoSzOEwnjw",
+    "upload_date": "20240320"
+  },
+  {
+    "title": "EP 090 | Créer sa platforme de CTF ? Deep Dive Tower-CTF & Flag4Jobs Feat @TheHack42 & @xanhacks !",
+    "links": [
+      "https://www.tower-ctf.fr/app/",
+      "https://app.flag4jobs.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=e3_5uABd8PM",
+    "upload_date": "20240320"
+  },
+  {
+    "title": "EP 089 | Créer sa platforme de CTF ? Deep Dive Tower-CTF & Flag4Jobs Feat @TheHack42 & @xanhacks !",
+    "links": [
+      "https://www.tower-ctf.fr/app/",
+      "https://app.flag4jobs.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=F-jKIOhh4uQ",
+    "upload_date": "20240320"
+  },
+  {
+    "title": "EP 088 | Techno Watch ! Feat @Drypaints & @Maltemo",
+    "links": [
+      "https://www.synacktiv.com/advisories/remote-code-execution-on-cisco-access-point-wap371-firmware-1307",
+      "https://joaxcar.com/blog/2023/10/06/cve-2022-4908-sop-bypass-in-chrome-using-navigation-api/",
+      "https://ricercasecurity.blogspot.com/2023/07/fuzzing-farm-1-fuzzing-gegl-with-fuzzuf.html",
+      "https://www.acceis.fr/vs-code-trust-abuse/",
+      "https://jakearchibald.com/2023/against-self-closing-tags-in-html/",
+      "https://github.com/Lissy93/web-check",
+      "https://github.blog/changelog/2024-02-29-push-protection-is-enabled-for-free-users-on-github/",
+      "https://iter.ca/post/js-html-comments/",
+      "https://skii.dev/rook-to-xss/",
+      "http://tom7.org/chess/cve.pdf",
+      "https://en.wikipedia.org/wiki/Samy_(computer_worm)",
+      "https://twitter.com/zephray_wenting/status/1761548861896606014",
+      "https://github.com/snyk/socketsleuth",
+      "https://www.youtube.com/watch?v=-wE2OV1HvPQ",
+      "https://portswigger-labs.net/hackability/inspector/",
+      "https://astral.sh/blog/uv",
+      "https://github.com/astral-sh/uv",
+      "https://github.com/gquere/pwn_jenkins/blob/master/README.md",
+      "https://github.com/NitroCao/CVE-2024-21626",
+      "https://bughunters.google.com/blog/5294234841776128/nom-for-security-a-proactive-security-review-of-nomulus",
+      "https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html",
+      "https://www.yeswehack.com/learn-bug-bounty/smart-automation-with-burp-suite",
+      "https://wubuntu.org/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=_W_TQ5IK4zM",
+    "upload_date": "20240308"
+  },
+  {
+    "title": "EP 087 | Techno Watch ! Feat @Drypaints & @Maltemo",
+    "links": [
+      "https://www.wubuntu.org/",
+      "https://www.youtube.com/watch?v=pfaNzLAIEwM",
+      "https://www.youtube.com/watch?v=Lggkp30CmlY",
+      "https://linuxblog.io/remove-snap-ubuntu-22-04-lts/",
+      "https://glowingserenebrightspell.neverssl.com/online/",
+      "https://cr3upsy.github.io/i3",
+      "https://7h30th3r0n3.fr/does-your-machine-have-a-good-or-bad-karma/",
+      "https://securitylabs.datadoghq.com/articles/tales-from-the-cloud-trenches-ecs-crypto-mining/",
+      "https://gbhackers.com/ssh3-secure-shell/#google_vignette",
+      "https://www.synacktiv.com/sites/default/files/2024-01/synacktiv-pulseconnectsecure-multiple-vulnerabilities.pdf",
+      "https://www.assetnote.io/resources/research/ivantis-pulse-connect-secure-auth-bypass-round-two",
+      "https://www.errno.fr/DockerDependencyConfusion",
+      "https://joaxcar.com/blog/2024/02/19/csp-bypass-on-portswigger-net-using-google-script-resources/",
+      "https://talkback.sh/tech/",
+      "https://sector035.nl/",
+      "https://publish.obsidian.md/yooga-sec/Forensike%2C+or+Forensics+for+bad+guys"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=C4EzfQGQKac",
+    "upload_date": "20240308"
+  },
+  {
+    "title": "EP 086 | Docker Compose & StHack Source Code Audit ! Feat @Drypaints & @shoxxdj",
+    "links": [
+      "https://github.com/StHack/sthack-interface",
+      "https://github.com/StHack/sthack-interface-neo",
+      "https://github.com/StHack/sthack-interface",
+      "https://sthack.fr/",
+      "https://github.com/semgrep/semgrep",
+      "https://portswigger.net/burp/communitydownload",
+      "https://book.hacktricks.xyz/v/fr/pentesting-web/deserialization/nodejs-proto-prototype-pollution/client-side-prototype-pollution"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vIlBeqWjGuc",
+    "upload_date": "20240223"
+  },
+  {
+    "title": "EP 085 | Docker Compose & StHack Source Code Audit ! Feat @Drypaints & @shoxxdj",
+    "links": [
+      "https://github.com/StHack/sthack-interface",
+      "https://github.com/StHack/sthack-interface-neo",
+      "https://github.com/StHack/sthack-interface",
+      "https://sthack.fr/",
+      "https://github.com/semgrep/semgrep",
+      "https://portswigger.net/burp/communitydownload",
+      "https://book.hacktricks.xyz/v/fr/pentesting-web/deserialization/nodejs-proto-prototype-pollution/client-side-prototype-pollution"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=i6RR9uRENfI",
+    "upload_date": "20240223"
+  },
+  {
+    "title": "EP 084 | Docker Compose & StHack Source Code Audit ! Feat @Drypaints & @shoxxdj",
+    "links": [
+      "https://github.com/StHack/sthack-interface",
+      "https://github.com/StHack/sthack-interface-neo",
+      "https://github.com/StHack/sthack-interface",
+      "https://sthack.fr/",
+      "https://github.com/semgrep/semgrep",
+      "https://portswigger.net/burp/communitydownload",
+      "https://book.hacktricks.xyz/v/fr/pentesting-web/deserialization/nodejs-proto-prototype-pollution/client-side-prototype-pollution"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=O1YeAICdf9I",
+    "upload_date": "20240223"
+  },
+  {
+    "title": "EP 083 | Lets PoC a few CLI & Pentest tools ! With @Drypaints",
+    "links": [
+      "https://github.com/folke/lazy.nvim",
+      "https://nvchad.com/",
+      "https://github.com/LazyVim/LazyVim",
+      "https://nvchad.com/docs/features",
+      "https://github.com/adamritter/fastgron",
+      "https://blog.doyensec.com/2023/07/18/streamlining-websocket-pentesting-with-wsrepl.html",
+      "https://github.com/vi/websocat",
+      "https://github.com/dgtlmoon/changedetection.io",
+      "https://github.com/narfindustries/http-garden"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=q9DJVmNVLUA",
+    "upload_date": "20240215"
+  },
+  {
+    "title": "EP 082 | Lets PoC a few CLI & Pentest tools ! With @Drypaints",
+    "links": [
+      "https://grroxy.com/",
+      "https://github.com/Qovery/engine",
+      "https://github.com/projectdiscovery/cvemap",
+      "https://ssrf.cvssadvisor.com/",
+      "https://app.interactsh.com/#/",
+      "https://github.com/kazkansouh/odd-hash/tree/master/oddhash",
+      "https://github.com/hashcat/hashcat",
+      "https://github.com/0xacb/recollapse"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=H1q9kAJ_jTA",
+    "upload_date": "20240215"
+  },
+  {
+    "title": "EP 081 | The Bug Bounty Ep ! With @Blaklis_, @Geluchat, & @adibousec part 6",
+    "links": [
+      "https://huntr.com/bounties/0e7fc024-b21e-479b-95a6-cdca16321e54",
+      "https://huntr.com/bounties/f3b67302-092c-48b7-b2d5-26ffd6982f2b",
+      "https://huntr.com/bounties/d9364224-cb9e-4b5c-81cc-0ab85bba693f"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xPJNIpFy9L8",
+    "upload_date": "20240209"
+  },
+  {
+    "title": "EP 080 | The Bug Bounty Ep ! With @Blaklis_, @Geluchat, & @adibousec part 5",
+    "links": [
+      "https://github.com/GrrrDog/weird_proxies",
+      "https://github.com/narfindustries/http-garden",
+      "https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html",
+      "https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html",
+      "https://github.com/dompdf/dompdf/security/advisories/GHSA-3cw5-7cxw-v5qg",
+      "https://github.com/dompdf/dompdf/security/advisories/GHSA-56gj-mvh6-rp75",
+      "https://helpx.adobe.com/fr/security/products/magento/apsb22-12.html",
+      "https://twitter.com/swisscom_csirt/status/1511637337868054529",
+      "https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/",
+      "https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=LOULxL4XDJc",
+    "upload_date": "20240209"
+  },
+  {
+    "title": "EP 079 | The Bug Bounty Ep ! With @Blaklis_, @Geluchat, & @adibousec part 4",
+    "links": [
+      "https://intrusive.io/",
+      "https://gist.github.com/laluka/c1b12a0bf55f5f383b40c711bb4b0fe1",
+      "https://github.com/niexia/postMessage-catcher",
+      "https://github.com/fransr/postMessage-tracker",
+      "https://github.com/GrrrDog/weird_proxies",
+      "https://github.com/narfindustries/http-garden"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=audf3luSSgg",
+    "upload_date": "20240209"
+  },
+  {
+    "title": "EP 078 | The Bug Bounty Ep ! With @Blaklis_, @Geluchat, & @adibousec part 3",
+    "links": [
+      "https://x.com/Blaklis_",
+      "https://x.com/adibousec",
+      "https://www.dailysecurity.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7Kx85-2RQKs",
+    "upload_date": "20240201"
+  },
+  {
+    "title": "EP 077 | The Bug Bounty Ep ! With @Blaklis_, @Geluchat, & @adibousec part 2",
+    "links": [
+      "https://x.com/Blaklis_",
+      "https://x.com/adibousec",
+      "https://www.dailysecurity.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=kMp0kmk_bqs",
+    "upload_date": "20240201"
+  },
+  {
+    "title": "EP 076 | The Bug Bounty Ep ! With @Blaklis_, @Geluchat, & @adibousec part 1",
+    "links": [
+      "https://x.com/Blaklis_",
+      "https://x.com/adibousec",
+      "https://www.dailysecurity.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=g_G0F6ha5Vk",
+    "upload_date": "20240201"
+  },
+  {
+    "title": "EP 075 | Going nuts with trash-cli, utf-8, badchars. Bash kung-fu session with @penthium2 & @0x1sis",
+    "links": [
+      "https://twitter.com/0x1sis",
+      "https://twitter.com/penthium2",
+      "https://github.com/laluka/bypass-url-parser",
+      "https://github.com/andreafrancia/trash-cli/issues/332"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=p_Rmg0e5mhc",
+    "upload_date": "20240131"
+  },
+  {
+    "title": "EP 074 | Improvements on bypass-url-parser with @penthium2 & @0x1sis",
+    "links": [
+      "https://twitter.com/0x1sis",
+      "https://twitter.com/penthium2",
+      "https://github.com/laluka/bypass-url-parser",
+      "https://github.com/andreafrancia/trash-cli/issues/332"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=TJpPhgZRLfM",
+    "upload_date": "20240131"
+  },
+  {
+    "title": "EP 073 | 8 GPUs Cloud Hash Cracking @ paperspace &  PoC SecGPT assistant with @penthium2 & @0x1sis",
+    "links": [
+      "https://console.paperspace.com/laluka/machines/create",
+      "https://gist.github.com/yg-ht/d975577ad1cd76b62bcee001317cb0da",
+      "https://gist.github.com/laluka/b6736bc02a3bbc85fc61d9457997eb5d",
+      "https://github.com/Paperspace/ml-in-a-box/tree/main/ubuntu-22",
+      "https://www.linkedin.com/posts/jhaddix_chatgpt-secgpt-activity-7152105042928357376-Z4Xc/",
+      "https://chat.openai.com/g/g-HTsfg2w2z-secgpt"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=tR1hrQmz_e0",
+    "upload_date": "20240131"
+  },
+  {
+    "title": "DrinkLoveShare V1  - Rump Session",
+    "links": [
+      "https://x.com/@pentest_swissky",
+      "https://x.com/@Zk_Clown",
+      "https://x.com/@rayanlecat",
+      "https://x.com/@TheLaluka",
+      "https://x.com/@Maltemo",
+      "https://x.com/@j0y71d3",
+      "https://x.com/@_bluesheet",
+      "https://x.com/@stdkat",
+      "https://gist.github.com/laluka/68bdda93f708a969181558be3a84d182"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=BmPIFRT0NHI",
+    "upload_date": "20240119"
+  },
+  {
+    "title": "EP 072 | Techno Watch January Ft. @penthium2 & @pentest_swissky",
+    "links": [
+      "https://github.com/spyboy-productions/CloakQuest3r",
+      "https://github.com/christophetd/CloudFlair",
+      "https://www.imperva.com/blog/navigating-the-sea-exploiting-digitalocean-apis/",
+      "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html",
+      "https://7h30th3r0n3.fr/evil-m5project-rtfm/",
+      "https://github.com/7h30th3r0n3/Evil-M5Core2",
+      "https://shop.m5stack.com/products/m5stack-core2-esp32-iot-development-kit?variant=35960244109476",
+      "https://grsecurity.net/constify_fast_defenses_for_new_exploits",
+      "https://grsecurity.net/download",
+      "https://github.com/netspooky/scare",
+      "https://n0.lol/",
+      "https://blog.s1r1us.ninja/research/brokenconflu/",
+      "https://portswigger.net/research/top-10-web-hacking-techniques-of-2023-nominations-open",
+      "https://itnext.io/best-practices-for-writing-quality-vulnerability-reports-119882422a27",
+      "https://twitter.com/Johnie/status/1744556503183585471",
+      "https://www.jackphilipbutton.com/post/how-to-protect-evilginx-using-cloudflare-and-html-obfuscation",
+      "https://www.elastic.co/security-labs/the-elastic-container-project",
+      "https://pulsesecurity.co.nz/articles/OMGCICD-gitlab",
+      "https://medium.com/@renwa/you-are-not-where-you-think-you-are-opera-browsers-address-bar-spoofing-vulnerabilities-aa36ad8321d8",
+      "https://github.com/curl/curl/discussions/12026",
+      "https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/",
+      "https://php.watch/versions/8.0/phar-stream-wrapper-unserialize"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Iwm_hnywB5I",
+    "upload_date": "20240118"
+  },
+  {
+    "title": "EP 071 | Downgrade sudo privileged scripts Ft. @penthium2 & @pentest_swissky",
+    "links": [
+      "https://github.com/penthium2/SUDOwngrade_breizhCTF_2024",
+      "https://github.com/gurkylee/Linux-Privilege-Escalation-Basics"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=GnKRRgkVGdk",
+    "upload_date": "20240118"
+  },
+  {
+    "title": "EP 070 | Techno Watch January Ft. @penthium2 & @pentest_swissky",
+    "links": [
+      "https://about.gitlab.com/releases/2024/01/11/critical-security-release-gitlab-16-7-2-released/#account-takeover-via-password-reset-without-user-interactions",
+      "https://github.com/V1lu0/CVE-2023-7028/issues/1",
+      "https://www.nongnu.org/fbi-improved/",
+      "https://www.ambionics.io/blog/wrapwrap-php-filters-suffix",
+      "https://blog.stephane-robert.info/docs/securiser/durcissement/ssh/",
+      "https://youtu.be/ZuFG0mGH_4U",
+      "https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/",
+      "https://blog.hrncirik.net/cve-2023-46214-analysis",
+      "https://certitude.consulting/blog/en/using-cloudflare-to-bypass-cloudflare",
+      "https://pyinstaller.org/en/stable/",
+      "https://www.cncf.io/blog/2023/11/06/kyverno-expands-beyond-kubernetes/",
+      "https://kyverno.io/docs/introduction/#quick-start",
+      "https://github.com/octodns/octodns",
+      "https://mandconsulting.ca/plundering-postman-with-porch-pirate-osint/",
+      "https://zelda64.dev/games/tmc",
+      "https://zeldaret.github.io/tmc/",
+      "https://github.com/xaitax/SploitScan",
+      "https://portswigger.net/research/web-storage-the-lesser-evil-for-session-tokens",
+      "https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb",
+      "https://www.synacktiv.com/publications/using-ntdissector-to-extract-secrets-from-adam-ntds-files",
+      "https://www.cosive.com/blog/watching-them-watching-you-opsec-for-security-investigators",
+      "https://about.gitlab.com/blog/2023/11/28/how-gitlabs-red-team-automates-c2-testing/",
+      "https://github.com/faucetsdn/poseidon",
+      "https://sokarepo.github.io/redteam/2023/10/11/create-reflective-dll-for-cobaltstrike.html",
+      "https://sokarepo.github.io/redteam/2024/01/04/increase-your-stealth-capabilities-part1.html",
+      "https://sokarepo.github.io/redteam/2024/01/04/increase-your-stealth-capabilities-part2.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=8SL7viwQtto",
+    "upload_date": "20240117"
+  },
+  {
+    "title": "EP 069 | Techno Watch January with @Fransosiche - part 2",
+    "links": [
+      "https://www.numerama.com/cyberguerre/1596102-on-negocie-avec-les-hackers-comme-avec-des-kidnappeurs-rencontre-avec-un-negociateur-de-rancon.html",
+      "https://wooting.io/wootility",
+      "https://github.com/laluka/listen",
+      "https://www.theregister.com/2023/12/21/mozilla_decides_trusted_types_is/",
+      "https://github.com/punk-security/dnsReaper",
+      "https://frame.work/fr/fr",
+      "https://docs.datadoghq.com/security/default_rules/",
+      "https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ansible-increase-performance/",
+      "https://securitylabs.datadoghq.com/articles/kubernetes-cve-2023-3676/",
+      "https://blog.neolex.dev/13/",
+      "https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/",
+      "https://une-tasse-de.cafe/blog/firecracker/",
+      "https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability",
+      "https://www.cyentia.com/the-death-of-infosec-twitter/",
+      "https://sensepost.com/blog/2023/reading-large-files-and-perf/",
+      "https://github.com/sharkdp/hyperfine",
+      "https://landscape.cncf.io/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=mrnxwyL8HB8",
+    "upload_date": "20240104"
+  },
+  {
+    "title": "EP 068 | Techno Watch January with @Fransosiche - part 1",
+    "links": [
+      "https://nishacid.guru/writeups/grehack_xss_checker/",
+      "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE",
+      "https://github.com/buger/goreplay",
+      "https://github.com/ail-project/ail-framework",
+      "https://www.youtube.com/watch?v=90CYYfl9ntM",
+      "https://www.linkedin.com/posts/synacktiv_security-advisory-activity-7138582932453036032-yzRY/",
+      "https://github.com/jmpoep/vmprotect-3.5.1",
+      "https://blog.washi.dev/posts/on-the-vmp-leak-and-why-it-is-bad/",
+      "https://bleekseeks.com/blog/how-to-protect-against-modern-phishing-attacks",
+      "https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/",
+      "https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html",
+      "https://www.ambionics.io/blog/owncloud-cve-2023-49103-cve-2023-49105",
+      "https://www.greynoise.io/blog/cve-2023-49103-owncloud-critical-vulnerability-quickly-exploited-in-the-wild",
+      "https://www.openappsec.io/post/best-waf-solutions-in-2023-real-world-comparison",
+      "https://www.synacktiv.com/publications/pcapan-a-pcap-analysis-helper",
+      "https://portswigger.net/research/smashing-the-state-machine?ps_source=portswiggerres&ps_medium=social&ps_campaign=race-conditions",
+      "https://blog.raw.pm/fr/Service-Hacktion-S01E01-rattachage-dns/",
+      "https://blog.whiteflag.io/blog/browser-cache-smuggling/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=jKUNH1Lc77c",
+    "upload_date": "20240104"
+  },
+  {
+    "title": "EP 067 | Realeasing LaluBuntu with @Fransosiche",
+    "links": [
+      "https://github.com/laluka/lalubuntu",
+      "https://github.com/fransosiche/fransible"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=5r-C59kOIyc",
+    "upload_date": "20240104"
+  },
+  {
+    "title": "LaluBuntu Setup - Offensive Security Distro",
+    "links": [
+      "https://github.com/laluka/lalubuntu",
+      "https://github.com/fransosiche/fransible",
+      "https://www.youtube.com/watch?v=xxOVNKNs24s"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=59T4gQICirU",
+    "upload_date": "20231230"
+  },
+  {
+    "title": "EP 066 | PHP'Exploit Chains with @_remsio_ & @_Worty",
+    "links": [
+      "https://github.com/W0rty/libcurl-crlf",
+      "https://www.php.net/manual/en/function.curl-setopt.php",
+      "https://www.synacktiv.com/advisories/unauthenticated-server-side-request-forgery-crlf-injection-in-geoserver-wms",
+      "https://hexag0n.fr/2022/12/05/spellorsterra/",
+      "https://www.php.net/manual/en/function.uniqid.php",
+      "https://medium.com/@fpatrik/how-i-found-an-xss-vulnerability-via-using-emojis-7ad72de49209"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=hck-f7SLYu0",
+    "upload_date": "20231221"
+  },
+  {
+    "title": "EP 065 | Advanced PHP PoPChains with @_remsio_ & @_Worty",
+    "links": [
+      "https://www.synacktiv.com/publications/finding-a-pop-chain-on-a-common-symfony-bundle-part-1",
+      "https://www.synacktiv.com/publications/finding-a-pop-chain-on-a-common-symfony-bundle-part-2",
+      "https://www.php.net/manual/en/function.unserialize.php",
+      "https://www.php.net/manual/en/book.phar.php",
+      "https://www.php.net/manual/en/language.oop5.magic.php",
+      "https://www.php.net/manual/en/language.oop5.autoload.php",
+      "https://wiki.php.net/rfc/phar_stop_autoloading_metadata",
+      "https://github.com/ambionics/phpggc",
+      "https://fenrisk.com/gadgets-chain-in-wordpress",
+      "https://github.com/WordPress/WordPress",
+      "https://github.com/php/php-src/issues/9618",
+      "https://github.com/symfony/symfony",
+      "https://blog.checkpoint.com/wp-content/uploads/2016/08/Exploiting-PHP-7-unserialize-Report-160829.pdf"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Q2mPTlDTsfA",
+    "upload_date": "20231221"
+  },
+  {
+    "title": "EP 064 | Releasing a TTS CLI tool \"listen\" with @_remsio_ & @_Worty",
+    "links": [
+      "https://github.com/laluka/listen",
+      "https://gitlab.com/TheLaluka/listen"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=mZ9X5KLSFTg",
+    "upload_date": "20231221"
+  },
+  {
+    "title": "Drink Love Share - RSVP Mardi 9 Janvier à Paris !",
+    "links": [
+      "https://framadate.org/qKRR9CG2UdLekTxX",
+      "https://twitter.com/TheLaluka/status/1734265210297303501"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=mMiHqz1iU20",
+    "upload_date": "20231220"
+  },
+  {
+    "title": "EP 063 | Technology Watch December with @Fransosiche & @Drypaints - part 3",
+    "links": [
+      "https://joshua.hu/gaining-root-with-logrotate-sudo-ubuntu",
+      "https://hakluke.com/cybersecurity-is-lost-the-story-of-the-man-in-the-van/",
+      "https://blog.hks.ec/posts/ip-spoofing-ftw/",
+      "https://bughunters.google.com/blog/6554750087200768/securely-hosting-user-data-in-modern-web-applications",
+      "https://github.com/joernio/joern",
+      "https://joern.io/blog/vlc-automatic-updater-buffer-overflow-vulnerability/",
+      "https://techcommunity.microsoft.com/t5/windows-it-pro-blog/the-evolution-of-windows-authentication/ba-p/3926848",
+      "https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/",
+      "https://www.linkedin.com/feed/update/urn:li:activity:7135183432552189952/",
+      "https://www.euractiv.fr/section/cybersecurite/news/cyberdefense-active-lue-envisage-le-recours-au-hacking-de-represailles/",
+      "https://github.com/supertuxkart/stk-code",
+      "https://www.ambionics.io/blog/owncloud-cve-2023-49103-cve-2023-49105",
+      "https://www.labs.greynoise.io//grimoire/2023-11-29-owncloud-redux/",
+      "https://github.com/cfreal/ten",
+      "https://youtu.be/zjkBMFhNj_g",
+      "https://cursor.sh/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wkWLqOL6B00",
+    "upload_date": "20231207"
+  },
+  {
+    "title": "EP 062 | Technology Watch December with @Fransosiche & @Drypaints - part 2",
+    "links": [
+      "https://github.com/lyft/cartography",
+      "https://lyft.github.io/cartography/usage/samplequeries.html",
+      "https://github.com/goreleaser/goreleaser",
+      "https://www.randorisec.fr/conference-grehack-2023/",
+      "https://www.youtube.com/watch?v=ULUtXIptTM0",
+      "https://www.root-me.org/fr/Informations/Faiblesses-Decouvertes/",
+      "https://twitter.com/GergelyOrosz/status/1728177708608450705",
+      "https://blog.pyn3rd.com/2023/09/15/CVE-2023-34040-Spring-Kafka-Deserialization-Remote-Code-Execution/",
+      "https://mega.nz/file/jIoiQLIK#qd5ZubjnN2hgGxMyNAGoTF1cIoApJZYnroGXXS4p0w8",
+      "https://github.com/asdf-vm/asdf/issues/1565",
+      "https://www.youtube.com/@Fireship",
+      "https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt",
+      "https://github.com/johnthagen/min-sized-rust",
+      "https://trustedsec.com/blog/the-triforce-of-initial-access",
+      "https://github.com/dirkjanm/ROADtools",
+      "https://github.com/Flangvik/TeamFiltration",
+      "https://blog.yeswehack.com/yeswerhackers/web-application-firewall-bypass/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4Qc26GsFNf4",
+    "upload_date": "20231207"
+  },
+  {
+    "title": "EP 061 | Technology Watch December with @Fransosiche & @Drypaints - part 1",
+    "links": [
+      "https://twitter.com/garethheyes/status/1725498617106956691",
+      "https://hacktback.fr/nos-ressources/exploitation-des-modeles-gpt-personnalises/",
+      "https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html",
+      "https://github.com/fr0gger/Awesome-GPT-Agents",
+      "https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2023-A-3-Years-Tale-of-Hacking-a-Pwn2Own-Target.pdf",
+      "https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/",
+      "https://github.com/redhuntlabs/Octopii",
+      "https://twitter.com/KishanBagaria/status/1725586252630540555?t=sDoRFJLQJwsb91QLEmguwA&s=19",
+      "https://texts.blog/2023/11/18/sunbird-security/",
+      "https://www.reversemode.com/2023/10/reversing-france-identite-new-french.html?m=1",
+      "https://portswigger.net/research/web-storage-the-lesser-evil-for-session-tokensc",
+      "https://sonarsource.github.io/argument-injection-vectors/",
+      "https://github.com/nccgroup/argumentinjectionhammer",
+      "https://lejournalduhack.com/une-faille-de-google-agenda-permet-de-pirater-votre-ordinateur/",
+      "https://twitter.com/eduardo_nuri/status/1723369667807297578"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=8P4naEbU1Q0",
+    "upload_date": "20231207"
+  },
+  {
+    "title": "EP 060 | Pentest methodology & magento2 SSTI analysis with @_remsio_ & @_bluesheet",
+    "links": [
+      "https://www.synacktiv.com/en/publications/php-filter-chains-file-read-from-error-based-oracle",
+      "https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it",
+      "https://www.synacktiv.com/publications/exploiting-cve-2022-24816-a-code-injection-in-the-jt-jiffle-extension-of-geoserver",
+      "https://www.synacktiv.com/publications/treasure-chest-party-quest-from-doom-to-exploit.html",
+      "https://www.synacktiv.com/publications/finding-a-pop-chain-on-a-common-symfony-bundle-part-2"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=x-Ke-ITotF4",
+    "upload_date": "20231130"
+  },
+  {
+    "title": "EP 059 | Filter chains & Unserialize popchains with @_remsio_ & @_bluesheet",
+    "links": [
+      "https://www.synacktiv.com/publications/web-architect-an-introduction",
+      "https://www.synacktiv.com/publications/magento-for-security-audit",
+      "https://www.synacktiv.com/publications/magento-template-engine-a-story-of-cve-2022-24086",
+      "https://www.synacktiv.com/publications/captain-hook-how-not-to-look-for-vulnerabilities-in-java-applications",
+      "https://github.com/synacktiv/php_filter_chains_oracle_exploit"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=FENuNj34jks",
+    "upload_date": "20231130"
+  },
+  {
+    "title": "EP 058 | Proc filesystem tricks & locatedb abuse with @_remsio_ & @_bluesheet",
+    "links": [
+      "https://plocate.sesse.net/",
+      "http://git.sesse.net/plocate",
+      "https://unix.stackexchange.com/questions/727862/difference-between-mlocate-and-plocate"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=YlZGJ28By8U",
+    "upload_date": "20231130"
+  },
+  {
+    "title": "EP 057 | BlackArch & Open-Source with @inf0sec1 & @noraj_rawsec",
+    "links": [
+      "https://blackarch.org/",
+      "https://github.com/BlackArch/blackarch",
+      "https://counter.dev/",
+      "https://github.com/BlackArch/wordlistctl"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7f63n432VfQ",
+    "upload_date": "20231122"
+  },
+  {
+    "title": "EP 056 | Modlishka Advanced Phishing with @inf0sec1 & @noraj_rawsec",
+    "links": [
+      "https://github.com/drk1wi/Modlishka",
+      "https://cyberchef.io/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=cBgqgZUiU5I",
+    "upload_date": "20231122"
+  },
+  {
+    "title": "EP 055 | Broneypot & Pypotomux wordlists with @inf0sec1 & @noraj_rawsec",
+    "links": [
+      "https://github.com/laluka/broneypote",
+      "https://github.com/laluka/pypotomux",
+      "https://github.com/yrutschle/sslh"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uF9afmtgzdM",
+    "upload_date": "20231122"
+  },
+  {
+    "title": "EP 054 | Technology Watch November with @0x1sis & @Drypaints - part 2",
+    "links": [
+      "https://asahilinux.org/about/",
+      "https://www.yeswehack.com/community/pimpmyburp-10-Hackvertor",
+      "https://github.com/acidvegas/avoidr",
+      "https://tandasat.github.io/blog/windows/2023/03/21/setting-up-kdnet-over-usb-eem-for-bootloader-and-hyper-v-debugging.html",
+      "https://github.com/0xKayala/NucleiFuzzer",
+      "https://blog.projectdiscovery.io/nuclei-v3-featurefusion/",
+      "https://github.com/MISP/misp-wireshark",
+      "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them?hl=en",
+      "https://techbeacon.com/enterprise-it/dont-avoid-cloud-vendor-lock-embrace-it",
+      "https://www.synacktiv.com/publications/behind-the-shield-unmasking-scudos-defenses",
+      "https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/",
+      "https://cybernews.com/news/robot-crushes-south-korean-man/",
+      "https://www.securityweek.com/rapid-reset-zero-day-exploited-to-launch-largest-ddos-attacks-in-history/",
+      "https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html",
+      "https://www.jailbreakchat.com/",
+      "https://twitter.com/math_castello/status/1721911501554929775?t=-JcAh9VdX3NvQfzEM54sdQ&s=19",
+      "https://overreacted.io/npm-audit-broken-by-design/",
+      "https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=6NDvCzqgFFM",
+    "upload_date": "20231116"
+  },
+  {
+    "title": "EP 053 | Technology Watch November with @0x1sis & @Drypaints - part 1",
+    "links": [
+      "https://www.geeky-gadgets.com/python-3-12/",
+      "https://throwawayopinions.io/the-paradox-of-intolerance.html",
+      "https://therealcoiffeur.com/",
+      "https://www.mandiant.com/resources/blog/arbitrary-file-deletion-vulnerabilities",
+      "https://www.synacktiv.com/advisories/unauthenticated-server-side-request-forgery-crlf-injection-in-geoserver-wms",
+      "https://clig.dev/",
+      "https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46",
+      "https://patrowl.io/blog-wordpress-media-library-rce-cve-2023-4634/",
+      "https://securitylabs.datadoghq.com/articles/kubehound-identify-kubernetes-attack-paths/",
+      "https://medium.com/utility-warehouse-technology/using-grpc-with-json-64876e0a3279",
+      "https://code-white.com/blog/exploiting-asp.net-templateparser-part-1/",
+      "https://modexp.wordpress.com/2019/06/15/4083/",
+      "https://g.livejournal.com/17695.html?1234234",
+      "https://github.com/google/python-fire",
+      "https://github.com/lilydjwg/nvchecker",
+      "https://github.com/Textualize/rich-cli",
+      "https://github.com/Textualize/trogon",
+      "https://github.com/Textualize/textual",
+      "https://github.com/Textualize/textual-web",
+      "https://github.com/jesseduffield/lazygit",
+      "https://github.com/jesseduffield/lazydocker",
+      "https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/lazydocker/",
+      "https://github.com/jesseduffield/lazynpm",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=1458911",
+      "https://dustri.org/b/ini_set-based-open_basedir-bypass.html",
+      "https://github.com/undergroundwires/privacy.sexy",
+      "https://search.0t.rocks/",
+      "https://shutuptrackers.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=2IzwrRZtfPY",
+    "upload_date": "20231116"
+  },
+  {
+    "title": "EP 052 | Technology Watch October with @Drypaints - part 2",
+    "links": [
+      "https://blog.assetnote.io/2023/08/28/leaking-file-contents-with-a-blind-file-oracle-in-flarum/",
+      "https://www.synacktiv.com/advisories/phar-deserialization-cve-2023-28115-patch-bypass",
+      "https://www.synacktiv.com/en/publications/finding-a-pop-chain-on-a-common-symfony-bundle-part-1",
+      "https://www.synacktiv.com/publications/magento-for-security-audit",
+      "https://bugcrowd.com/disclosures/81d71c8d-952e-450c-82d9-f7ef8cfd7fe5/account-takeover-at-https-trello-com",
+      "https://labs.tib.eu/geoestimation/",
+      "https://dispatch.redteams.fyi/the-emotional-toll-of-red-teaming/",
+      "https://openai.com/blog/chatgpt-can-now-see-hear-and-speak",
+      "https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/",
+      "https://blog.quarkslab.com/android-greybox-fuzzing-with-afl-frida-mode.html",
+      "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-x7ch-h5rf-w2mf",
+      "https://blog.isosceles.com/the-webp-0day/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=c_3XFIw3qrE",
+    "upload_date": "20231102"
+  },
+  {
+    "title": "EP 051 | Technology Watch October with @Drypaints - part 1",
+    "links": [
+      "https://lunduke.locals.com/post/4666420/the-linux-foundation-has-practically-abandoned-linux",
+      "https://github.com/jdx/rtx/tree/main#rtx-completion-shell",
+      "https://www.youtube.com/watch?v=9rzxX0TFT88&t=1910s",
+      "https://offsec.tools/",
+      "https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean",
+      "https://github.com/cookiecutter/cookiecutter",
+      "https://github.com/cruft/cruft",
+      "https://www.vectorpea.com/",
+      "https://flak.tedunangst.com/post/features-are-faults-redux",
+      "https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/",
+      "https://github.com/c53elyas/CVE-2023-33733",
+      "https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies",
+      "https://hackerone.com/reports/2010530",
+      "https://lock.cmpxchg8b.com/zenbleed.html",
+      "https://www.errno.fr/BypassingBitlocker",
+      "https://blog.doyensec.com/2023/08/31/introducing-session-hijacking-visual-exploitation.html",
+      "https://www.zdnet.fr/actualites/alternant-chez-orange-cyberdefense-le-jour-developpeur-de-programmes-malveillants-la-nuit-39962084.htm",
+      "https://andreafortuna.org/2023/10/29/octo-tempest-extortion-through-phishing-sim-swapping-and-ransomware/",
+      "https://cyberwarzone.com/category/tools/",
+      "https://techryptic.github.io/2023/09/01/Annoying-Apple-Fans/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=SP3BEBPO0aE",
+    "upload_date": "20231102"
+  },
+  {
+    "title": "Lower The Friction (Laluka) - HTB Meetup 2 years rump",
+    "links": [
+      "https://htb-meetup-france.super.site/",
+      "https://www.meetup.com/fr-FR/hack-the-box-meetup-france/",
+      "https://github.com/laluka/lalubuntu",
+      "https://github.com/fransosiche/fransible"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xxOVNKNs24s",
+    "upload_date": "20231031"
+  },
+  {
+    "title": "EP 050 | Hooking client side sinks using DOMLogger++ with @Rolix_cy & @kevin_mizu",
+    "links": [
+      "https://twitter.com/kevin_mizu/status/1717205872152096896",
+      "https://github.com/kevin-mizu/domloggerpp"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=6vl6vLJHgX4",
+    "upload_date": "20231019"
+  },
+  {
+    "title": "EP 049 | Kubestroyer, HowTo & WhatNot with @Rolix_cy & @kevin_mizu",
+    "links": [
+      "https://github.com/Rolix44/Kubestroyer"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4KY3bVv0iGM",
+    "upload_date": "20231019"
+  },
+  {
+    "title": "EP 048 | Open-Sourcing push-my-diffs with @Rolix_cy & @kevin_mizu",
+    "links": [
+      "https://github.com/laluka/push-my-diffs"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=iFEDYryTKQw",
+    "upload_date": "20231019"
+  },
+  {
+    "title": "Chercher des Failles & Enseigner la Recherche, with @Nishacid & @kondah_ha",
+    "links": [
+      "https://gitlab.com/TheLaluka/poc-wordpress-plugin-elementor"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=OURTgojFK2c",
+    "upload_date": "20231015"
+  },
+  {
+    "title": "EP 047 | Technology Watch September with @Drypaints - part 2",
+    "links": [
+      "https://m.youtube.com/watch?si=9kZhb6MEkz96q7Ff&v=W3P2z_nG2qk",
+      "https://github.com/mistymntncop/CVE-2023-3079/blob/main/exploit.js",
+      "https://github.com/anvbis/chrome_v8_ndays",
+      "https://templates.nuclei.sh/",
+      "https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf",
+      "https://www.youtube.com/watch?v=Cr-xKyKjI0E",
+      "https://offsec.tools/",
+      "https://github.com/kpcyrd/summarize-cli",
+      "https://github.com/dev-lu/osint_toolkit",
+      "https://github.com/dagger/dagger",
+      "https://gitlab.com/kalilinux/packages/unblob",
+      "https://github.com/onekey-sec/unblob",
+      "https://github.com/Syzik/DockerRegistryGrabber",
+      "https://svelte.dev/",
+      "https://sveltethemes.dev/resources",
+      "https://svelte-materialify.vercel.app/getting-started/installation/#install-with-default-styles",
+      "https://marmelab.com/react-admin/",
+      "https://speakerdeck.com/filedescriptor/exploiting-the-unexploitable-with-lesser-known-browser-tricks?slide=17",
+      "https://github.com/orhun/gpg-tui",
+      "https://fly.io/blog/skip-the-api/",
+      "https://twitter.com/mpgn_x64/status/1698990491243606226?t=1vNQtfFhx_9iIQahBB6q6A&s=19",
+      "https://github.com/Pennyw0rth/NetExec"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=O4bzUftJDjE",
+    "upload_date": "20230928"
+  },
+  {
+    "title": "EP 046 | Technology Watch September with @Drypaints - part 1",
+    "links": [
+      "https://labs.hakaioffsec.com/nginx-alias-traversal/",
+      "https://medium.com/@bazzounbassem/bypass-two-factor-authentication-of-facebook-accounts-25-300-7ae152d7836a",
+      "https://lwn.net/Articles/939981/",
+      "https://nvd.nist.gov/vuln/detail/CVE-2023-39848#VulnChangeHistorySection",
+      "https://github.com/inotia00/revanced-documentation/wiki/Announcement",
+      "https://blog.zwindler.fr/2023/08/16/d-open-source-a-bullshit-licence-bsl/",
+      "https://www.pulumi.com/blog/pulumi-hearts-opensource/",
+      "https://twitter.com/iamvlaaaaaaad/status/1690114917297188864",
+      "https://www.youtube.com/watch?v=uiArfZL0FFg&feature=youtu.be",
+      "https://www.kali.org/blog/kali-linux-2023-3-release/",
+      "https://github.com/rizinorg/rizin",
+      "https://gitlab.com/kalilinux/packages/rz-ghidra",
+      "https://gitlab.com/kalilinux/packages/imhex",
+      "https://github.com/h311d1n3r/Cerberus",
+      "https://nofix.re/posts/2023-29-08-barbhack2023-encrypted_box.markdown/",
+      "https://github.com/DynamoRIO/dynamorio",
+      "https://twitter.com/J0_mart/status/1705216239226806715?t=k5t15FHAuyL-jU2-bNniNw&s=19",
+      "https://www.infoworld.com/article/3706951/htmx-dynamic-html-without-the-javascript.html",
+      "https://github.com/bigskysoftware/htmx",
+      "https://www.cybersecurityconnect.com.au/commercial/9600-ransomed-vc-group-claims-hack-on-all-of-sony-systems",
+      "https://grahamhelton.com/blog/ssh-cheatsheet/",
+      "https://medium.com/nttlabs/the-internals-and-the-latest-trends-of-container-runtimes-2023-22aa111d7a93",
+      "https://opentofu.org/",
+      "https://github.com/kubernetes-sigs/kustomize"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=zsiEZ0-Z76Y",
+    "upload_date": "20230928"
+  },
+  {
+    "title": "EP 045 | Technology Watch August & PoC of RTX - part 2",
+    "links": [
+      "https://frycos.github.io/vulns4free/2023/06/18/fortinac.html",
+      "https://blog.projectdiscovery.io/adobe-coldfusion-rce/",
+      "https://stackoverflow.com/questions/32768036/why-is-l-the-prefix-for-reference-types-instead-of-some-other-letter#:~:text=L%20means%20a%20class%20of,used%20internally%20in%20the%20bytecode.",
+      "https://www.datadoghq.com/blog/dash-2023-new-feature-roundup/",
+      "https://www.datadoghq.com/blog/mitigate-identity-risks-and-infrastructure-vulnerabilities-with-datadog/",
+      "https://bugra.ninja/posts/cloudshell-command-injection/",
+      "https://github.com/espanso/espanso",
+      "https://wiki.hyprland.org/Getting-Started/Installation/",
+      "https://github.com/jdxcode/rtx#features"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=CknV3BHhOmc",
+    "upload_date": "20230816"
+  },
+  {
+    "title": "EP 044 | Technology Watch August & PoC of RTX - part 1",
+    "links": [
+      "https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/",
+      "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license",
+      "https://security.googleblog.com/2023/06/google-cloud-awards-313337-in-2022-vrp.html?m=1",
+      "https://sec-consult.com/blog/detail/dns-analyzer-finding-dns-vulnerabilities-with-burp-suite",
+      "https://johnjhacking.com/blog/cve-2023-24068-cve-2023-24069/",
+      "https://blog.yeswehack.com/yeswerhackers/black-box-testing-techniques-web-application/",
+      "https://devco.re/blog/2023/07/07/a-journey-into-hacking-google-search-appliance-en/",
+      "https://podcasts.apple.com/ph/podcast/episode-27-top-7-esoteric-web-vulnerabilities/id1663945029?i=1000621008607",
+      "https://semgrep.dev/blog/2022/introducing-semgrep-supply-chain",
+      "https://security.googleblog.com/2023/07/an-important-step-towards-secure-and.html?m=1",
+      "https://datatracker.ietf.org/doc/rfc9420/",
+      "https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt",
+      "https://en.hackndo.com/",
+      "https://keytap3.ggerganov.com/",
+      "https://github.com/alexschiller/file-format-commons",
+      "https://log-s.xyz/posts/securinets-quals-2023/",
+      "https://soroush.me/blog/2023/08/cookieless-duodrop-iis-auth-bypass-app-pool-privesc-in-asp-net-framework-cve-2023-36899/",
+      "https://redteamrecipe.com/100-Method-For-Container-Attacks/",
+      "https://www.allabtai.com/how-to-summarize-a-large-text-with-gpt-3/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=zYZlU-pelxc",
+    "upload_date": "20230816"
+  },
+  {
+    "title": "EP 043 | Technology Watch Jully",
+    "links": [
+      "https://www.ghostccamm.com/blog/multi_strapi_vulns/",
+      "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/05/26/windows_xp_activation_cracked/",
+      "https://cruftbox.medium.com/my-years-as-a-metaverse-warlord-1f7c830a3173",
+      "https://github.com/AykutSarac/jsoncrack.com",
+      "https://binary-offensive.com/files/x33fcon%20-%20Desperate%20Infection%20Chains.pdf",
+      "https://www.vcluster.com/docs/what-are-virtual-clusters",
+      "https://github.com/grimlockx/ADCSKiller",
+      "https://github.com/mdsecactivebreach/Chameleon",
+      "https://qri.org/blog/psycrypto-contest",
+      "https://12factor.net/",
+      "https://util.unicode.org/UnicodeJsps/confusables.jsp",
+      "https://kuenzi.dev/toothbrush/",
+      "https://github.com/W0rty/libcurl-crlf",
+      "https://socket.dev/blog/introducing-safe-npm",
+      "https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/",
+      "https://github.com/samwho/spacer",
+      "https://www.phind.com/?foo",
+      "https://marmelab.com/react-admin/",
+      "https://github.com/typicode/json-server",
+      "https://www.cnil.fr/fr/transferts-de-donnees-vers-les-etats-unis-la-commission-europeenne-adopte-une-nouvelle-decision",
+      "https://www.troyhunt.com/have-i-been-pwned-domain-searches-the-big-5-announcements/",
+      "https://www.rayanle.cat/write-up-workshop-cme-lehack-2023/",
+      "https://github.com/AntonOsika/gpt-engineer",
+      "https://github.com/smol-ai/developer",
+      "https://github.com/geekan/MetaGPT",
+      "https://github.com/cococry/Ragnar",
+      "https://www.youtube.com/@cococry",
+      "https://clig.dev/#help",
+      "https://www.youtube.com/@samwitteveenai/videos"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=rgTZERQpUmI",
+    "upload_date": "20230809"
+  },
+  {
+    "title": "OffenSkill Hilight - Web-Hacking lvl-20 - S02",
+    "links": [
+      "https://offenskill.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=EThgH08GH4s",
+    "upload_date": "20230803"
+  },
+  {
+    "title": "Think-Love-Share - Introduction de la chaine",
+    "links": [
+      "https://thinkloveshare.com/",
+      "https://www.offenskill.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=EaMDFxfcQHY",
+    "upload_date": "20230730"
+  },
+  {
+    "title": "EP 042 | Stranger Stream x Stranger Case part 2/2, with @Stranger_Case & @esnabretagne",
+    "links": [
+      "https://www.root-me.org/fr/breve/Embarquez-pour-le-Stranger-Case-le-CTF-100-OSINT",
+      "https://x.com/stranger_case",
+      "https://discord.com/invite/PDvtpRKGWh",
+      "https://x.com/astrebzh",
+      "https://www.synetis.com/dans-les-coulisses-du-challenge-ctf-stranger-case/",
+      "https://esna.bzh/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=AvxA2dwLQec",
+    "upload_date": "20230713"
+  },
+  {
+    "title": "EP 041 | Stranger Stream x Stranger Case part 1/2, with @Stranger_Case & @esnabretagne",
+    "links": [
+      "https://www.root-me.org/fr/breve/Embarquez-pour-le-Stranger-Case-le-CTF-100-OSINT",
+      "https://x.com/stranger_case",
+      "https://discord.com/invite/PDvtpRKGWh",
+      "https://x.com/astrebzh",
+      "https://www.synetis.com/dans-les-coulisses-du-challenge-ctf-stranger-case/",
+      "https://esna.bzh/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=hPeUr4iBDBU",
+    "upload_date": "20230713"
+  },
+  {
+    "title": "EP 040 | Pwning Libre Office - CVE-2023-2255, Macro Holes & Macro Shells, with @Icare1337",
+    "links": [
+      "https://www.yeswehack.com/fr/community/Icare-thriving-bug-bounty-hunter",
+      "https://github.com/Icare1337/LibreOffice_Tips_Bug_Bounty",
+      "https://github.com/elweth-sec/CVE-2023-2255",
+      "https://fr.libreoffice.org/download/telecharger-libreoffice/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uBwOLYdNIB0",
+    "upload_date": "20230705"
+  },
+  {
+    "title": "EP 039 | Patching xDebug with ChatGPT, Hooking specific PHP functions, with @Icare1337",
+    "links": [
+      "https://xdebug.org/",
+      "https://github.com/xdebug/xdebug",
+      "https://www.spip.net/",
+      "https://chatgptsplitter.com/",
+      "https://gitlab.com/TheLaluka/xdebug-offensive"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=o9w4un0Uio0",
+    "upload_date": "20230705"
+  },
+  {
+    "title": "EP 038 | Google DistroLess 101 - PoC with GoLang & AutoHeal, with @sigabrt9",
+    "links": [
+      "https://www.redhat.com/en/blog/why-distroless-containers-arent-security-solution-you-think-they-are",
+      "https://github.com/GoogleContainerTools/distroless",
+      "https://iximiuz.com/en/posts/containers-distroless-images/",
+      "https://stackoverflow.com/questions/61039877/add-shell-or-bash-to-a-docker-image-distroless-based-on-debian-gnu-linux",
+      "https://itnext.io/which-container-images-to-use-distroless-or-alpine-96e3dab43a22",
+      "https://gobyexample.com/http-servers",
+      "https://hub.docker.com/r/willfarrell/autoheal/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=DhVJM0GMgOE",
+    "upload_date": "20230608"
+  },
+  {
+    "title": "EP 037 | Shell in the Ghost - Polishing the CVE-2023-28879, with @sigabrt9",
+    "links": [
+      "https://github.com/python-pillow/Pillow",
+      "https://www.ghostscript.com/",
+      "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html",
+      "https://github.com/AlmondOffSec/PoCs/tree/master/Ghostscript_rce",
+      "https://ghostscript.readthedocs.io/en/latest/Language.html",
+      "https://git.ghostscript.com/?p=ghostpdl.git;a=summary",
+      "https://www.ghostscript.com/Bug_bounty_program.html",
+      "https://github.com/google/AFL",
+      "https://github.com/AFLplusplus/AFLplusplus",
+      "https://github.com/pwndbg/pwndbg",
+      "https://excalidraw.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=8KNmLc1Neio",
+    "upload_date": "20230608"
+  },
+  {
+    "title": "EP 036 | PoC Shambles - An IOT 0-day carver, with @olivier_boschko",
+    "links": [
+      "https://www.liansecurity.com/",
+      "https://shambles.cloud/#/login",
+      "https://user.liansecurity.com/#/login",
+      "https://www.liansecurity.com/#/main/product/info?productId=2",
+      "https://boschko.ca/",
+      "https://x.com/h4kb4n"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=i4-NfiNPSSA",
+    "upload_date": "20230602"
+  },
+  {
+    "title": "EP 035 | Spip email/eval n-day - Analysis with Snuffleupagus, with @olivier_boschko",
+    "links": [
+      "https://github.com/spip/spip",
+      "https://github.com/spip/forum",
+      "https://github.com/spip/forum/compare/c076dd1..e9a254c",
+      "https://github.com/spip/forum/commit/e9a254c4638853e0cde99391adfdebec94c20017",
+      "https://github.com/spip/forum/compare/e9a254c..c076dd1",
+      "https://github.com/spip/forum/commit/e9a254c4638853e0cde99391adfdebec94c20017.diff",
+      "https://github.com/spip/forum/commits/2.0/inc/email_notification_forum.php",
+      "https://github.com/spip/forum/commit/8de45b55c35f6f7a74c36441e03b81fa0c1c1a08",
+      "https://snuffleupagus.readthedocs.io/installation.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=8baCoHYItwk",
+    "upload_date": "20230602"
+  },
+  {
+    "title": "FIC 2023 - EC2 LiveStream Replay part 4/4 - Remise des prix, with @YanZaX & @TheLaluka",
+    "links": [
+      "https://www.lillemetropole.fr/",
+      "https://esna.bzh/actualites/article/victoire-de-l-equipe-esna-esnarcotrafiquants-au-fic-2023",
+      "https://guardia.school/classement-des-ecoles-de-cybersecurite.html",
+      "https://projetfox.com/",
+      "https://www.globalsecuritymag.com/FIC-L-European-Cyber-Cup-2023-organisee-par-Hack4Values.html",
+      "https://www.youtube.com/watch?v=a5GUjnJ-wQs",
+      "https://sysdream.com/",
+      "https://seela.io/battleh4ck/",
+      "https://gcc-ensibs.fr/",
+      "https://www.quarkslab.com/",
+      "https://www.epita.fr/",
+      "https://zqsd-prod.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=p5_YWau0c4Y",
+    "upload_date": "20230528"
+  },
+  {
+    "title": "FIC 2023 - EC2 LiveStream Replay part 3/4, with @YanZaX & @TheLaluka",
+    "links": [
+      "https://srs.epita.fr/",
+      "https://fic.srs.epita.fr/",
+      "https://fic.srs.epita.fr/2023/Panic-at-Patissier",
+      "https://www.wireshark.org/",
+      "https://zqsd-prod.fr/",
+      "https://esna.bzh/",
+      "https://tehtris.com/en/",
+      "https://www.yeswehack.com/",
+      "https://twitter.com/YanZaX",
+      "https://www.algosecure.fr/",
+      "https://www.heroctf.fr/",
+      "https://www-ensibs.univ-ubs.fr/fr/index.html",
+      "https://esnhack.fr/",
+      "https://hack2g2.fr/",
+      "https://www.youtube.com/Hack2G2",
+      "https://www.epitech.eu/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7nbEMSi6wsI",
+    "upload_date": "20230528"
+  },
+  {
+    "title": "FIC 2023 - EC2 LiveStream Replay part 2/4, with @YanZaX & @TheLaluka",
+    "links": [
+      "https://seela.io/battleh4ck/",
+      "https://piresh.at/team/",
+      "https://www.ynov.com/",
+      "https://www.aperikube.fr/",
+      "https://www.hackademint.org/",
+      "https://twitter.com/rhackgondins",
+      "https://www.linkedin.com/company/oterihack/",
+      "https://hackynov.fr/",
+      "https://www.youtube.com/channel/UCsyXKVEHt9QuUPwl3d96CFg/videos",
+      "https://lexfo.fr/",
+      "https://www.epita.fr/association/hdfr/",
+      "https://connect.ed-diamond.com/misc",
+      "https://www.cyberjobs.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=StIyOBzkQR8",
+    "upload_date": "20230528"
+  },
+  {
+    "title": "FIC 2023 - EC2 LiveStream Replay part 1/4, with @YanZaX & @TheLaluka",
+    "links": [
+      "https://hack4values.eu/",
+      "https://www.forum-fic.com/",
+      "https://europe.forum-incyber.com/en/home-en/",
+      "https://fr.wikipedia.org/wiki/Forum_international_de_la_cybers%C3%A9curit%C3%A9",
+      "https://european-cybercup.com/",
+      "https://yogosha.com/",
+      "https://www.quarkslab.com/",
+      "https://www.cyber.airbus.com/",
+      "https://projetfox.com/",
+      "https://www.epita.fr/en/",
+      "https://srs.epita.fr/",
+      "https://www.grandlyon.com/",
+      "https://nishacid.guru/talks/",
+      "https://www.rayanle.cat/about-me/",
+      "https://twitter.com/voydstack",
+      "https://www.ecsc2022.eu/",
+      "https://eviden.com/",
+      "https://www.phreaks2600.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qrD8z-pPlGc",
+    "upload_date": "20230528"
+  },
+  {
+    "title": "EP 034 | Openai Whisper - Video Transcript & Translate with @0x1sis",
+    "links": [
+      "https://platform.openai.com/docs/api-reference/audio/create",
+      "https://platform.openai.com/docs/guides/speech-to-text",
+      "https://github.com/openai/whisper",
+      "https://ffmpeg.guide/graph",
+      "https://github.com/maxmarsc/audeye"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uX07nP1B1OY",
+    "upload_date": "20230525"
+  },
+  {
+    "title": "EP 033 | Technology Watch May, with @0x1sis",
+    "links": [
+      "https://www.agarri.fr/docs/nsec23-burp_tips_n_tricks.pdf",
+      "https://noperator.dev/posts/zip-snip/",
+      "https://mizu.re/post/youwatch",
+      "https://neodyme.io/blog/csgo_from_zero_to_0day/",
+      "https://blog.assetnote.io/2023/05/10/sitecore-round-two/",
+      "https://github.com/dhmosfunk/CVE-2023-25690-POC",
+      "https://github.com/boringthegod/postmaniac",
+      "https://tin-z.github.io/chatgpt/go/cve/2023/04/14/escaping_chatgpt_memory.html",
+      "https://rez0.blog/hacking/2023/05/19/prompt-injection-poc.html",
+      "https://github.com/charmbracelet/mods",
+      "https://astexplorer.net/",
+      "https://iproyal.com/sneaker-proxies/",
+      "https://malcat.fr/",
+      "https://anvaka.github.io/map-of-github/#2/0/0",
+      "https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ELvupOw3ZN8",
+    "upload_date": "20230525"
+  },
+  {
+    "title": "EP 032 | StHack2023 Challenges, KongLua 02 - Far Fetched Debugger, with @YanZaX",
+    "links": [
+      "https://sthack.fr/",
+      "https://github.com/StHack",
+      "https://gitlab.com/TheLaluka/sthack-2023-low-digger/-/tree/main/chall-2-far-fetched-debugger"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=blF-gpJ8dNI",
+    "upload_date": "20230519"
+  },
+  {
+    "title": "EP 031 | StHack2023 Challenges, KongLua 01 - Creds Digger, with @YanZaX",
+    "links": [
+      "https://sthack.fr/",
+      "https://github.com/StHack",
+      "https://gitlab.com/TheLaluka/sthack-2023-low-digger/-/tree/main/chall-1-creds-digger"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=diZV0DAJ6rc",
+    "upload_date": "20230519"
+  },
+  {
+    "title": "EP 030 | StHack2023 Challenges, Turn Around, with @YanZaX",
+    "links": [
+      "https://sthack.fr/",
+      "https://github.com/StHack"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=irk5TLekzYs",
+    "upload_date": "20230519"
+  },
+  {
+    "title": "EP 029 | StHack2023 Challenges, Snyk - Nice vuln checker, with @YanZaX",
+    "links": [
+      "https://sthack.fr/",
+      "https://github.com/StHack",
+      "https://github.com/snyk/cli"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uBVjF_naF4A",
+    "upload_date": "20230519"
+  },
+  {
+    "title": "EP 028 | Shell in the Ghost - Improving the CVE-2023-28879 P3, with @sigabrt9 & @voydstack",
+    "links": [
+      "https://github.com/python-pillow/Pillow",
+      "https://www.ghostscript.com/",
+      "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html",
+      "https://github.com/AlmondOffSec/PoCs/tree/master/Ghostscript_rce",
+      "https://ghostscript.readthedocs.io/en/latest/Language.html",
+      "https://git.ghostscript.com/?p=ghostpdl.git;a=summary",
+      "https://www.ghostscript.com/Bug_bounty_program.html",
+      "https://github.com/google/AFL",
+      "https://github.com/AFLplusplus/AFLplusplus",
+      "https://github.com/pwndbg/pwndbg",
+      "https://excalidraw.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=SUPMVAP2TVI",
+    "upload_date": "20230511"
+  },
+  {
+    "title": "EP 027 | Shell in the Ghost - Improving the CVE-2023-28879 P2, with @sigabrt9 & @voydstack",
+    "links": [
+      "https://github.com/python-pillow/Pillow",
+      "https://www.ghostscript.com/",
+      "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html",
+      "https://github.com/AlmondOffSec/PoCs/tree/master/Ghostscript_rce",
+      "https://ghostscript.readthedocs.io/en/latest/Language.html",
+      "https://git.ghostscript.com/?p=ghostpdl.git;a=summary",
+      "https://www.ghostscript.com/Bug_bounty_program.html",
+      "https://github.com/google/AFL",
+      "https://github.com/AFLplusplus/AFLplusplus",
+      "https://github.com/pwndbg/pwndbg",
+      "https://excalidraw.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=W6UkQt1taKk",
+    "upload_date": "20230511"
+  },
+  {
+    "title": "EP 026 | Shell in the Ghost - Improving the CVE-2023-28879 P1, with @sigabrt9 & @voydstack",
+    "links": [
+      "https://github.com/python-pillow/Pillow",
+      "https://www.ghostscript.com/",
+      "https://offsec.almond.consulting/ghostscript-cve-2023-28879.html",
+      "https://github.com/AlmondOffSec/PoCs/tree/master/Ghostscript_rce",
+      "https://ghostscript.readthedocs.io/en/latest/Language.html",
+      "https://git.ghostscript.com/?p=ghostpdl.git;a=summary",
+      "https://www.ghostscript.com/Bug_bounty_program.html",
+      "https://github.com/google/AFL",
+      "https://github.com/AFLplusplus/AFLplusplus",
+      "https://github.com/pwndbg/pwndbg",
+      "https://excalidraw.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=1-pai9aaPNM",
+    "upload_date": "20230511"
+  },
+  {
+    "title": "EP 025 | Technology Watch April - Latest tools & Articles, with @BitK_ & @Midniblue",
+    "links": [
+      "https://github.com/arkadiyt/bounty-targets-data/",
+      "https://github.com/ggerganov/kbd-audio",
+      "https://hyprland.org/",
+      "https://chatgptsplitter.com/",
+      "https://blog.lexfo.fr/sshimpanzee.html",
+      "https://blog.projectdiscovery.io/introducing-alterx-simplifying-active-subdomain-enumeration-with-patterns/",
+      "https://portswigger.net/web-security/cross-site-scripting/cheat-sheet#xlink-namespace-inside-svg-with-javascript-protocol",
+      "https://github.blog/2023-04-06-building-github-with-ruby-and-rails/",
+      "https://github.com/haticeerturk/scoper",
+      "https://mizu.re/post/intigriti-march-2023-xss-challenge",
+      "https://codewhitesec.blogspot.com/2023/04/java-exploitation-restrictions-in.html?m=1",
+      "https://github.com/ambionics/vbulletin-exploits",
+      "https://containrrr.dev/watchtower/",
+      "https://giraffesecurity.dev/posts/google-remote-code-execution/",
+      "https://portswigger.net/burp/releases/professional-community-2023-4",
+      "https://github.com/Ekultek/WhatBreach",
+      "https://github.com/jdxcode/rtx",
+      "https://www.ghostccamm.com/blog/multi_strapi_vulns/",
+      "https://boschko.ca/qemu-emulating-firmware/",
+      "https://spaceraccoon.dev/comparing-rule-syntax-codeql-semgrep/",
+      "https://medium.com/@dzanna.molly/cdk-for-terraform-vs-pulumi-aa6cd32c8557",
+      "https://github.com/projectdiscovery/pdtm?ref=blog.projectdiscovery.io",
+      "https://github.blog/2023-03-31-codeql-zero-to-hero-part-1-the-fundamentals-of-static-analysis-for-vulnerability-research/",
+      "https://firebounty.com/",
+      "https://www.sans.org/blog/using-the-ssh-konami-code-ssh-control-sequences/",
+      "https://github.com/cramppet/regulator",
+      "https://github.com/cfreal/ten",
+      "https://github.com/renovatebot/renovate",
+      "https://www.youtube.com/watch?v=F95U912u7OQ"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=BXoV4G0QG7o",
+    "upload_date": "20230429"
+  },
+  {
+    "title": "EP 024 | PoC of Tree-Sitter Python - Php AST parsing for 0day research, with @BitK_ & @Midniblue",
+    "links": [
+      "https://tree-sitter.github.io/tree-sitter/",
+      "https://github.com/tree-sitter/tree-sitter",
+      "https://github.com/gotcha/ipdb",
+      "https://github.com/Textualize/rich"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=tlxP4HvzfFA",
+    "upload_date": "20230429"
+  },
+  {
+    "title": "EP 023 | PoC du Screen Crab de @Hak5 - Courtesy de @BitK_, avec @0x1sis",
+    "links": [
+      "https://shop.hak5.org/products/screen-crab",
+      "https://docs.hak5.org/screen-crab",
+      "https://github.com/tesseract-ocr/tesseract",
+      "https://github.com/tesseract-ocr/tessdata"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=awosXmV_dTo",
+    "upload_date": "20230419"
+  },
+  {
+    "title": "EP 022 | DeV de Autopaster - un tool \"paste to fuzz\", avec @0x1sis",
+    "links": [
+      "https://pypi.org/project/pyperclip/",
+      "https://git.spip.net/spip/spip"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=p4vnTlrBdJ8",
+    "upload_date": "20230419"
+  },
+  {
+    "title": "EP 021 | PoC de AWS CodeWhisperer - le Copilot sauce AWS, avec @0x1sis",
+    "links": [
+      "https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html",
+      "https://aws.amazon.com/fr/q/developer/",
+      "https://aws.amazon.com/fr/visualstudiocode/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=najmW6F2TWw",
+    "upload_date": "20230419"
+  },
+  {
+    "title": "EP 020 | Demo of the Burp ReconAIzer OpenAI-based extension, with Hisxo / @adrien_jeanneau",
+    "links": [
+      "https://github.com/GerbenJavado/LinkFinder",
+      "https://github.com/PortSwigger/js-link-finder",
+      "https://github.com/hisxo/ReconAIzer",
+      "https://portswigger.net/burp/documentation/desktop/extensions/creating"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=OdfVYqwsZGE",
+    "upload_date": "20230412"
+  },
+  {
+    "title": "EP 019 | Introduction to CDKTF: build InfraAsCode with MORE Code, with Hisxo / @adrien_jeanneau",
+    "links": [
+      "https://github.com/hashicorp/terraform-cdk",
+      "https://developer.hashicorp.com/terraform/cdktf",
+      "https://developer.hashicorp.com/terraform/tutorials/cdktf/cdktf-build"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=CAy8ZB7NCTs",
+    "upload_date": "20230412"
+  },
+  {
+    "title": "EP 018 | Create a BurpSuite (dir-logger) python extension with @0x1sis",
+    "links": [
+      "https://www.jython.org/",
+      "https://portswigger.net/burp/communitydownload",
+      "https://portswigger.net/burp/documentation/desktop/extensions/creating"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ZAtZRujArzU",
+    "upload_date": "20230330"
+  },
+  {
+    "title": "EP 017 | PoC The ja-netfilter Instrumentation Framework with @0x1sis",
+    "links": [
+      "https://gitee.com/ja-netfilter/ja-netfilter",
+      "https://github.com/qianyu1009/ja-netfilter"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uzQ17aYZ9rY",
+    "upload_date": "20230330"
+  },
+  {
+    "title": "EP 016 | Play with the latest IDA 8.2 free release",
+    "links": [
+      "https://hex-rays.com/ida-free/",
+      "https://github.com/hugsy/gef",
+      "https://x64dbg.com/",
+      "https://binary.ninja/free/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=GterDSFJXqQ",
+    "upload_date": "20230323"
+  },
+  {
+    "title": "EP 015 | PoC ruff (ultra-fast python linter)",
+    "links": [
+      "https://github.com/astral-sh/ruff",
+      "https://docs.astral.sh/ruff/",
+      "https://github.com/pypa/pipx",
+      "https://cheat.sh/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=5SNS28ly38Y",
+    "upload_date": "20230323"
+  },
+  {
+    "title": "EP 014 | PoC Codon (python compiler to binay/ELF)",
+    "links": [
+      "https://github.com/exaloop/codon",
+      "https://docs.exaloop.io/codon"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=VMUyZMcrzI4",
+    "upload_date": "20230323"
+  },
+  {
+    "title": "EP 013 | Caido PoC - What it's worth & RoadMap with @YanZaX",
+    "links": [
+      "https://caido.io/",
+      "https://github.com/caido",
+      "https://github.com/orgs/caido/projects/4/views/20"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=s8KLGu7WNOk",
+    "upload_date": "20230309"
+  },
+  {
+    "title": "EP 012 | Java Introspection with Frida on linux - Variant Vulnerability Analysis with @YanZaX",
+    "links": [
+      "https://frida.re/docs/examples/android/",
+      "https://frida.re/docs/examples/linux/",
+      "https://frida.re/docs/examples/android/",
+      "https://frida.re/docs/stalker/",
+      "https://github.com/asdf-vm/asdf",
+      "https://github.com/iddoeldor/frida-snippets"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=7KZR2WqmIeg",
+    "upload_date": "20230309"
+  },
+  {
+    "title": "EP 011 | Automated google-traduction on static GoHugo websites",
+    "links": [
+      "https://thinkloveshare.com/the_rest/website_migration/",
+      "https://gohugo.io/",
+      "https://translate.google.com/?hl=fr&sl=ro&tl=fr&op=translate",
+      "https://www.photopea.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=yBz8v5-44pg",
+    "upload_date": "20230217"
+  },
+  {
+    "title": "EP 010 | CodeQL CLEAN WrapUp, Working PoC on golang pd-simpleserver with @hugow_vincent part 4/3",
+    "links": [
+      "https://codeql.github.com/docs/codeql-language-guides/codeql-for-go/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=yTO0uXtH9Oo",
+    "upload_date": "20230203"
+  },
+  {
+    "title": "EP 009 | CodeQL PoC on Jolokia/Java & pd-simpleserver/golang with @hugow_vincent part 3/3",
+    "links": [
+      "https://codeql.github.com/docs/codeql-language-guides/codeql-for-go/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=4fiI9F8PL-I",
+    "upload_date": "20230203"
+  },
+  {
+    "title": "EP 008 | CodeQL PoC on Jolokia/Java & pd-simpleserver/golang with @hugow_vincent part 2/3",
+    "links": [
+      "https://github.com/hawtio/hawtio",
+      "https://learn.snyk.io/lesson/spring4shell/",
+      "https://codeql.github.com/docs/writing-codeql-queries/introduction-to-ql/",
+      "https://docs.github.com/en/code-security/codeql-cli/getting-started-with-the-codeql-cli",
+      "https://www.baeldung.com/spring-boot-actuators",
+      "https://github.com/projectdiscovery/simplehttpserver",
+      "https://codeql.github.com/docs/codeql-language-guides/codeql-for-go/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=nCksqPrBiJI",
+    "upload_date": "20230202"
+  },
+  {
+    "title": "EP 007 | CodeQL PoC on Jolokia/Java & pd-simpleserver/golang with @hugow_vincent part 1/3",
+    "links": [
+      "https://jolokia.org/documentation.html",
+      "https://thinkloveshare.com/hacking/shells_with_jolokia_exploitation_toolkit/",
+      "https://codeql.github.com/docs/",
+      "https://github.com/microsoft/codeql-container",
+      "https://codeql.github.com/docs/codeql-language-guides/codeql-for-java/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=j2iXIAACmP4",
+    "upload_date": "20230202"
+  },
+  {
+    "title": "EP 006 | Reviewing the PortSwigger Top 10 Web Hacking Techniques Nominations of 2022, part 3/3",
+    "links": [
+      "https://portswigger.net/research/top-10-web-hacking-techniques-of-2022-nominations-open",
+      "https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec",
+      "https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91",
+      "https://tttang.com/archive/1703/",
+      "https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2",
+      "https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/",
+      "https://www.sonarsource.com/blog/zimbra-mail-stealing-clear-text-credentials-via-memcache-injection/",
+      "https://wya.pl/2022/02/26/cve-2022-22947-spel-casting-and-evil-beans/",
+      "https://codewhitesec.blogspot.com/2022/06/bypassing-dotnet-serialization-binders.html",
+      "https://blog.viettelcybersecurity.com/tabshell-owassrf/",
+      "https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/",
+      "https://www.jerkeby.se/newsletter/posts/prototype-poisoning/",
+      "https://www.intruder.io/research/in-guid-we-trust",
+      "https://samcurry.net/universal-xss-on-netlifys-next-js-library/",
+      "https://octagon.net/blog/2022/05/29/bypass-csp-using-wordpress-by-abusing-same-origin-method-execution/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vlfNMoLjxzY",
+    "upload_date": "20230129"
+  },
+  {
+    "title": "EP 005 | Reviewing the PortSwigger Top 10 Web Hacking Techniques Nominations of 2022, part 2/3",
+    "links": [
+      "https://portswigger.net/research/top-10-web-hacking-techniques-of-2022-nominations-open",
+      "https://i.blackhat.com/USA-22/Wednesday/US-22-Doyhenard-Internal-Server-Error.pdf",
+      "https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/",
+      "https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/",
+      "https://jub0bs.com/posts/2021-01-29-great-samesite-confusion/",
+      "https://medium.com/@renwa/the-underrated-bugs-clickjacking-css-injection-drag-drop-xss-cookie-bomb-login-logout-csrf-84307a98fffa",
+      "https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html",
+      "https://0xacb.com/2022/11/21/recollapse/",
+      "https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html",
+      "https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/",
+      "https://www.invicti.com/blog/web-security/ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations/",
+      "https://www.youtube.com/watch?v=bhthwXhGZDY",
+      "https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/",
+      "https://blog.viettelcybersecurity.com/deep-understand-aspx-file-handling-and-some-related-attack-vector/",
+      "https://pyn3rd.github.io/2022/05/07/Arbitrary-File-Upload-Tricks-In-Java/",
+      "https://www.youtube.com/watch?v=WHn-6xHL7mI",
+      "https://blog.doyensec.com/2022/06/09/apache-pinot-sqli-rce.html",
+      "https://blog.doyensec.com/2022/10/18/cloudsectidbit-dataimport.html",
+      "https://www.youtube.com/watch?v=Olq6XnZ4Pwo",
+      "https://portswigger.net/research/hijacking-service-workers-via-dom-clobbering"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0HEntUmBZNg",
+    "upload_date": "20230129"
+  },
+  {
+    "title": "EP 004 | Reviewing the PortSwigger Top 10 Web Hacking Techniques Nominations of 2022, part 1/3",
+    "links": [
+      "https://portswigger.net/research/top-10-web-hacking-techniques-of-2022-nominations-open",
+      "https://www.sonarsource.com/blog/disclosing-information-with-a-side-channel-in-django/",
+      "https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html",
+      "https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b",
+      "https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html",
+      "https://portswigger.net/research/browser-powered-desync-attacks",
+      "https://swarm.ptsecurity.com/discovering-domains-via-a-time-correlation-attack/",
+      "https://bahruz.me/publications/11844.pdf",
+      "https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf",
+      "http://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html",
+      "https://medium.com/@emil.lerner/leaking-uninitialized-memory-from-fastly-83327bcbee1f",
+      "https://www.hypn.za.net/blog/2022/11/12/Hacking-Salesforce-backed-WebApps/",
+      "https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html",
+      "https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=rqMZG_-Df2g",
+    "upload_date": "20230129"
+  },
+  {
+    "title": "EP 003 | Creating a docker-compose Web Hacking lab for kong & konga",
+    "links": [
+      "https://docs.docker.com/compose/",
+      "https://github.com/Kong/kong",
+      "https://github.com/pantsel/konga",
+      "https://thinkloveshare.com/hacking/kong-konga-exploitation-and-hardening/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xHj_tM60-yo",
+    "upload_date": "20230114"
+  },
+  {
+    "title": "EP 002 | pty4all improvements, implementing curl, wget, and bash /dev/tcp fallback methods!",
+    "links": [
+      "https://github.com/laluka/pty4all"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=U59WmDdhFvg",
+    "upload_date": "20230114"
+  },
+  {
+    "title": "EP 001 | Say NO to Wordpress, and YES to Static Sites (Here a PoC with GoHugo & MailChimp)",
+    "links": [
+      "https://wordpress.com/fr/",
+      "https://gohugo.io/",
+      "https://thinkloveshare.com/the_rest/website_migration/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=kVq-h4eSJPc",
+    "upload_date": "20230108"
+  }
+]
