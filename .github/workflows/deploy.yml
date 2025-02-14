@@ -38,8 +38,6 @@ jobs:
           ls -lah /tmp/yt-cookies.txt
           npm run populate
           rm /tmp/yt-cookies.txt
-        env:
-          YT_COOKIES: ${{ secrets.YT_COOKIES }}
 
       - name: Build the site
         run: npm run build
