@@ -63,7 +63,10 @@ export function StreamCard({ stream }: StreamCardProps) {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-purple-400 hover:text-purple-300 block 
-                         hover:translate-x-1 transition-transform whitespace-nowrap overflow-hidden text-ellipsis"
+                         whitespace-nowrap overflow-hidden text-ellipsis
+                         hover:whitespace-normal hover:overflow-visible hover:break-all
+                         transition-all duration-300 delay-500
+                         hover:delay-500"
               >
                 {link}
               </a>
