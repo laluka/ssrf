@@ -13,12 +13,14 @@ export async function fetchStreamData(): Promise<StreamData[]> {
     return (allVideos as VideoData[])
       .map((video) => ({
         date: video.upload_date,
-        covered_links: video.links,  // Keep all links
+        covered_links: video.links, // Keep all links
         stream_name: video.title,
-        stream_link: video.webpage_url
+        stream_link: video.webpage_url,
       }))
-      .filter((stream): stream is StreamData => 
-        Boolean(stream.date && stream.covered_links.length > 0 && stream.stream_name && stream.stream_link)
+      .filter((stream): stream is StreamData =>
+        Boolean(
+          stream.date && stream.covered_links.length > 0 && stream.stream_name && stream.stream_link
+        )
       )
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   } catch (error) {

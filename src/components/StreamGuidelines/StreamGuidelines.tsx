@@ -17,17 +17,17 @@ export function StreamGuidelines({ isOpen, onClose }: StreamGuidelinesProps) {
 
   return (
     <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-      <div ref={modalRef} className="bg-gray-800 rounded-lg max-w-2xl w-full max-h-[90vh] overflow-y-auto relative">
+      <div
+        ref={modalRef}
+        className="bg-gray-800 rounded-lg max-w-2xl w-full max-h-[90vh] overflow-y-auto relative"
+      >
         <div className="sticky top-0 bg-gray-800 p-4 border-b border-gray-700 flex items-center justify-between">
           <h2 className="text-xl font-bold text-white">Stream Guidelines</h2>
-          <button
-            onClick={onClose}
-            className="p-1 hover:bg-gray-700 rounded-lg transition-colors"
-          >
+          <button onClick={onClose} className="p-1 hover:bg-gray-700 rounded-lg transition-colors">
             <X className="w-5 h-5 text-gray-400" />
           </button>
         </div>
-        
+
         <div className="p-6">
           {Object.entries(guidelines).map(([title, items]) => (
             <GuidelineSection key={title} title={title} items={items} />

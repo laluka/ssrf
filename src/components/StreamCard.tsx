@@ -21,16 +21,16 @@ export function StreamCard({ stream }: StreamCardProps) {
   const searchTerm = searchParams.get('query')?.toLowerCase() || '';
 
   const filteredLinks = searchTerm
-    ? stream.covered_links.filter(link => 
-        link.toLowerCase().includes(searchTerm)
-      )
+    ? stream.covered_links.filter((link) => link.toLowerCase().includes(searchTerm))
     : stream.covered_links;
 
   return (
-    <div className="bg-gray-800/50 backdrop-blur-sm rounded-lg overflow-hidden hover:transform 
+    <div
+      className="bg-gray-800/50 backdrop-blur-sm rounded-lg overflow-hidden hover:transform 
                     hover:scale-102 transition-all duration-300 border border-gray-700/50 
-                    hover:border-purple-500/50 group">
-      <a 
+                    hover:border-purple-500/50 group"
+    >
+      <a
         href={stream.stream_link}
         target="_blank"
         rel="noopener noreferrer"
@@ -54,21 +54,17 @@ export function StreamCard({ stream }: StreamCardProps) {
           <Youtube className="w-12 h-12 text-red-500" />
         </div>
       </a>
-      
+
       <div className="p-4">
-        <div className="flex items-center text-gray-400 text-sm mb-2">
-          {stream.date}
-        </div>
-        
+        <div className="flex items-center text-gray-400 text-sm mb-2">{stream.date}</div>
+
         <h3 className="text-gray-100 font-medium mb-3 line-clamp-2 min-h-[3rem]">
           {stream.stream_name}
         </h3>
-        
+
         <div className="space-y-2">
           {filteredLinks.map((link, index) => (
-            <div key={index} 
-                 className="transition-all duration-100 hover:pl-2"
-            >
+            <div key={index} className="transition-all duration-100 hover:pl-2">
               <a
                 href={link}
                 target="_blank"

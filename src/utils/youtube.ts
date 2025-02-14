@@ -20,12 +20,12 @@ export async function getYoutubeThumbnail(videoId: string | null): Promise<strin
   // Helper function to check if an image exists
   const checkImage = (url: string): Promise<boolean> => {
     return fetch(url, { method: 'HEAD' })
-      .then(res => res.ok)
+      .then((res) => res.ok)
       .catch(() => false);
   };
 
   const maxResUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
   const exists = await checkImage(maxResUrl);
-  
+
   return exists ? maxResUrl : `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
 }

@@ -29,11 +29,11 @@ export function StreamBrowser() {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.target instanceof HTMLInputElement) return; // Don't handle if user is typing in an input
-      
+
       if (e.key === 'ArrowLeft' && currentPage > 1) {
-        setCurrentPage(prev => prev - 1);
+        setCurrentPage((prev) => prev - 1);
       } else if (e.key === 'ArrowRight' && currentPage < totalPages) {
-        setCurrentPage(prev => prev + 1);
+        setCurrentPage((prev) => prev + 1);
       }
     };
 
@@ -55,23 +55,24 @@ export function StreamBrowser() {
   );
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 
-                    text-white p-6 relative overflow-hidden">
+    <div
+      className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 
+                    text-white p-6 relative overflow-hidden"
+    >
       <Background />
-      
+
       <div className="max-w-[1400px] mx-auto relative">
         <div className="text-center mb-8">
           <Title />
           <p className="text-gray-400">
-            Search through {filteredStreams.length} episodes and {filteredStreams.reduce((total, stream) => total + stream.covered_links.length, 0)} links
+            Search through {filteredStreams.length} episodes and{' '}
+            {filteredStreams.reduce((total, stream) => total + stream.covered_links.length, 0)}{' '}
+            links
           </p>
         </div>
-        
-        <SearchBar 
-          searchTerm={searchTerm} 
-          onSearch={handleSearch}
-        />
-        
+
+        <SearchBar searchTerm={searchTerm} onSearch={handleSearch} />
+
         {loading ? (
           <LoadingState />
         ) : error ? (
@@ -83,7 +84,7 @@ export function StreamBrowser() {
             ))}
           </div>
         )}
-        
+
         {totalPages > 1 && (
           <Pagination
             currentPage={currentPage}

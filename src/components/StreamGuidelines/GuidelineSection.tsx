@@ -21,7 +21,7 @@ export function GuidelineSection({ title, items }: GuidelineSectionProps) {
             <span className="mr-2">•</span>
             <span>
               {item.link ? (
-                <a 
+                <a
                   href={item.link}
                   target="_blank"
                   rel="noopener noreferrer"
