@@ -13,8 +13,9 @@ export function useStreamData() {
         const data = await fetchStreamData();
         setStreams(data);
         setError(null);
-      } catch (err) {
-        setError('Failed to load stream data');
+      } catch (err: unknown) {
+        const errorMessage = err instanceof Error ? err.message : 'Failed to load stream data';
+        setError(errorMessage);
       } finally {
         setLoading(false);
       }

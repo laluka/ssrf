@@ -66,16 +66,15 @@ export function StreamCard({ stream }: StreamCardProps) {
         
         <div className="space-y-2">
           {filteredLinks.map((link, index) => (
-            <div key={index}>
+            <div key={index} 
+                 className="transition-all duration-100 hover:pl-2"
+            >
               <a
                 href={link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-sm text-purple-400 hover:text-purple-300 block 
-                         whitespace-nowrap overflow-hidden text-ellipsis
-                         hover:whitespace-normal hover:overflow-visible hover:break-all
-                         transition-all duration-300 delay-500
-                         hover:delay-500"
+                className="text-sm text-purple-300 hover:text-purple-200 block 
+                         whitespace-nowrap overflow-hidden text-ellipsis"
               >
                 {link}
               </a>
