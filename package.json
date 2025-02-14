@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "populate": "yt-dlp --restrict-filenames --continue --skip-download --paths metadatas --write-info-json --yes-playlist https://www.youtube.com/@TheLaluka && node populate.js",
+    "populate": "yt-dlp --restrict-filenames --continue --force-ipv4  --no-check-certificate --sleep-interval 1 --user-agent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36' --skip-download --paths metadatas --write-info-json --yes-playlist https://www.youtube.com/@TheLaluka && node populate.js",
     "dev": "vite",
     "build": "vite build --outDir docs --minify && cp docs/index.html docs/404.html",
     "lint": "eslint .",
