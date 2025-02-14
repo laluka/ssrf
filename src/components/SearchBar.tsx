@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, BookOpen, MessageCircle, Share2 } from 'lucide-react';
+import { Search, BookOpen, MessageCircle, Heart } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { IconButton } from './common/IconButton';
 
@@ -24,7 +24,7 @@ export function SearchBar({ searchTerm, onSearch }: SearchBarProps) {
           title="Join Discord"
         />
         <IconButton
-          icon={Share2}
+          icon={Heart}
           href="https://linktr.ee/TheLaluka"
           title="Social Links"
         />
