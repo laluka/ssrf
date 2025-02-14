@@ -34,7 +34,9 @@ jobs:
         run: |
           wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
           chmod +x /usr/local/bin/yt-dlp
+          echo "$YT_COOKIES" | base64 -d > /tmp/yt-cookies.txt # Dummy account tkt
           npm run populate
+          rm /tmp/yt-cookies.txt
 
       - name: Build the site
         run: npm run build
