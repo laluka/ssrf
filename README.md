@@ -15,7 +15,6 @@ A minimalist web application to search and browse through stream resources.
 - React + TypeScript
 - Tailwind CSS
 - Lucide Icons
-- Papa Parse for CSV handling
 - GitHub Actions for CI/CD
 
 ## Development
@@ -23,6 +22,9 @@ A minimalist web application to search and browse through stream resources.
 ```bash
 # Install dependencies
 npm install
+
+# Populate the database
+npm run populate
 
 # Start development server
 npm run dev
@@ -33,11 +35,3 @@ npm run build
 # Audit & fix
 npm audit fix
 ```
-
-## Data Source
-
-Stream data is fetched from a public Google Sheets document and parsed using Papa Parse.
-
-## License
-
-MIT

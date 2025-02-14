@@ -1,37 +1,28 @@
-import Papa from 'papaparse';
 import { StreamData } from '../types';
+import allVideos from '../all_videos.json';
+
+interface VideoData {
+  title: string;
+  links: string[];
+  webpage_url: string;
+  upload_date: string;
+}
 
 export async function fetchStreamData(): Promise<StreamData[]> {
-  const CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQl0fYlik6fvtVqSZ0MrFS9LugV8izIwbc9GPSAcOELk4tyhixYMT1K5OpJX4LZgHHE9s6O6ZwCtWXl/pub?gid=0&single=true&output=csv";
-  
   try {
-    const response = await fetch(CSV_URL);
-    const csvText = await response.text();
-    
-    return new Promise((resolve, reject) => {
-      Papa.parse(csvText, {
-        header: true,
-        complete: (results) => {
-          const streams = results.data
-            .filter((row: any) => row.date && row.covered_link && row.stream_name && row.stream_link)
-            .map((row: any) => ({
-              date: row.date,
-              covered_link: row.covered_link,
-              stream_name: row.stream_name,
-              stream_link: row.stream_link
-            }))
-            .sort((a: StreamData, b: StreamData) => 
-              new Date(b.date).getTime() - new Date(a.date).getTime()
-            );
-          resolve(streams);
-        },
-        error: (error) => {
-          reject(error);
-        }
-      });
-    });
+    return (allVideos as VideoData[])
+      .map((video) => ({
+        date: video.upload_date,
+        covered_links: video.links,  // Keep all links
+        stream_name: video.title,
+        stream_link: video.webpage_url
+      }))
+      .filter((stream): stream is StreamData => 
+        Boolean(stream.date && stream.covered_links.length > 0 && stream.stream_name && stream.stream_link)
+      )
+      .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   } catch (error) {
-    console.error('Error fetching stream data:', error);
+    console.error('Error loading stream data:', error);
     return [];
   }
 }

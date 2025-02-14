@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Youtube } from 'lucide-react';
+import { Youtube } from 'lucide-react';
 import { StreamData } from '../types';
 import { extractYoutubeId, getYoutubeThumbnail } from '../utils/youtube';
 
@@ -42,31 +42,22 @@ export function StreamCard({ stream }: StreamCardProps) {
         </h3>
         
         <div className="space-y-2">
-          <div className="text-sm text-gray-400 break-all">
-            {stream.covered_link}
-          </div>
-          <div className="flex gap-4 mt-2">
-            <a
-              href={stream.covered_link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center text-purple-400 hover:text-purple-300 text-sm 
-                       hover:translate-x-1 transition-transform"
-            >
-              <ExternalLink className="w-4 h-4 mr-1" />
-              Resource
-            </a>
-            <a
-              href={stream.stream_link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center text-red-400 hover:text-red-300 text-sm
-                       hover:translate-x-1 transition-transform"
-            >
-              <Youtube className="w-4 h-4 mr-1" />
-              Watch
-            </a>
-          </div>
+          {stream.covered_links.map((link, index) => (
+            <div key={index}>
+              <a
+                href={link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm text-purple-400 hover:text-purple-300 break-all block 
+                         hover:translate-x-1 transition-transform"
+              >
+                {link}
+              </a>
+              {index < stream.covered_links.length - 1 && (
+                <div className="border-t border-gray-700/50 my-2" />
+              )}
+            </div>
+          ))}
         </div>
       </div>
     </div>

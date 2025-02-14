@@ -47,7 +47,7 @@ export function StreamBrowser() {
         <div className="text-center mb-8">
           <Title />
           <p className="text-gray-400">
-            Search through {filteredStreams.length} resources from past streams
+            Search through {filteredStreams.length} episodes and {filteredStreams.reduce((total, stream) => total + stream.covered_links.length, 0)} links
           </p>
         </div>
         
