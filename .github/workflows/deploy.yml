@@ -31,7 +31,10 @@ jobs:
         run: npm install
 
       - name: Populate database
-        run: npm run populate
+        run: |
+          wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
+          chmod +x /usr/local/bin/yt-dlp
+          npm run populate
 
       - name: Build the site
         run: npm run build
