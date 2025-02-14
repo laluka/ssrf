@@ -1,5 +1,6 @@
 import React from 'react';
 import { Youtube } from 'lucide-react';
+import { useSearchParams } from 'react-router-dom';
 import { StreamData } from '../types';
 import { extractYoutubeId, getYoutubeThumbnail } from '../utils/youtube';
 
@@ -9,7 +10,20 @@ interface StreamCardProps {
 
 export function StreamCard({ stream }: StreamCardProps) {
   const videoId = extractYoutubeId(stream.stream_link);
-  const thumbnailUrl = getYoutubeThumbnail(videoId);
+  const [thumbnailUrl, setThumbnailUrl] = React.useState<string>('');
+  const [searchParams] = useSearchParams();
+
+  React.useEffect(() => {
+    getYoutubeThumbnail(videoId).then(setThumbnailUrl);
+  }, [videoId]);
+
+  const searchTerm = searchParams.get('query')?.toLowerCase() || '';
+
+  const filteredLinks = searchTerm
+    ? stream.covered_links.filter(link => 
+        link.toLowerCase().includes(searchTerm)
+      )
+    : stream.covered_links;
 
   return (
     <div className="bg-gray-800/50 backdrop-blur-sm rounded-lg overflow-hidden hover:transform 
@@ -42,7 +56,7 @@ export function StreamCard({ stream }: StreamCardProps) {
         </h3>
         
         <div className="space-y-2">
-          {stream.covered_links.map((link, index) => (
+          {filteredLinks.map((link, index) => (
             <div key={index}>
               <a
                 href={link}
@@ -53,9 +67,6 @@ export function StreamCard({ stream }: StreamCardProps) {
               >
                 {link}
               </a>
-              {index < stream.covered_links.length - 1 && (
-                <div className="border-t border-gray-700/50 my-2" />
-              )}
             </div>
           ))}
         </div>
