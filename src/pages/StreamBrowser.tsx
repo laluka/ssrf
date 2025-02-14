@@ -24,6 +24,23 @@ export function StreamBrowser() {
     setCurrentPage(1);
   }, [searchTerm, streams]);
 
+  const totalPages = Math.ceil(filteredStreams.length / ITEMS_PER_PAGE);
+
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.target instanceof HTMLInputElement) return; // Don't handle if user is typing in an input
+      
+      if (e.key === 'ArrowLeft' && currentPage > 1) {
+        setCurrentPage(prev => prev - 1);
+      } else if (e.key === 'ArrowRight' && currentPage < totalPages) {
+        setCurrentPage(prev => prev + 1);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [currentPage, totalPages]);
+
   const handleSearch = (value: string) => {
     if (value) {
       setSearchParams({ query: value });
@@ -32,7 +49,6 @@ export function StreamBrowser() {
     }
   };
 
-  const totalPages = Math.ceil(filteredStreams.length / ITEMS_PER_PAGE);
   const currentStreams = filteredStreams.slice(
     (currentPage - 1) * ITEMS_PER_PAGE,
     currentPage * ITEMS_PER_PAGE
