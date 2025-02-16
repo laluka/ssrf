@@ -92,6 +92,7 @@ export function StreamCard({ stream }: StreamCardProps) {
                   rel="noopener noreferrer"
                   className="text-sm text-purple-300 hover:text-purple-200 block 
                            whitespace-nowrap overflow-hidden text-ellipsis"
+                  title={link}
                 >
                   {link}
                 </a>
