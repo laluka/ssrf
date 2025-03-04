@@ -1,8 +1,6 @@
 name: Deploy SSRF with Custom Build Process
 
 on:
-  schedule:
-    - cron: '0 7 * * 1'  # Runs at 7am UTC every Monday
   push:
     branches: ["main"]
   workflow_dispatch:
@@ -34,14 +32,15 @@ jobs:
 
       - name: Populate database
         run: |
-          wget -q https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
-          chmod +x /usr/local/bin/yt-dlp
-          echo "$YT_COOKIES" | base64 -d > /tmp/yt-cookies.txt
-          ls -lah /tmp/yt-cookies.txt
           npm run populate
-          rm /tmp/yt-cookies.txt
-        env:
-          YT_COOKIES: ${{ secrets.YT_COOKIES }}
+          # wget -q https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
+          # chmod +x /usr/local/bin/yt-dlp
+          # echo "$YT_COOKIES" | base64 -d > /tmp/yt-cookies.txt
+          # ls -lah /tmp/yt-cookies.txt
+          # npm run populate
+          #   rm /tmp/yt-cookies.txt
+          # env:
+          #   YT_COOKIES: ${{ secrets.YT_COOKIES }}
 
       - name: Build the site
         run: npm run build

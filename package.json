@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "populate": "yt-dlp --dateafter 20250201 --restrict-filenames --sleep-interval 1 --continue --cookies /tmp/yt-cookies.txt --skip-download --paths metadatas --write-info-json --yes-playlist https://www.youtube.com/@TheLaluka && node populate.js",
+    "ytdlp": "yt-dlp --dateafter 20250201 --restrict-filenames --sleep-interval 1 --continue --cookies-from-browser chrome --skip-download --paths metadatas --write-info-json --yes-playlist https://www.youtube.com/@TheLaluka",
+    "populate": "node populate.js",
     "dev": "vite",
     "build": "vite build --outDir docs --minify && cp docs/index.html docs/404.html",
     "lint": "eslint .",
