@@ -1,6 +1,8 @@
 name: Deploy SSRF with Custom Build Process
 
 on:
+  schedule:
+    - cron: '0 7 * * 1'  # Runs at 7am UTC every Monday
   push:
     branches: ["main"]
   workflow_dispatch:
