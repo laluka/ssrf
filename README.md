@@ -4,6 +4,8 @@ A minimalist web application to search and browse through stream resources.
 
 > [https://linktr.ee/TheLaluka](https://linktr.ee/TheLaluka)
 
+<img src='demo-00.png' width='800'>
+
 ## Features
 
 - 🔍 Real-time search through stream content
