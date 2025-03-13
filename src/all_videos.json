@@ -1,5 +1,80 @@
 [
   {
+    "title": "EP 185 | Techno-Watch March Ft. @KharaTheOne",
+    "links": [
+      "https://www.linkedin.com/posts/nwodtuhs_in-exegol-we-focus-on-bringing-the-best-activity-7302758082789404672-RTLo",
+      "https://ctfsearch.hackmap.win/",
+      "https://command-not-found.com/",
+      "https://www.shodan.io/search/filters",
+      "https://www.shodan.io/search/examples",
+      "https://github.com/yandex/gixy",
+      "https://superfile.netlify.app/",
+      "https://www.flypenguin.de/2023/02/26/use-vscodium-with-microsofts-proprietary-marketplace/",
+      "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
+      "https://sw.kovidgoyal.net/kitty/",
+      "https://github.com/darrenburns/posting",
+      "https://x.com/localghost/status/1882109711732154387",
+      "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/blob/main/DeepSeek-R1-Distill-Qwen-1.5B-f32.gguf",
+      "https://github.com/phpstan/phpstan",
+      "https://github.com/robocoder/rips-scanner",
+      "https://github.com/ssl/ezXSS",
+      "https://github.com/noraj/pass-station/releases/tag/v2.0.0",
+      "https://github.com/airbus-seclab/soxy",
+      "https://www.hahwul.com/2020/10/03/forcing-http-redirect-xss/",
+      "https://www.gremwell.com/firefox-xss-302",
+      "https://sshx.io/",
+      "https://tmate.io/",
+      "https://thinkloveshare.com/hacking/a_helping_hand/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xULab86Yu-Y",
+    "upload_date": "20250313"
+  },
+  {
+    "title": "EP 184 | Honeypots - IOT & AI in Evil-M5Project Ft. @7h30th3r0n3, @_hilarex",
+    "links": [
+      "https://7h30th3r0n3.fr/",
+      "https://github.com/7h30th3r0n3/Evil-M5Project",
+      "https://shop.m5stack.com/?ref=7h30th3r0n3",
+      "https://www.espressif.com/",
+      "https://github.com/RoganDawes/P4wnP1_aloa"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=yFcdRN2mLqM",
+    "upload_date": "20250303"
+  },
+  {
+    "title": "EP 183 | Honeypots - Trapster Community by BallPoint Ft. @7h30th3r0n3, @_hilarex",
+    "links": [
+      "https://trapster.cloud/fr/",
+      "https://github.com/0xBallpoint/trapster-community"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MxKZbpMvACM",
+    "upload_date": "20250301"
+  },
+  {
+    "title": "EP 182 | Honeypots, Pypotomux, Broneypot, SSLH Ft. @7h30th3r0n3, @_hilarex",
+    "links": [
+      "https://x41.fr/",
+      "https://github.com/laluka/pypotomux",
+      "https://github.com/laluka/broneypote",
+      "https://github.com/yrutschle/sslh"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Qdb7I6HmrAM",
+    "upload_date": "20250227"
+  },
+  {
+    "title": "EP 181 | GestSup Pwning Ft. @_Worty @SpawnZii",
+    "links": [
+      "https://x41.fr/",
+      "https://github.com/gdepeyrot/gestsup",
+      "https://www.synacktiv.com/advisories/multiple-vulnerabilities-on-gestsup-3244",
+      "https://github.com/draios/sysdig",
+      "https://wiki.wireshark.org/Stratoshark",
+      "https://spawnzii.github.io/posts/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=jjkbSrQeU5M",
+    "upload_date": "20250215"
+  },
+  {
     "title": "EP 180 | Actus Tech & Cyber Ft. @_Worty @SpawnZii",
     "links": [
       "https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-fat-get",
