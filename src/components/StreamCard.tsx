@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Youtube, ChevronDown, ChevronUp } from 'lucide-react';
+import { Youtube, ChevronDown, ChevronUp, Calendar } from 'lucide-react';
 import { useSearchParams } from 'react-router-dom';
 import { StreamData } from '../types';
 import { extractYoutubeId, getYoutubeThumbnail } from '../utils/youtube';
@@ -59,7 +59,10 @@ export function StreamCard({ stream }: StreamCardProps) {
       </a>
 
       <div className="p-4">
-        <div className="flex items-center text-gray-400 text-sm mb-2">{stream.date}</div>
+        <div className="flex items-center text-gray-400 text-sm mb-2">
+          <Calendar size={14} className="mr-1 text-purple-400" />
+          <span className="font-medium">{stream.date}</span>
+        </div>
 
         <h3 className="text-gray-100 font-medium mb-3 line-clamp-2 min-h-[3rem]">
           {stream.stream_name}

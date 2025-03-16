@@ -8,11 +8,19 @@ interface VideoData {
   upload_date: string;
 }
 
+// Format date from YYYYMMDD to YYYY-MM-DD
+function formatDate(dateStr: string): string {
+  if (dateStr.length === 8) {
+    return `${dateStr.substring(0, 4)}-${dateStr.substring(4, 6)}-${dateStr.substring(6, 8)}`;
+  }
+  return dateStr;
+}
+
 export async function fetchStreamData(): Promise<StreamData[]> {
   try {
     return (allVideos as VideoData[])
       .map((video) => ({
-        date: video.upload_date,
+        date: formatDate(video.upload_date),
         covered_links: video.links, // Keep all links
         stream_name: video.title,
         stream_link: video.webpage_url,

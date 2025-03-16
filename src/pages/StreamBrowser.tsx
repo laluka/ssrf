@@ -1,5 +1,6 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useCallback } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { SearchBar } from '../components/SearchBar';
 import { StreamCard } from '../components/StreamCard';
 import { Pagination } from '../components/Pagination';
@@ -9,20 +10,40 @@ import { ErrorState } from '../components/ErrorState';
 import { Title } from '../components/Title';
 import { searchStreams } from '../utils/search';
 import { useStreamData } from '../hooks/useStreamData';
+import { ArrowUpDown, ArrowDownUp, BookOpen, MessageCircle, Heart } from 'lucide-react';
+import { IconButton } from '../components/common/IconButton';
 
 const ITEMS_PER_PAGE = 12;
+
+// Sort options
+type SortOption = 'newest' | 'oldest';
 
 export function StreamBrowser() {
   const { streams, loading, error } = useStreamData();
   const [searchParams, setSearchParams] = useSearchParams();
   const searchTerm = searchParams.get('query') || '';
+  const sortParam = (searchParams.get('sort') as SortOption) || 'newest';
   const [currentPage, setCurrentPage] = React.useState(1);
   const [filteredStreams, setFilteredStreams] = React.useState(streams);
 
+  // Sort streams by date - wrapped in useCallback to avoid recreating on each render
+  const sortStreams = useCallback((streams: typeof filteredStreams, sortOption: SortOption) => {
+    return [...streams].sort((a, b) => {
+      const dateA = new Date(a.date).getTime();
+      const dateB = new Date(b.date).getTime();
+      return sortOption === 'newest' ? dateB - dateA : dateA - dateB;
+    });
+  }, []);
+
   useEffect(() => {
-    setFilteredStreams(searchStreams(streams, searchTerm));
+    let result = searchStreams(streams, searchTerm);
+
+    // Apply sorting
+    result = sortStreams(result, sortParam);
+
+    setFilteredStreams(result);
     setCurrentPage(1);
-  }, [searchTerm, streams]);
+  }, [searchTerm, streams, sortParam, sortStreams]);
 
   const totalPages = Math.ceil(filteredStreams.length / ITEMS_PER_PAGE);
 
@@ -42,11 +63,20 @@ export function StreamBrowser() {
   }, [currentPage, totalPages]);
 
   const handleSearch = (value: string) => {
+    const newParams = new URLSearchParams(searchParams);
     if (value) {
-      setSearchParams({ query: value });
+      newParams.set('query', value);
     } else {
-      setSearchParams({});
+      newParams.delete('query');
     }
+    setSearchParams(newParams);
+  };
+
+  const toggleSortOrder = () => {
+    const newParams = new URLSearchParams(searchParams);
+    const newSortValue = sortParam === 'newest' ? 'oldest' : 'newest';
+    newParams.set('sort', newSortValue);
+    setSearchParams(newParams);
   };
 
   const currentStreams = filteredStreams.slice(
@@ -71,7 +101,38 @@ export function StreamBrowser() {
           </p>
         </div>
 
-        <SearchBar searchTerm={searchTerm} onSearch={handleSearch} />
+        {/* Navigation and Search Section */}
+        <div className="mb-8">
+          {/* Mobile: Buttons on top, Search below */}
+          <div className="flex flex-col md:flex-row gap-4">
+            {/* Buttons - On mobile: full width at top, On desktop: right-aligned */}
+            <div className="flex justify-center gap-3 order-1 md:order-2 md:ml-auto">
+              <Link to="/guidelines">
+                <IconButton icon={BookOpen} title="Guidelines" />
+              </Link>
+              <IconButton
+                icon={MessageCircle}
+                href="https://discord.com/invite/tH8wEpNKWS"
+                title="Join Discord"
+              />
+              <IconButton icon={Heart} href="https://linktr.ee/TheLaluka" title="Social Links" />
+              <IconButton
+                icon={sortParam === 'newest' ? ArrowDownUp : ArrowUpDown}
+                onClick={toggleSortOrder}
+                title={
+                  sortParam === 'newest'
+                    ? 'Newest First (click to change)'
+                    : 'Oldest First (click to change)'
+                }
+              />
+            </div>
+
+            {/* Search Bar - On mobile: below buttons, On desktop: left-aligned */}
+            <div className="flex-grow order-2 md:order-1">
+              <SearchBar searchTerm={searchTerm} onSearch={handleSearch} />
+            </div>
+          </div>
+        </div>
 
         {loading ? (
           <LoadingState />
