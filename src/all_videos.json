@@ -1,5 +1,48 @@
 [
   {
+    "title": "EP 187 | Techno-Watch March Ft. @KharaTheOne",
+    "links": [
+      "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps",
+      "https://zhero-web-sec.github.io/research-and-things/nextjs-and-cache-poisoning-a-quest-for-the-black-hole",
+      "https://zhero-web-sec.github.io/research-and-things/nextjs-cache-and-chains-the-stale-elixir",
+      "https://github.com/c0dejump/HExHTTP",
+      "https://github.com/c3l3si4n/thankunext",
+      "https://aszx87410.github.io/beyond-xss/en/",
+      "https://supras.io/1-click-ato-via-xss-cookie-exfiltration-despite-httponly/",
+      "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+      "https://dustri.org/b/serving-a-gzip-bomb-with-caddy.html",
+      "https://github.com/monasticacademy/httptap",
+      "https://github.com/ThalesGroup/freyja",
+      "https://github.com/0xHamy/zerodayf",
+      "https://github.com/psyray/oasis",
+      "https://richincapie.medium.com/docker-ufw-and-iptables-a-security-flaw-you-need-to-solve-now-40c85587b563",
+      "https://github.com/evilsocket/opensnitch"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=DkRxeZkKkfk",
+    "upload_date": "20250318"
+  },
+  {
+    "title": "EP 186 | Techno-Watch March Ft. @KharaTheOne",
+    "links": [
+      "https://github.com/Chocapikk/wpprobe",
+      "https://github.com/denandz/sourcemapper",
+      "https://github.com/portswigger/source-mapper",
+      "https://www.yeswehack.com/learn-bug-bounty/dom-explorer-tool-parse-html",
+      "https://yeswehack.github.io/Dom-Explorer/",
+      "https://www.jswzl.io/",
+      "https://blog.huntr.com/hunting-vulnerabilities-in-machine-learning-model-file-formats",
+      "https://retr0.blog/blog/llama-rpc-rce",
+      "https://www.ledger.com/argo-cd-security-misconfiguration-adventures",
+      "https://www.yeswehack.com/learn-bug-bounty/xss-attacks-exploitation-ultimate-guide",
+      "https://secarius.fr/cves/cve_2024_36415_what_is_rce_after_all_just_a_puzzle_put_together/",
+      "https://brutecat.com/articles/leaking-youtube-emails",
+      "https://github.com/yelang123/Zimbra10_SQL_Injection/blob/main/WRITE_UP.md",
+      "https://cturt.github.io/gamecenter.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=_NJ1GlTQA9s",
+    "upload_date": "20250317"
+  },
+  {
     "title": "EP 185 | Techno-Watch March Ft. @KharaTheOne",
     "links": [
       "https://www.linkedin.com/posts/nwodtuhs_in-exegol-we-focus-on-bringing-the-best-activity-7302758082789404672-RTLo",
