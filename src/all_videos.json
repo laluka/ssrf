@@ -1,5 +1,17 @@
 [
   {
+    "title": "PoC: What about FUZZing PHP in FrankenPHP ? Ft. @KharaTheOne",
+    "links": [
+      "https://frankenphp.dev/docs/static/",
+      "https://github.com/dunglas/frankenphp/blob/341b0240c9697fc5b956f880ef604f2cf7186c83/build-static.sh",
+      "https://gist.github.com/paresy/3cbd4c6a469511ac7479aa0e7c42fea7",
+      "https://github.com/docker/buildx",
+      "https://github.com/crazywhalecc/static-php-cli"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Ol_vIajdZJ4",
+    "upload_date": "20250319"
+  },
+  {
     "title": "EP 187 | Techno-Watch March Ft. @KharaTheOne",
     "links": [
       "https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps",
