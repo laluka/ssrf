@@ -1,5 +1,63 @@
 [
   {
+    "title": "EP 189 | Building an Auto-Decompiler MCP server with Claude Code & Cline Ft. @DoomerOutrun",
+    "links": [
+      "https://modelcontextprotocol.io/clients",
+      "https://modelcontextprotocol.io/introduction",
+      "https://claude.ai/download",
+      "https://github.com/laluka/mcpoc",
+      "https://github.com/modelcontextprotocol/create-python-server",
+      "https://github.com/modelcontextprotocol/inspector",
+      "https://github.com/evalstate/fast-agent",
+      "https://github.com/cline/cline",
+      "https://apidog.com/blog/cline-mcp-servers/",
+      "https://medium.com/@cstroliadavis/building-mcp-servers-536969d27809",
+      "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview",
+      "https://docs.anthropic.com/en/docs/agents-and-tools/mcp?q=mcp",
+      "https://medium.com/@cstroliadavis/building-mcp-servers-536969d27809",
+      "https://www.librechat.ai/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=FHdkypBj9Bw",
+    "upload_date": "20250402"
+  },
+  {
+    "title": "[TLP RED] - P̵H̵P̵ ̷&̵ ̷I̶n̸f̸o̸S̴e̶c̶ ̶i̷n̵ ̶2̴0̷2̵5̶",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=reSl_Lektdw",
+    "upload_date": "20250401"
+  },
+  {
+    "title": "EP 188 | Fabric & r2ai Ft. @DoomerOutrun & @cryptax",
+    "links": [
+      "https://ph0wn.org/",
+      "https://github.com/radareorg/radare2",
+      "https://www.radare.org/advent/16.html",
+      "https://github.com/radareorg/r2ai",
+      "https://cryptax.medium.com/using-ai-assisted-decompilation-of-radare2-e81a882863c9",
+      "https://lmarena.ai/",
+      "https://github.com/danielmiessler/fabric",
+      "https://github.com/doomerhunter/fzstd",
+      "https://platform.openai.com/docs/guides/structured-outputs?api-mode=responses",
+      "https://openrouter.ai/",
+      "https://openrouter.ai/docs/features/structured-outputs",
+      "https://github.com/silentsignal/burp-piper",
+      "https://github.com/cline/cline",
+      "https://github.com/n8n-io/n8n",
+      "https://github.com/kestra-io/kestra"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=95WSov_106c",
+    "upload_date": "20250326"
+  },
+  {
+    "title": "Braize CTF x Fronce Troua Raigion x LE JET",
+    "links": [
+      "https://www.breizhctf.com/",
+      "https://www.youtube.com/watch?v=2CjbovYhAWA#Originale"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Euh9e5_hSvM",
+    "upload_date": "20250320"
+  },
+  {
     "title": "PoC: What about FUZZing PHP in FrankenPHP ? Ft. @KharaTheOne",
     "links": [
       "https://frankenphp.dev/docs/static/",
