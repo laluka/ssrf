@@ -1,5 +1,30 @@
 [
   {
+    "title": "EP 190 | K8S, Talos, Scaling & Deployments Ft. @TheBidouilleur & @Jseguillon",
+    "links": [
+      "https://www.twitch.tv/cuistops",
+      "https://une-tasse-de.cafe/",
+      "https://www.talos.dev/",
+      "https://app.diagrams.net/",
+      "https://excalidraw.com/",
+      "https://github.com/budimanjojo/talhelper",
+      "https://github.com/siderolabs/talos/discussions/8675",
+      "https://github.com/proxmox",
+      "https://github.com/derailed/k9s",
+      "https://github.com/istio/istio/blob/master/samples/bookinfo/platform/kube/bookinfo.yaml",
+      "https://github.com/helm/helm",
+      "https://github.com/kubernetes-sigs/kustomize",
+      "https://bitnami.com/fr/stacks/kube-state-metrics",
+      "https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/",
+      "https://docs.linuxserver.io/images/docker-webtop/",
+      "https://github.com/siderolabs/omni",
+      "https://github.com/goauthentik/authentik",
+      "https://labs.iximiuz.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=E2AFiYaYrPg",
+    "upload_date": "20250416"
+  },
+  {
     "title": "EP 189 | Building an Auto-Decompiler MCP server with Claude Code & Cline Ft. @DoomerOutrun",
     "links": [
       "https://modelcontextprotocol.io/clients",
