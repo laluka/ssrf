@@ -32,32 +32,33 @@ jobs:
 
       - name: Populate database
         run: |
-          npm run populate
-          # wget -q https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
-          # chmod +x /usr/local/bin/yt-dlp
+          wget -q https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
+          chmod +x /usr/local/bin/yt-dlp
+          yt-dlp --restrict-filenames --skip-download --paths metadatas --write-info-json 'https://www.youtube.com/watch?v=E2AFiYaYrPg'
           # echo "$YT_COOKIES" | base64 -d > /tmp/yt-cookies.txt
           # ls -lah /tmp/yt-cookies.txt
           # npm run populate
           #   rm /tmp/yt-cookies.txt
           # env:
           #   YT_COOKIES: ${{ secrets.YT_COOKIES }}
+          npm run populate
 
-      - name: Build the site
-        run: npm run build
+      # - name: Build the site
+      #   run: npm run build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./docs # Ensure this matches your build output directory
+      # - name: Upload artifact
+      #   uses: actions/upload-pages-artifact@v3
+      #   with:
+      #     path: ./docs # Ensure this matches your build output directory
 
   # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+  # deploy:
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
+  #   runs-on: ubuntu-latest
+  #   needs: build
+  #   steps:
+  #     - name: Deploy to GitHub Pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v4
