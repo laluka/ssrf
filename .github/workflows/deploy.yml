@@ -2,7 +2,7 @@ name: Deploy SSRF with Custom Build Process
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "lalu/poc-single-data-extract"]
   workflow_dispatch:
 
 permissions:
