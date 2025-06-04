@@ -1,5 +1,70 @@
 [
   {
+    "title": "Live Talks @ Access Granted 01 by ACCEIS 🎤",
+    "links": [
+      "https://www.acceis.fr/",
+      "https://www.linkedin.com/company/acceis"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=uAMVBpuBJuw",
+    "upload_date": "20250528"
+  },
+  {
+    "title": "EP 195 | Dofus & Game Hacking Stories Ft. N0x, it4, Klaoude",
+    "links": [
+      "https://x.com/acceis/status/191969496...",
+      "https://my.weezevent.com/access-granted",
+      "https://sthack.fr/",
+      "https://www.nops.re/",
+      "https://github.com/Distana/Dofus1Server",
+      "https://d1proxy.sourceforge.net/",
+      "https://gamray.re/posts/sthack-2024-dofus/",
+      "https://github.com/Dysta/Nao#Emulateur+Dofus+1.29+basé+sur+Ancestra+Remake",
+      "https://i.imgur.com/XSPKUIH.png",
+      "https://docs.unity3d.com/6000.1/Documentation/Manual/scripting-backends-il2cpp.html",
+      "https://github.com/Perfare/Il2CppDumper",
+      "https://github.com/dnSpyEx/dnSpy",
+      "https://github.com/BepInEx/BepInEx",
+      "https://github.com/nesrak1/UABEA",
+      "https://github.com/dofusdude/doduda",
+      "https://github.com/sinai-dev/UnityExplorer",
+      "https://github.com/DotNetAnalyzers/ILRepack",
+      "https://github.com/lua-alchemy/lua-alchemy",
+      "https://dofensive.com",
+      "https://dofusdb.fr/",
+      "https://dofapi.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Zo3ulunbhPs",
+    "upload_date": "20250521"
+  },
+  {
+    "title": "EP 194 | Let's PoC SadServers ! Ft. @KharaTheOne",
+    "links": [
+      "https://x.com/acceis/status/1919694963853373834",
+      "https://my.weezevent.com/access-granted",
+      "https://sadservers.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=MnIhMszqx-w",
+    "upload_date": "20250513"
+  },
+  {
+    "title": "EP 193 | IOT & RADIO-HACKING Ft. @tixlegeek @FlUxIuS @virtualabsTechno-Watch",
+    "links": [
+      "https://x.com/acceis/status/1919694963853373834",
+      "https://my.weezevent.com/access-granted",
+      "https://github.com/PentHertz/RF-Swift",
+      "https://github.com/FlUxIuS",
+      "https://www.youtube.com/@Penthertz",
+      "https://tixlegeek.io/",
+      "https://github.com/tixlegeek/CoolKidsBadge-2024",
+      "https://www.youtube.com/@tixlegeek",
+      "https://whad.io/",
+      "https://github.com/whad-team/whad-client",
+      "https://www.twitch.tv/virtualabs"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=B7oRFC524aI",
+    "upload_date": "20250507"
+  },
+  {
     "title": "HadTheBox, TwoMillion (EASY) & Strutted (Medium) Ft. Had 🧨",
     "links": [
       "https://app.hackthebox.com/machines/547",
