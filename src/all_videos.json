@@ -1,5 +1,19 @@
 [
   {
+    "title": "EP 198 | Docker101 with gf! 💞",
+    "links": [
+      "https://www.linkedin.com/feed/update/urn:li:activity:7353121147263066114/",
+      "https://github.com/jesseduffield/lazydocker",
+      "https://github.com/wagoodman/dive",
+      "https://code.visualstudio.com/docs/devcontainers/tutorial",
+      "https://github.com/draios/sysdig",
+      "https://github.com/containrrr/watchtower",
+      "https://github.com/willfarrell/docker-autoheal"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Uovln0h8TWU",
+    "upload_date": "20250723"
+  },
+  {
     "title": "EP 197 | TechnoWatch & Haicker Ft. @KharaTheOne @pilvar222 @manaaaaaaaf",
     "links": [
       "https://hack4values.eu/",
@@ -81,6 +95,15 @@
   },
   {
     "title": "Access Granted 01.4 - FSCS Challenge Retex : Shrimp-Say ! - BitK",
+    "links": [
+      "https://www.acceis.fr/",
+      "https://www.linkedin.com/company/acceis"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=E_SVWmd5-aA",
+    "upload_date": "20250611"
+  },
+  {
+    "title": "Access Granted 01.4 - FCSC Challenge Retex : Shrimp-Say ! - BitK",
     "links": [
       "https://www.acceis.fr/",
       "https://www.linkedin.com/company/acceis"
