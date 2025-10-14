@@ -31,7 +31,7 @@ export const guidelines = {
     },
     {
       text: 'Pick a free slot & share it with me',
-      link: 'https://docs.google.com/spreadsheets/d/1dyQ5EOV7kfr4n1afGq2H0K3hrEH4PVxw3EwHl1GMfyE/edit',
+      link: 'https://docs.google.com/spreadsheets/d/1EWubCsOPpmiL-hnJPEQGqEO6TYF9cuSMNPwSiHFx6yw/edit',
       emoji: '👉',
     },
     { text: 'Have a marvelous day!', emoji: '🌈' },
