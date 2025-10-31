@@ -1,5 +1,92 @@
 [
   {
+    "title": "OffenSkill - VendreChill on Iximiuz Labs Ft. P4st1s",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=3Tcah-3HDHQ",
+    "upload_date": "20251031"
+  },
+  {
+    "title": "EP 205 | HTB Time - Watcher & SQLi Hard Times Ft. @hadrien_cat",
+    "links": [
+      "https://framadate.org/WTlxsSxBjQsotGP7",
+      "https://www.helloasso.com/associations/hack4values/evenements/grand-live-hacking-solidaire-lhe-2025",
+      "https://x41.fr/",
+      "https://github.com/nmap/nmap",
+      "https://github.com/astral-sh/uv",
+      "https://github.com/W01fh4cker/CVE-2024-22120-RCE",
+      "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+      "https://tib3rius.com/sqli"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=vrtRWeQSPw8",
+    "upload_date": "20251029"
+  },
+  {
+    "title": "EP 204 | Casually Worky - Rota SpeedUp VS Mubeng & Gowitness PR + Tooling",
+    "links": [
+      "https://framadate.org/WTlxsSxBjQsotGP7",
+      "https://x41.fr/",
+      "https://github.com/mubeng/mubeng",
+      "https://github.com/alpkeskin/rota",
+      "https://github.com/sensepost/gowitness",
+      "https://github.com/sqlite/sqlite",
+      "https://github.com/martinda/gnu-parallel",
+      "https://github.com/nicolargo/glances"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=rRlAr7nBZhM",
+    "upload_date": "20251024"
+  },
+  {
+    "title": "EP 203 | HTB Time - Had The Box Ft. @hadrien_cat",
+    "links": [
+      "https://framadate.org/WTlxsSxBjQsotGP7",
+      "https://www.helloasso.com/associations/hack4values/evenements/grand-live-hacking-solidaire-lhe-2025",
+      "https://x41.fr/",
+      "https://github.com/laluka/pty4all",
+      "https://github.com/ffuf/ffuf",
+      "https://cheat.sh/nmap",
+      "https://www.hackthebox.com/machines/planning",
+      "https://www.hackthebox.com/machines/forgotten",
+      "https://github.com/LimeSurvey/LimeSurvey",
+      "https://github.com/p0dalirius/LimeSurvey-webshell-plugin"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=JEOZbn5REgI",
+    "upload_date": "20251022"
+  },
+  {
+    "title": "0x41 by Oteria - RETEX 2/2 - Les étudiants",
+    "links": [
+      "https://discord.gg/vsJYsDJew",
+      "https://x41.fr/",
+      "https://www.oteria.fr/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=ESvrEyRczi4",
+    "upload_date": "20251022"
+  },
+  {
+    "title": "0x41 by Oteria - RETEX 1/2 - Le staff",
+    "links": [
+      "https://x41.fr/",
+      "https://www.oteria.fr/",
+      "https://discord.gg/vsJYsDJew"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=bQ1s7-WgG4Y",
+    "upload_date": "20251020"
+  },
+  {
+    "title": "EP 202 | Casually Worky - Setup ezXSS & Mubeng IP rotation",
+    "links": [
+      "https://framadate.org/WTlxsSxBjQsotGP7",
+      "https://github.com/ssl/ezXSS",
+      "https://developer.hashicorp.com/terraform/cdktf",
+      "https://cloud.digitalocean.com/",
+      "https://github.com/attacksurge/ax",
+      "https://github.com/mubeng/mubeng",
+      "https://github.com/sensepost/gowitness"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=AWp43CgVL0o",
+    "upload_date": "20251017"
+  },
+  {
     "title": "EP 201 | Chillmanche, xJigsaw in Dockur, Sulfateuse Rework Ft. @KharaTheOne",
     "links": [
       "https://xjigsaw.net/fr/",
@@ -3133,7 +3220,6 @@
       "https://cybernews.com/news/robot-crushes-south-korean-man/",
       "https://www.securityweek.com/rapid-reset-zero-day-exploited-to-launch-largest-ddos-attacks-in-history/",
       "https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html",
-      "https://www.jailbreakchat.com/",
       "https://twitter.com/math_castello/status/1721911501554929775?t=-JcAh9VdX3NvQfzEM54sdQ&s=19",
       "https://overreacted.io/npm-audit-broken-by-design/",
       "https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html"
@@ -3169,7 +3255,6 @@
       "https://github.com/jesseduffield/lazynpm",
       "https://bugs.chromium.org/p/chromium/issues/detail?id=1458911",
       "https://dustri.org/b/ini_set-based-open_basedir-bypass.html",
-      "https://github.com/undergroundwires/privacy.sexy",
       "https://search.0t.rocks/",
       "https://shutuptrackers.com/"
     ],

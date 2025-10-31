@@ -28,7 +28,6 @@ A minimalist web application to search and browse through stream resources.
 npm install
 
 # Populate the database
-npm run ytdlp
 npm run populate
 
 # Start development server
