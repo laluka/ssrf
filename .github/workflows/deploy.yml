@@ -30,17 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Populate database
-        run: |
-          npm run populate
-          # wget -q https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_linux -O /usr/local/bin/yt-dlp
-          # chmod +x /usr/local/bin/yt-dlp
-          # echo "$YT_COOKIES" | base64 -d > /tmp/yt-cookies.txt
-          # ls -lah /tmp/yt-cookies.txt
-          # npm run populate
-          #   rm /tmp/yt-cookies.txt
-          # env:
-          #   YT_COOKIES: ${{ secrets.YT_COOKIES }}
+#      - name: Populate database
+#        run: |
+#          npm run populate
 
       - name: Build the site
         run: npm run build
