@@ -1,7 +1,18 @@
 [
   {
-    "title": "OffenSkill - The Exegol & THR case Ft. Shutdown, @Dramelac_, @rayanlecat",
-    "links": [],
+    "title": "EP 207 | The Exegol & THR case Ft. Shutdown, @Dramelac_, @rayanlecat",
+    "links": [
+      "https://framadate.org/WTlxsSxBjQsotGP7",
+      "https://grehack.fr/",
+      "https://x41.fr/",
+      "https://www.thehacker.recipes/",
+      "https://legacy.thehacker.recipes/",
+      "https://tools.thehacker.recipes/",
+      "https://github.com/The-Hacker-Recipes/The-Hacker-Recipes",
+      "https://exegol.com/",
+      "https://github.com/ThePorgs/Exegol",
+      "https://discord.exegol.com/"
+    ],
     "webpage_url": "https://www.youtube.com/watch?v=K3Wa6exF_uM",
     "upload_date": "20251112"
   },
@@ -19,7 +30,14 @@
     "links": [
       "https://framadate.org/WTlxsSxBjQsotGP7",
       "https://iximiuz.com/en/posts/iximiuz-labs-playgrounds-2.0/",
-      "https://labs.iximiuz.com/challenges"
+      "https://labs.iximiuz.com/challenges",
+      "https://cheat.sh/docker",
+      "https://cheat.sh/nsenter",
+      "https://github.com/containerd/cgroups",
+      "https://cheat.sh/mkfs",
+      "https://cheat.sh/ip",
+      "https://github.com/kubernetes/kubectl",
+      "https://github.com/derailed/k9s"
     ],
     "webpage_url": "https://www.youtube.com/watch?v=3Tcah-3HDHQ",
     "upload_date": "20251031"
