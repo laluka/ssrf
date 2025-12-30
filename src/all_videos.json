@@ -1,5 +1,110 @@
 [
   {
+    "title": "Live Techno-Watch Backlog Bulk 02 Ft. @p4st1s",
+    "links": [
+      "https://github.com/charmbracelet/crush",
+      "https://github.com/sst/opencode",
+      "https://medium.com/@deeptester/how-can-windsurf-cursor-help-you-with-your-secure-code-review-d93394a4d719",
+      "https://adeadfed.com/posts/updating-postgresql-data-without-update/",
+      "https://github.com/draios/sysdig",
+      "https://github.com/nestjs/nest/security/advisories/GHSA-85cg-cmq5-qjm7",
+      "https://www.synacktiv.com/en/publications/2025-summer-challenge-ocinception",
+      "https://x.com/claudeai/status/1953125698081833346"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=NwPW-RI5Luc",
+    "upload_date": "20251224"
+  },
+  {
+    "title": "Live Techno-Watch Backlog Bulk 01 Ft. @p4st1s",
+    "links": [
+      "https://slcyber.io/research-center/finding-critical-bugs-in-adobe-experience-manager/",
+      "https://github.com/hackerschoice/memexec/blob/main/memexec.php",
+      "https://slcyber.io/research-center/why-nested-deserialization-is-still-harmful-magento-rce-cve-2025-54236/",
+      "https://github.com/jvoisin/snuffleupagus/issues/518#issuecomment-3445048780",
+      "https://github.com/owasp-noir/noir",
+      "https://github.com/krallin/tini",
+      "https://blog.google/products/gemini/gemini-3/#gemini-3",
+      "https://mistraleuh.github.io/Fuck-Jails/docs",
+      "https://shoxxdj.fr/articles/ld-preload-docker",
+      "https://github.com/irsdl/ysonet",
+      "https://gmsgadget.com/",
+      "https://www.youtube.com/@Fransosiche",
+      "https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html",
+      "https://github.com/cezamee/Yoda",
+      "https://xbow.com/blog/xbow-titiler-lfi",
+      "https://github.com/developmentseed/titiler",
+      "https://xairy.io/articles/pixel-kgdb",
+      "https://www.hacktron.ai/blog/python-zip-confusion",
+      "https://projectzero.google/2025/07/reporting-transparency.html"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wzOb5UWDLa4",
+    "upload_date": "20251223"
+  },
+  {
+    "title": "H4V - Hacker des ONG ? // Partie 4/4 : Interviews Staff",
+    "links": [
+      "https://hack4values.eu/",
+      "https://www.handicap-international.fr/",
+      "https://www.actioncontrelafaim.org/",
+      "https://www.msf.fr/",
+      "https://www.protection-civile.org/",
+      "https://www.unicef.fr/",
+      "https://sosmediterranee.fr/",
+      "https://www.linkedin.com/in/fabienlemarchand/",
+      "https://www.linkedin.com/in/yassirkazar/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=CoRQTudeHP4",
+    "upload_date": "20251209"
+  },
+  {
+    "title": "H4V - Hacker des ONG ? // Partie 3/4 : Interviews Hunters",
+    "links": [
+      "https://hack4values.eu/",
+      "https://www.handicap-international.fr/",
+      "https://www.actioncontrelafaim.org/",
+      "https://www.msf.fr/",
+      "https://www.protection-civile.org/",
+      "https://www.unicef.fr/",
+      "https://sosmediterranee.fr/",
+      "https://www.linkedin.com/in/fabienlemarchand/",
+      "https://www.linkedin.com/in/yassirkazar/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qTvjJmiqBqg",
+    "upload_date": "20251209"
+  },
+  {
+    "title": "H4V - Hacker des ONG ? // Partie 2/4 : Les ONG et leurs Objectifs",
+    "links": [
+      "https://hack4values.eu/",
+      "https://www.handicap-international.fr/",
+      "https://www.actioncontrelafaim.org/",
+      "https://www.msf.fr/",
+      "https://www.protection-civile.org/",
+      "https://www.unicef.fr/",
+      "https://sosmediterranee.fr/",
+      "https://www.linkedin.com/in/fabienlemarchand/",
+      "https://www.linkedin.com/in/yassirkazar/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=9CIurUBDsK4",
+    "upload_date": "20251209"
+  },
+  {
+    "title": "H4V - Hacker des ONG ? // Partie 1/4 : Introduction & Organisation",
+    "links": [
+      "https://hack4values.eu/",
+      "https://www.handicap-international.fr/",
+      "https://www.actioncontrelafaim.org/",
+      "https://www.msf.fr/",
+      "https://www.protection-civile.org/",
+      "https://www.unicef.fr/",
+      "https://sosmediterranee.fr/",
+      "https://www.linkedin.com/in/fabienlemarchand/",
+      "https://www.linkedin.com/in/yassirkazar/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=zmGxsrzDwMQ",
+    "upload_date": "20251209"
+  },
+  {
     "title": "EP 208 EN | Caido de Noel ? Ft. @Agarri_FR @Rhynorater @TheSytten",
     "links": [
       "https://framadate.org/WTlxsSxBjQsotGP7",
