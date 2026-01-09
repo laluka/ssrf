@@ -1,5 +1,67 @@
 [
   {
+    "title": "Live Techno-Watch Backlog Bulk 05",
+    "links": [
+      "https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957",
+      "https://www.endorlabs.com/learn/cve-2025-68428-critical-path-traversal-in-jspdf",
+      "https://x.com/i/status/2008840789305197012",
+      "https://github.com/Chocapikk/CVE-2026-21858",
+      "https://research.rewritelab.org/",
+      "https://blog.p1.gs/writeup/2025/07/06/Hacking-a-crypto-game/",
+      "https://specterops.io/blog/2025/07/31/whats-your-secret-secret-scanning-by-deeppass2/",
+      "https://github.com/SpecterOps/DeepPass2",
+      "https://github.com/nestjs/nest/security/advisories/GHSA-85cg-cmq5-qjm7",
+      "https://platformsecurity.com/blog/CVE-2025-32433-poc",
+      "https://www.synacktiv.com/en/publications/livewire-remote-command-execution-through-unmarshaling",
+      "https://github.com/ruvnet/wifi-densepose/",
+      "https://www.rayanle.cat/aws-red-team-expert-arte-review/",
+      "https://annas-archive.li/",
+      "https://hiddeninslack.github.io/posts/from-ssti-to-rce/",
+      "https://github.com/Maxteabag/sqlit",
+      "https://www.offensai.com/blog/aws-lambda-managed-instances-security-overview",
+      "https://www.tarlogic.com/blog/abusing-calendar-processing/",
+      "https://red.anthropic.com/2025/smart-contracts/",
+      "https://portswigger.net/research/http1-must-die",
+      "https://www.youtube.com/watch?v=cImKS9xfpIg",
+      "https://cymulate.com/blog/cve-2025-547954-54795-claude-inverseprompt/",
+      "https://github.com/j4k0xb/webcrack",
+      "https://nyarchlinux.moe/",
+      "https://github.com/mchklt/CVE-2025-30406",
+      "https://docs.google.com/presentation/d/1u03IUMCf9tdUvkYsV6LQjrPkzkw5bEDTmQZk2Mbp8oM/mobilepresent?slide=id.g36e7d767ab3_0_52",
+      "https://korben.info/lockbit-empire-russe-piratage-spectaculaire.html",
+      "https://github.com/runZeroInc/sshamble",
+      "https://mammouth.ai/",
+      "https://tools.slcyber.io/",
+      "https://inventory.raw.pm/",
+      "https://issuetracker.google.com/issues/436210783",
+      "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-our-big-sleep-agent-makes-big-leap"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=2hwkauGf95c",
+    "upload_date": "20260108"
+  },
+  {
+    "title": "Live Techno-Watch Backlog Bulk 04",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://www.youtube.com/watch?v=y8-cqYXRfvk",
+      "https://github.com/felix068/LinuxGate",
+      "https://www.smartkeyss.com/post/cve-2025-68668-breaking-out-of-the-python-sandbox-in-n8n",
+      "https://research.rewritelab.org/2025/12/31/%5BENG%5D%202025%20SECCON%20CTF%2014%20Quals%20Web%20Challenges%20Writeup/",
+      "https://github.com/piergst/lia",
+      "https://fuzzinglabs.com/build-fuzzforge-rethinking-security-automation/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=6fsccnOw8vg",
+    "upload_date": "20260108"
+  },
+  {
+    "title": "Let's PoC Microsoft Power Automate Ft. Mad 💞",
+    "links": [
+      "https://www.microsoft.com/fr-fr/power-platform/products/power-automate"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=wwNeKfteonQ",
+    "upload_date": "20260108"
+  },
+  {
     "title": "Live Techno-Watch Backlog Bulk 03",
     "links": [
       "https://www.dsecured.com/en/articles/spring-boot-actuator-using-misconfig-to-your-advantage-paths-bypasses-techniques",
@@ -18,6 +80,14 @@
       "https://x.com/kuberdenis/status/2004934631616086417"
     ],
     "webpage_url": "https://www.youtube.com/watch?v=tMp3QV-EaDU",
+    "upload_date": "20260107"
+  },
+  {
+    "title": "Hack Me Please | OffenSkill Community Shop ! 💣️",
+    "links": [
+      "https://community.offenskill.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=44NxzWoMHC0",
     "upload_date": "20260107"
   },
   {
