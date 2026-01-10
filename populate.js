@@ -71,6 +71,7 @@ function getFilteredLinks(description) {
 function processFile(filePath) {
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     return {
+        id: data.id,
         title: data.title,
         links: getFilteredLinks(data.description),
         webpage_url: data.webpage_url,

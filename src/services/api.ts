@@ -2,6 +2,7 @@ import { StreamData } from '../types';
 import allVideos from '../all_videos.json';
 
 interface VideoData {
+  id: string;
   title: string;
   links: string[];
   webpage_url: string;
@@ -20,6 +21,7 @@ export async function fetchStreamData(): Promise<StreamData[]> {
   try {
     return (allVideos as VideoData[])
       .map((video) => ({
+        id: video.id,
         date: formatDate(video.upload_date),
         covered_links: video.links, // Keep all links
         stream_name: video.title,
@@ -27,7 +29,7 @@ export async function fetchStreamData(): Promise<StreamData[]> {
       }))
       .filter((stream): stream is StreamData =>
         Boolean(
-          stream.date && stream.covered_links.length > 0 && stream.stream_name && stream.stream_link
+          stream.id && stream.date && stream.covered_links.length > 0 && stream.stream_name && stream.stream_link
         )
       )
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
