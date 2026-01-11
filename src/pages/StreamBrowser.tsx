@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback } from 'react';
+import React, { useEffect, useCallback, useRef } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 import { SearchBar } from '../components/SearchBar';
@@ -23,8 +23,11 @@ export function StreamBrowser() {
   const [searchParams, setSearchParams] = useSearchParams();
   const searchTerm = searchParams.get('query') || '';
   const sortParam = (searchParams.get('sort') as SortOption) || 'newest';
-  const [currentPage, setCurrentPage] = React.useState(1);
+  const pageParam = parseInt(searchParams.get('page') || '1', 10);
+  const highlightParam = searchParams.get('highlight');
+  const [currentPage, setCurrentPage] = React.useState(pageParam);
   const [filteredStreams, setFilteredStreams] = React.useState(streams);
+  const highlightedStreamRef = useRef<boolean>(false);
 
   // Sort streams by date - wrapped in useCallback to avoid recreating on each render
   const sortStreams = useCallback((streams: typeof filteredStreams, sortOption: SortOption) => {
@@ -42,10 +45,48 @@ export function StreamBrowser() {
     result = sortStreams(result, sortParam);
 
     setFilteredStreams(result);
-    setCurrentPage(1);
-  }, [searchTerm, streams, sortParam, sortStreams]);
+    
+    // If there's a page parameter, use it, otherwise reset to page 1
+    if (pageParam && !searchTerm) {
+      setCurrentPage(pageParam);
+    } else {
+      setCurrentPage(1);
+    }
+  }, [searchTerm, streams, sortParam, sortStreams, pageParam]);
 
   const totalPages = Math.ceil(filteredStreams.length / ITEMS_PER_PAGE);
+
+  // Handle highlighting and scrolling to a specific stream
+  useEffect(() => {
+    if (highlightParam && !loading && !searchTerm && !highlightedStreamRef.current) {
+      highlightedStreamRef.current = true;
+      
+      // Use a timeout to ensure the DOM is ready
+      setTimeout(() => {
+        const streamId = `stream-${highlightParam}`;
+        const element = document.getElementById(streamId);
+        
+        if (element) {
+          // Scroll to the element with smooth behavior
+          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          
+          // Add highlight animation
+          element.classList.add('ring-2', 'ring-purple-500', 'ring-offset-2', 'ring-offset-gray-900');
+          
+          // Remove highlight after 3 seconds
+          setTimeout(() => {
+            element.classList.remove('ring-2', 'ring-purple-500', 'ring-offset-2', 'ring-offset-gray-900');
+            
+            // Clean up the highlight parameter from URL
+            const newParams = new URLSearchParams(searchParams);
+            newParams.delete('highlight');
+            setSearchParams(newParams, { replace: true });
+            highlightedStreamRef.current = false;
+          }, 3000);
+        }
+      }, 100);
+    }
+  }, [highlightParam, loading, searchTerm, searchParams, setSearchParams]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -141,7 +182,13 @@ export function StreamBrowser() {
         ) : (
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             {currentStreams.map((stream, index) => (
-              <StreamCard key={`${stream.date}-${index}`} stream={stream} />
+              <StreamCard
+                key={`${stream.date}-${index}`}
+                stream={stream}
+                allStreams={streams}
+                sortOption={sortParam}
+                itemsPerPage={ITEMS_PER_PAGE}
+              />
             ))}
           </div>
         )}
