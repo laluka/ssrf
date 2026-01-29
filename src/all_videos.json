@@ -1,5 +1,72 @@
 [
   {
+    "id": "goBWKAit8l4",
+    "title": "EP 209 | Ne plus JAMAIS écrire de rapport de pentest ? Ft. @vulnotes & @milou__sh",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://milou.sh/",
+      "https://vulnotes.com/",
+      "https://github.com/Syslifters/sysreptor",
+      "https://github.com/pwndoc-ng/pwndoc-ng"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=goBWKAit8l4",
+    "upload_date": "20260128"
+  },
+  {
+    "id": "Ts2cV2ZCa2U",
+    "title": "New Caido Plugins & Techno-Watch Backlog Bulk 08 Ft @TheSytten",
+    "links": [
+      "https://serverlesshorrors.com/",
+      "https://caido.io/",
+      "https://github.com/caido-community/ntlm",
+      "https://github.com/caido-community/screenshot-mode",
+      "https://github.com/caido-community/Panes",
+      "https://github.com/caido-community/crawler",
+      "https://www.youtube.com/watch?v=9dIqJDy78TI#kdenlive:",
+      "https://www.synacktiv.com/publications/let-me-cook-you-a-vulnerability-exploitation-du-thermomix-tm5",
+      "https://kitctf.de/gpnctf-23/gpn-ctf-flagshare",
+      "https://flatt.tech/research/posts/pwning-claude-code-in-8-different-ways/",
+      "https://www.synacktiv.com/advisories/scriptcase-pre-authenticated-remote-command-execution"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=Ts2cV2ZCa2U",
+    "upload_date": "20260126"
+  },
+  {
+    "id": "pVQjZUIji5U",
+    "title": "Techno-Watch Backlog Bulk 07",
+    "links": [
+      "https://www.pouet.net/",
+      "https://research.checkpoint.com/2026/voidlink-the-cloud-native-malware-framework/",
+      "https://github.com/david942j/one_gadget",
+      "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
+      "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+      "https://proton.me/blog/lumo-security-model",
+      "https://lumo.proton.me/guest",
+      "https://venice.ai/features",
+      "https://blog.profundis.io/blog/favicon-similarity-search/",
+      "https://github.com/sharsil/favicorn",
+      "https://github.com/g0ldencybersec/gungnir",
+      "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+      "https://fr.wikipedia.org/wiki/Arrangement_de_Wassenaar",
+      "https://citizenlab.ca/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/",
+      "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/",
+      "https://anytype.io/",
+      "https://apply.workable.com/trailofbits/j/0C784B6D41/",
+      "https://github.com/lyogavin/airllm",
+      "https://korben.info/pearos-le-clone-de-macos-sous-arch-linux-qui-envoie-du-pate.html",
+      "https://github.com/MantisSTS/GraphReconduit",
+      "https://github.com/six2dez/burp-mcp-agents",
+      "https://github.com/fishilico/synacktiv-winter-chall-2025-quinindrome/blob/main/writeup.md",
+      "https://deepwiki.com/",
+      "https://unsloth.ai/docs/get-started/unsloth-notebooks",
+      "https://github.com/ggml-org/llama.cpp",
+      "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
+      "https://siunam321.github.io/research/python-dirty-arbitrary-file-write-to-rce-via-writing-shared-object-files-or-overwriting-bytecode-files/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=pVQjZUIji5U",
+    "upload_date": "20260125"
+  },
+  {
     "id": "77VktiqLg_U",
     "title": "Techno-Watch Backlog Bulk 06, Ft. @KharaTheOne",
     "links": [
