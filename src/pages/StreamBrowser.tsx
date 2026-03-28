@@ -45,7 +45,7 @@ export function StreamBrowser() {
     result = sortStreams(result, sortParam);
 
     setFilteredStreams(result);
-
+    
     // If there's a page parameter, use it, otherwise reset to page 1
     if (pageParam && !searchTerm) {
       setCurrentPage(pageParam);
@@ -60,33 +60,23 @@ export function StreamBrowser() {
   useEffect(() => {
     if (highlightParam && !loading && !searchTerm && !highlightedStreamRef.current) {
       highlightedStreamRef.current = true;
-
+      
       // Use a timeout to ensure the DOM is ready
       setTimeout(() => {
         const streamId = `stream-${highlightParam}`;
         const element = document.getElementById(streamId);
-
+        
         if (element) {
           // Scroll to the element with smooth behavior
           element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-
+          
           // Add highlight animation
-          element.classList.add(
-            'ring-2',
-            'ring-purple-500',
-            'ring-offset-2',
-            'ring-offset-gray-900'
-          );
-
+          element.classList.add('ring-2', 'ring-purple-500', 'ring-offset-2', 'ring-offset-gray-900');
+          
           // Remove highlight after 3 seconds
           setTimeout(() => {
-            element.classList.remove(
-              'ring-2',
-              'ring-purple-500',
-              'ring-offset-2',
-              'ring-offset-gray-900'
-            );
-
+            element.classList.remove('ring-2', 'ring-purple-500', 'ring-offset-2', 'ring-offset-gray-900');
+            
             // Clean up the highlight parameter from URL
             const newParams = new URLSearchParams(searchParams);
             newParams.delete('highlight');
@@ -163,14 +153,10 @@ export function StreamBrowser() {
               </Link>
               <IconButton
                 icon={MessageCircle}
-                href="https://www.youtube.com/@une-tasse-de-cafe"
-                title="YouTube Channel"
+                href="https://discord.com/invite/tH8wEpNKWS"
+                title="Join Discord"
               />
-              <IconButton
-                icon={Heart}
-                href="https://www.youtube.com/@une-tasse-de-cafe"
-                title="CuistOps"
-              />
+              <IconButton icon={Heart} href="https://linktr.ee/TheLaluka" title="Social Links" />
               <IconButton
                 icon={sortParam === 'newest' ? ArrowDownUp : ArrowUpDown}
                 onClick={toggleSortOrder}

@@ -1,8 +1,8 @@
-name: Deploy CuistOps with Custom Build Process
+name: Deploy SSRF with Custom Build Process
 
 on:
   push:
-    branches: ['main']
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: 'pages'
+  group: "pages"
   cancel-in-progress: false
 
 jobs:
@@ -30,9 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      #      - name: Populate database
-      #        run: |
-      #          npm run populate
+#      - name: Populate database
+#        run: |
+#          npm run populate
 
       - name: Build the site
         run: npm run build

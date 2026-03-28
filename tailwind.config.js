@@ -5,12 +5,7 @@ export default {
     extend: {
       colors: {
         twitch: {
-          purple: '#9146FF',
-        },
-        cuistops: {
-          brown: '#D4A574',
-          red: '#C0392B',
-          gold: '#F39C12',
+          purple: '#9146FF'
         },
       },
     },

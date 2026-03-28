@@ -1,30 +1,39 @@
 export const guidelines = {
   'Audio & Video': [
-    { text: 'Guests MUST have a good microphone and SHOULD have a decent webcam' },
-    { text: 'Avoid Bluetooth headsets/buds when possible; if required, charge them to 100%' },
-    { text: 'A stable network connection & enough CPU for streaming' },
+    { text: 'We go Live with restream.io, guests MUST stop their VPN / torrent / proxy / etc' },
+    { text: 'Guests MUST have a good microphone and SHOULD have decent Webcam' },
+    { text: 'Avoid as much as possible blueetooth headset / buds, if required, charge them 100%' },
+    { text: 'If interpherences are seen (happened) keep the phone 2m away...', emoji: '🥺' },
+    { text: 'A good-enough network & CPU!' },
     { text: 'A live end-to-end group test a few days before the D-day' },
     {
-      text: "Once everything's OK: Don't change a thing, no last minute patch / update!",
+      text: "Once everything's ok : Don't change a thing, no last minute patch / update / kernel-swap!",
     },
   ],
-  'Kitchen & DevOps Tips': [
-    { text: 'Keep your workstation clean, just like your kitchen counter' },
-    { text: 'Document your recipes (and your runbooks)' },
-    { text: 'Mise en place: prep everything before you start cooking (or deploying)' },
-    { text: 'Taste as you go, monitor as you deploy' },
+  Security: [
+    { text: 'Shell history // mv ~/.zsh_history ~/.zsh_history.bak' },
+    { text: 'No secret should show-up while running "env"' },
+    { text: 'Do-Not-Disturb mode enabled on discord/teams/lkd/slack/other' },
+    { text: 'IDE MUST open blank or cwd, not on "last project open"' },
+    { text: 'Browser history & url autocompletion (avoid leaking private urls)' },
+    { text: 'Default browser page SHOULD not leak your most visited sites' },
   ],
   'Generic Guidelines': [
-    { text: 'If you drink coffee, remember to keep your mug out of the shot', emoji: '☕' },
-    { text: 'Cooking and DevOps are team sports - communicate!', emoji: '🤝' },
-    { text: 'Showcase personal projects smoothly!', emoji: '😘' },
+    { text: 'If you vape, drink, cough, remember to self-mute', emoji: '💕' },
+    { text: 'Vape & Alcohol are OK but be discreet (mug)', emoji: '😏' },
+    { text: 'Showcase personal projects is OK, make it smooth!', emoji: '😘' },
   ],
   'Then What': [
     {
-      text: 'Check out the CuistOps YouTube channel',
-      link: 'https://www.youtube.com/@une-tasse-de-cafe',
+      text: 'Join the OffenSkill Community Discord',
+      link: 'https://discord.com/invite/tH8wEpNKWS',
       emoji: '🔗',
     },
-    { text: 'Have a marvelous day, and bon appetit!', emoji: '🍽️' },
+    {
+      text: 'Pick a free slot & share it with me',
+      link: 'https://docs.google.com/spreadsheets/d/1EWubCsOPpmiL-hnJPEQGqEO6TYF9cuSMNPwSiHFx6yw/edit',
+      emoji: '👉',
+    },
+    { text: 'Have a marvelous day!', emoji: '🌈' },
   ],
 };
