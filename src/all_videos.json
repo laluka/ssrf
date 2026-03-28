@@ -1,5 +1,40 @@
 [
   {
+    "id": "svvrvs2ANmU",
+    "title": "EP 213 | PostScript, Apache FOP, N/0-dayzzZ Ft. @Icare1337 @truffzor @sigabrt9",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://offsec.almond.consulting/bypassing-apache-fop-escaping-to-reach-ghostscript.html",
+      "https://raw.githubusercontent.com/Icare1337/GhostScript/refs/heads/main/read.files.ps",
+      "https://lock.cmpxchg8b.com/rebinder.html",
+      "https://shazzer.co.uk/tools/unicode-table?fromTo=0-127&highlightsFromTo=",
+      "https://en.wikipedia.org/wiki/Time-of-check_to_time-of-use",
+      "https://www.youtube.com/@corkami-albertini",
+      "https://github.com/GhostFrankWu/SAEG",
+      "https://github.com/symgraph/GhidrAssistMCP"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=svvrvs2ANmU",
+    "upload_date": "20260325"
+  },
+  {
+    "id": "mVjG6WDeYS8",
+    "title": "EP 212 | PoC'ing n-day Ft. FloraTheExplorer!",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://www.twitch.tv/floratheexplorer_cyber",
+      "https://x.com/slonser_/status/2031052844468473974#CTF+will+live+on",
+      "https://github.com/wekan/wekan",
+      "https://www.tenable.com/cve/CVE-2026-30844",
+      "https://securitylab.github.com/advisories/GHSL-2026-045_Wekan/",
+      "https://foresiet.com/blog/apt-c-08-winrar-directory-traversal-exploit/",
+      "https://www.zerodayinitiative.com/advisories/ZDI-25-409/",
+      "https://github.com/absholi7ly/CVE-2025-6218-WinRAR-Directory-Traversal-RCE",
+      "https://www.rarlab.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=mVjG6WDeYS8",
+    "upload_date": "20260311"
+  },
+  {
     "id": "rVfJoyOX9wQ",
     "title": "Chill Chat & Techno-Watch Ft. @NoobosaurusR3x",
     "links": [
