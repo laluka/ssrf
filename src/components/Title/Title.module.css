@@ -3,10 +3,10 @@
   font-weight: 800;
   text-align: center;
   color: transparent;
-  background: linear-gradient(to right, #4158D0, #C850C0, #FFCC70);
+  background: linear-gradient(to right, #d4a574, #c0392b, #f39c12);
   -webkit-background-clip: text;
   background-clip: text;
-  filter: drop-shadow(0 0 0.1rem #4158D0);
+  filter: drop-shadow(0 0 0.1rem #d4a574);
   position: relative;
   margin-bottom: 0.5rem;
   line-height: 1.2;
@@ -15,7 +15,7 @@
 
 .neonTitle::before,
 .neonTitle::after {
-  content: "Simple Stream Resource Finder";
+  content: 'CuistOps Resource Finder';
   position: absolute;
   inset: 0;
   background: inherit;
@@ -38,11 +38,12 @@
 }
 
 @keyframes pulse {
-  0%, 100% { 
+  0%,
+  100% {
     opacity: 0.5;
     transform: scale(1.005);
   }
-  50% { 
+  50% {
     opacity: 0.3;
     transform: scale(0.995);
   }

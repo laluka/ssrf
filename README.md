@@ -1,18 +1,16 @@
-# Simple Stream Resource Finder
+# CuistOps Resource Finder
 
-A minimalist web application to search and browse through stream resources.
+A minimalist web application to search and browse through CuistOps stream resources - where cooking meets DevOps!
 
-> [https://linktr.ee/TheLaluka](https://linktr.ee/TheLaluka)
-
-<img src='demo-00.png' width='800'>
+> [https://www.youtube.com/@une-tasse-de-cafe](https://www.youtube.com/@une-tasse-de-cafe)
 
 ## Features
 
-- 🔍 Real-time search through stream content
-- 📱 Responsive design for mobile and desktop
-- 🎨 Clean, modern UI with dark theme
-- 🔗 Quick access to Discord and social links
-- 📖 Stream guidelines and best practices
+- Real-time search through stream content
+- Responsive design for mobile and desktop
+- Clean, modern UI with dark theme
+- Cook & DevOps themed floating background icons
+- Stream guidelines and best practices
 
 ## Tech Stack
 
@@ -27,7 +25,7 @@ A minimalist web application to search and browse through stream resources.
 # Install dependencies
 npm install
 
-# Populate the database
+# Populate the database (fetches YouTube metadata)
 npm run populate
 
 # Start development server
@@ -39,4 +37,3 @@ npm run build
 # Audit & fix
 npm audit fix
 ```
-
