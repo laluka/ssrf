@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Youtube, ChevronDown, ChevronUp, Calendar, ExternalLink } from 'lucide-react';
+import { Play, ChevronDown, ChevronUp, Calendar, ExternalLink } from 'lucide-react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { StreamData } from '../types';
 import { extractYoutubeId, getYoutubeThumbnail } from '../utils/youtube';
@@ -65,8 +65,8 @@ export function StreamCard({ stream, allStreams, sortOption, itemsPerPage = 12 }
   return (
     <div
       id={streamId}
-      className="bg-gray-800/50 backdrop-blur-sm rounded-lg overflow-hidden hover:transform 
-                    hover:scale-102 transition-all duration-300 border border-gray-700/50 
+      className="bg-gray-800/50 backdrop-blur-xs rounded-lg overflow-hidden hover:transform
+                    hover:scale-102 transition-all duration-300 border border-gray-700/50
                     hover:border-purple-500/50 group"
     >
       <a
@@ -88,9 +88,9 @@ export function StreamCard({ stream, allStreams, sortOption, itemsPerPage = 12 }
           }`}
           onLoad={() => setIsImageLoaded(true)}
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent opacity-60" />
+        <div className="absolute inset-0 bg-linear-to-t from-gray-900 to-transparent opacity-60" />
         <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-black/40">
-          <Youtube className="w-12 h-12 text-red-500" />
+          <Play className="w-12 h-12 text-red-500" />
         </div>
       </a>
 
@@ -139,7 +139,7 @@ export function StreamCard({ stream, allStreams, sortOption, itemsPerPage = 12 }
                   href={link}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm text-purple-300 hover:text-purple-200 block 
+                  className="text-sm text-purple-300 hover:text-purple-200 block
                            whitespace-nowrap overflow-hidden text-ellipsis"
                   title={link}
                 >

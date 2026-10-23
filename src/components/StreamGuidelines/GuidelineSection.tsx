@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface GuidelineItem {
   text: string;
   emoji?: string;

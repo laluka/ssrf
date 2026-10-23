@@ -1,16 +1,12 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-twitch-purple: #9146ff;
+}
 
 @layer base {
   body {
     @apply antialiased;
-  }
-}
-
-@layer utilities {
-  .scale-102 {
-    transform: scale(1.02);
   }
 }
 

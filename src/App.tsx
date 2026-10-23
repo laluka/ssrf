@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { StreamBrowser } from './pages/StreamBrowser';
 import { Guidelines } from './pages/Guidelines';

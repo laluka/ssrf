@@ -1,126 +1,115 @@
-import fs from 'fs';
-import { execSync } from 'child_process';
-import { glob } from 'glob'; // Use the named export 'glob' from the 'glob' package
+import fs from 'node:fs';
+import path from 'node:path';
+import { execFileSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 
-// Define the links to ignore in the description
-const linksToIgnore = [
-    "https://discord.gg/tH8wEpNKWS",
-    "https://linktr.ee/TheLaluka"
-];
-
+const ROOT = path.dirname(fileURLToPath(import.meta.url));
+const METADATA_DIR = path.join(ROOT, 'metadatas');
+const OUTPUT = path.join(ROOT, 'src/all_videos.json');
 const CHANNEL_URL = 'https://www.youtube.com/@TheLaluka';
-const METADATAS_DIR = 'metadatas';
+const IGNORED_LINKS = new Set([
+  'https://discord.gg/tH8wEpNKWS',
+  'https://linktr.ee/TheLaluka',
+]);
 
-// Function to extract video ID from YouTube URL
-function extractVideoId(url) {
-    const match = url.match(/[?&]v=([^&]+)/);
-    return match ? match[1] : null;
+export function extractVideoId(value) {
+  try {
+    const url = new URL(value);
+    const id = url.searchParams.get('v') ?? url.pathname.split('/').filter(Boolean).at(-1);
+    return /^[\w-]{11}$/.test(id ?? '') ? id : null;
+  } catch {
+    return null;
+  }
 }
 
-// Function to check if metadata file exists for a video ID
-function hasMetadataFile(videoId) {
-    const files = fs.readdirSync(METADATAS_DIR);
-    const expectedSuffix = `[${videoId}].info.json`;
-    return files.some(file => file.endsWith(expectedSuffix));
+export function flattenEntries(playlist) {
+  return playlist.entries ? playlist.entries.filter(Boolean).flatMap(flattenEntries) : [playlist];
 }
 
-// Function to fetch video URLs from the channel
-function fetchVideoUrls() {
-    console.log('Fetching video URLs from channel...');
-    try {
-        const output = execSync(`yt-dlp -i --flat-playlist -g "${CHANNEL_URL}"`, {
-            encoding: 'utf8',
-            stdio: ['pipe', 'pipe', 'pipe']
-        });
-        const urls = output.trim().split('\n').filter(url => url.trim().length > 0);
-        console.log(`Found ${urls.length} video URLs`);
-        return urls;
-    } catch (error) {
-        console.error('Error fetching video URLs:', error.message);
-        throw error;
+export function toVideo(data) {
+  if (!/^[\w-]{11}$/.test(data.id ?? '') || typeof data.title !== 'string') {
+    throw new Error('Metadata must contain a valid video ID and title');
+  }
+  if (!/^\d{8}$/.test(data.upload_date ?? '')) return null;
+  const links = (data.description ?? '').match(/https?:\/\/[^\s<>[\]"']+/g) ?? [];
+  return {
+    id: data.id,
+    title: data.title,
+    links: [...new Set(links.filter(link => !IGNORED_LINKS.has(link)))],
+    webpage_url: `https://www.youtube.com/watch?v=${data.id}`,
+    upload_date: data.upload_date,
+  };
+}
+
+function runYtDlp(args) {
+  return JSON.parse(execFileSync(process.env.YT_DLP_BIN || 'yt-dlp', [
+    '--js-runtimes', `node:${process.execPath}`, ...args,
+  ], {
+    encoding: 'utf8',
+    maxBuffer: 64 * 1024 * 1024,
+    timeout: 180_000,
+    stdio: ['ignore', 'pipe', 'inherit'],
+  }));
+}
+
+export function main(args = process.argv.slice(2)) {
+  if (args.some(arg => !['--offline', '--refresh'].includes(arg)) ||
+      (args.includes('--offline') && args.includes('--refresh'))) {
+    throw new Error('Usage: node populate.js [--offline | --refresh]');
+  }
+  fs.mkdirSync(METADATA_DIR, { recursive: true });
+  const cache = new Map();
+  for (const filename of fs.readdirSync(METADATA_DIR).filter(name => name.endsWith('.info.json')).sort()) {
+    const file = path.join(METADATA_DIR, filename);
+    const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+    toVideo(data);
+    cache.set(data.id, { file, data });
+  }
+
+  if (!args.includes('--offline')) {
+    console.log('Fetching video list from channel...');
+    const playlist = runYtDlp(['--flat-playlist', '--dump-single-json', CHANNEL_URL]);
+    const ids = [...new Set(flattenEntries(playlist)
+      .map(entry => extractVideoId(entry.url ?? entry.webpage_url ?? ''))
+      .filter(Boolean))];
+    if (!ids.length) throw new Error('The channel returned no video IDs; refusing to publish an incomplete update');
+    const pending = ids.filter(id => args.includes('--refresh') || !cache.has(id) || !cache.get(id).data.upload_date);
+    console.log(`Channel videos: ${ids.length}; metadata to fetch: ${pending.length}`);
+    const failures = [];
+    for (const [index, id] of pending.entries()) {
+      console.log(`Fetching metadata ${index + 1}/${pending.length}: ${id}`);
+      try {
+        const raw = runYtDlp(['--skip-download', '--ignore-no-formats-error', '--dump-single-json',
+          `https://www.youtube.com/watch?v=${id}`]);
+        const data = {
+          id: raw.id, title: raw.title, description: raw.description ?? '',
+          webpage_url: `https://www.youtube.com/watch?v=${id}`, upload_date: raw.upload_date,
+        };
+        if (data.id !== id) throw new Error('Fetched metadata has an unexpected video ID');
+        toVideo(data);
+        const file = cache.get(id)?.file ?? path.join(METADATA_DIR, `${id}.info.json`);
+        fs.writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`);
+        cache.set(id, { file, data });
+      } catch (error) {
+        console.error(`Failed to fetch ${id}: ${error.message}`);
+        failures.push(id);
+      }
     }
+    if (failures.length) throw new Error(`Metadata fetch failed for ${failures.length} videos; retry before publishing`);
+  }
+
+  const videos = [...cache.values()].map(({ data }) => toVideo(data)).filter(Boolean);
+  videos.sort((a, b) => b.upload_date.localeCompare(a.upload_date) || a.id.localeCompare(b.id));
+  if (!videos.length) throw new Error('No dated videos found; refusing to overwrite the database');
+  fs.writeFileSync(OUTPUT, `${JSON.stringify(videos, null, 2)}\n`);
+  console.log(`Saved ${videos.length} videos to src/all_videos.json`);
 }
 
-// Function to fetch metadata for a video URL
-function fetchVideoMetadata(url) {
-    console.log(`Fetching metadata for: ${url}`);
-    try {
-        execSync(`yt-dlp --skip-download --write-info-json --paths ${METADATAS_DIR} "${url}"`, {
-            encoding: 'utf8',
-            stdio: ['pipe', 'pipe', 'pipe']
-        });
-    } catch (error) {
-        console.error(`Error fetching metadata for ${url}:`, error.message);
-        // Continue with other videos even if one fails
-    }
+if (process.argv[1] && fs.realpathSync(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  try {
+    main();
+  } catch (error) {
+    console.error(error.message);
+    process.exitCode = 1;
+  }
 }
-
-// Function to extract and filter links from the description
-function getFilteredLinks(description) {
-    // Regular expression to match URLs
-    const urlRegex = /(https?:\/\/[^\s<>\[\]"']+)/g;
-
-    // Find all links in the description
-    const links = description.match(urlRegex) || [];
-
-    // Filter out unwanted links
-    return links.filter(link => !linksToIgnore.includes(link));
-}
-
-// Function to process each JSON file
-function processFile(filePath) {
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-    return {
-        id: data.id,
-        title: data.title,
-        links: getFilteredLinks(data.description),
-        webpage_url: data.webpage_url,
-        upload_date: data.upload_date
-    };
-}
-
-// Main function
-async function main() {
-    // Step 1: Fetch all video URLs from the channel
-    const urls = fetchVideoUrls();
-
-    // Step 2: Extract video IDs and identify which ones need metadata
-    const videoIds = urls.map(url => extractVideoId(url)).filter(id => id !== null);
-    const newVideos = videoIds.filter(id => !hasMetadataFile(id));
-
-    console.log(`Total videos: ${videoIds.length}`);
-    console.log(`Cached videos: ${videoIds.length - newVideos.length}`);
-    console.log(`New videos to fetch: ${newVideos.length}`);
-
-    // Step 3: Fetch metadata only for new videos
-    if (newVideos.length > 0) {
-        console.log('\nFetching metadata for new videos...');
-        const newUrls = urls.filter(url => {
-            const id = extractVideoId(url);
-            return id && newVideos.includes(id);
-        });
-
-        for (const url of newUrls) {
-            fetchVideoMetadata(url);
-        }
-        console.log('Finished fetching metadata for new videos.\n');
-    } else {
-        console.log('All videos are already cached.\n');
-    }
-
-    // Step 4: Process all metadata files and generate the output
-    const files = await glob('metadatas/*.json');
-    var videos = files.map(processFile);
-    // Filter out videos with no upload date
-    console.log(`Processing ${videos.length} metadata files...`);
-    videos = videos.filter(video => video.upload_date);
-    console.log(`${videos.length} videos have upload dates.`);
-    // Sort videos by upload_date in descending order (newest first)
-    videos.sort((a, b) => b.upload_date.localeCompare(a.upload_date));
-
-    // Write the sorted videos to a single JSON file
-    fs.writeFileSync('src/all_videos.json', JSON.stringify(videos, null, 2));
-    console.log('All videos have been processed and saved to src/all_videos.json');
-}
-
-main();

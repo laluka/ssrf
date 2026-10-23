@@ -1,4 +1,3 @@
-import React from 'react';
 import { Code2, Shield, Globe, Lock, Server, Wifi, Database } from 'lucide-react';
 
 export function Background() {

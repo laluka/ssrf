@@ -9,5 +9,5 @@ export interface StreamData {
 }
 
 export interface ClickOutsideHandler {
-  (ref: RefObject<HTMLElement>, handler: () => void): void;
+  (ref: RefObject<HTMLElement | null>, handler: () => void): void;
 }

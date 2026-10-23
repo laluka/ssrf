@@ -1,4 +1,4 @@
-name: Deploy SSRF with Custom Build Process
+name: Deploy SSRF
 
 on:
   push:
@@ -20,27 +20,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v7
         with:
-          node-version: '22' # Adjust the Node.js version as needed
+          node-version: '24'
+          cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --include=dev
 
-#      - name: Populate database
-#        run: |
-#          npm run populate
-
-      - name: Build the site
-        run: npm run build
+      - name: Validate and build the site
+        run: npm run check
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
-          path: ./docs # Ensure this matches your build output directory
+          path: ./docs
 
   # Deployment job
   deploy:
@@ -52,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
