@@ -52,8 +52,8 @@ npm run check
 npm audit
 ```
 
-The importer reads the channel's videos, streams, and Shorts, fetching metadata
-only for uncached or undated videos by default. It preserves cached videos that
+The importer reads only the channel's videos and streams tabs, excluding Shorts.
+It fetches metadata only for uncached or undated videos by default and preserves cached videos that
 are no longer listed publicly. New metadata stores only the fields used by this
 site; resource links are deduplicated and output ordering is deterministic.
 Failed fetches leave the generated database unchanged and exit with an error.

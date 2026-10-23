@@ -6,7 +6,10 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const METADATA_DIR = path.join(ROOT, 'metadatas');
 const OUTPUT = path.join(ROOT, 'src/all_videos.json');
-const CHANNEL_URL = 'https://www.youtube.com/@TheLaluka';
+const CHANNEL_URLS = [
+  'https://www.youtube.com/@TheLaluka/videos',
+  'https://www.youtube.com/@TheLaluka/streams',
+];
 const IGNORED_LINKS = new Set([
   'https://discord.gg/tH8wEpNKWS',
   'https://linktr.ee/TheLaluka',
@@ -15,6 +18,7 @@ const IGNORED_LINKS = new Set([
 export function extractVideoId(value) {
   try {
     const url = new URL(value);
+    if (url.pathname.startsWith('/shorts/')) return null;
     const id = url.searchParams.get('v') ?? url.pathname.split('/').filter(Boolean).at(-1);
     return /^[\w-]{11}$/.test(id ?? '') ? id : null;
   } catch {
@@ -30,6 +34,7 @@ export function toVideo(data) {
   if (!/^[\w-]{11}$/.test(data.id ?? '') || typeof data.title !== 'string') {
     throw new Error('Metadata must contain a valid video ID and title');
   }
+  if (data.is_short === true || data.webpage_url?.includes('/shorts/')) return null;
   if (!/^\d{8}$/.test(data.upload_date ?? '')) return null;
   const links = (data.description ?? '').match(/https?:\/\/[^\s<>[\]"']+/g) ?? [];
   return {
@@ -68,8 +73,9 @@ export function main(args = process.argv.slice(2)) {
 
   if (!args.includes('--offline')) {
     console.log('Fetching video list from channel...');
-    const playlist = runYtDlp(['--flat-playlist', '--dump-single-json', CHANNEL_URL]);
-    const ids = [...new Set(flattenEntries(playlist)
+    const entries = CHANNEL_URLS.flatMap(url =>
+      flattenEntries(runYtDlp(['--flat-playlist', '--dump-single-json', url])));
+    const ids = [...new Set(entries
       .map(entry => extractVideoId(entry.url ?? entry.webpage_url ?? ''))
       .filter(Boolean))];
     if (!ids.length) throw new Error('The channel returned no video IDs; refusing to publish an incomplete update');

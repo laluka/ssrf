@@ -11,12 +11,12 @@ const video = {
   description: 'https://example.com https://example.com https://linktr.ee/TheLaluka',
 };
 
-test('imports watch, Shorts and short URLs, rejecting invalid IDs', () => {
+test('imports watch and youtu.be URLs, excluding Shorts and invalid IDs', () => {
   for (const url of [
     'https://www.youtube.com/watch?v=abcdefghijk&list=example',
-    'https://www.youtube.com/shorts/abcdefghijk',
     'https://youtu.be/abcdefghijk',
   ]) assert.equal(extractVideoId(url), video.id);
+  assert.equal(extractVideoId('https://www.youtube.com/shorts/abcdefghijk'), null);
   assert.equal(extractVideoId('not a URL'), null);
   assert.equal(extractVideoId('https://www.youtube.com/watch?v=invalid'), null);
 });
@@ -32,6 +32,12 @@ test('extracts unique resource links and skips undated videos', () => {
   assert.throws(() => toVideo({ title: 'Missing ID' }), /valid video ID/);
 });
 
+test('excludes cached Shorts without excluding short regular videos', () => {
+  assert.equal(toVideo({ ...video, webpage_url: 'https://www.youtube.com/shorts/abcdefghijk' }), null);
+  assert.equal(toVideo({ ...video, is_short: true }), null);
+  assert.equal(toVideo({ ...video, duration: 30 }).id, video.id);
+});
+
 test('offline builds are reproducible and failed fetches preserve the database', t => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'ssrf-populate-'));
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));
@@ -39,6 +45,9 @@ test('offline builds are reproducible and failed fetches preserve the database',
   fs.mkdirSync(path.join(root, 'src'));
   fs.copyFileSync(new URL('../populate.js', import.meta.url), path.join(root, 'populate.mjs'));
   fs.writeFileSync(path.join(root, 'metadatas/example.info.json'), JSON.stringify(video));
+  fs.writeFileSync(path.join(root, 'metadatas/short.info.json'), JSON.stringify({
+    ...video, id: 'shorts12345', webpage_url: 'https://www.youtube.com/shorts/shorts12345',
+  }));
   const script = path.join(root, 'populate.mjs');
   const env = { ...process.env, YT_DLP_BIN: path.join(root, 'missing-yt-dlp') };
   execFileSync(process.execPath, [script, '--offline'], { env });
